@@ -1,0 +1,1908 @@
+fileFormatVersion: 2
+guid: d887ce2eb00d2844e92dc3bea039101f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9048084524198691554
+    second: GG_Gacha_AB_Animation_0
+  - first:
+      213: 1297800539224280045
+    second: GG_Gacha_AB_Animation_1
+  - first:
+      213: 7162972171492313853
+    second: GG_Gacha_AB_Animation_2
+  - first:
+      213: 2757957289868765057
+    second: GG_Gacha_AB_Animation_3
+  - first:
+      213: -5797948492100564091
+    second: GG_Gacha_AB_Animation_4
+  - first:
+      213: 1978157419537413463
+    second: GG_Gacha_AB_Animation_5
+  - first:
+      213: -5532487741335569140
+    second: GG_Gacha_AB_Animation_6
+  - first:
+      213: 106256072976858755
+    second: GG_Gacha_AB_Animation_7
+  - first:
+      213: -545522380271720189
+    second: GG_Gacha_AB_Animation_8
+  - first:
+      213: 6406018679860994590
+    second: GG_Gacha_AB_Animation_9
+  - first:
+      213: -2377020718398924147
+    second: GG_Gacha_AB_Animation_10
+  - first:
+      213: -5739004511630649637
+    second: GG_Gacha_AB_Animation_11
+  - first:
+      213: -8395825396977410384
+    second: GG_Gacha_AB_Animation_12
+  - first:
+      213: 5880546284223804415
+    second: GG_Gacha_AB_Animation_13
+  - first:
+      213: -4473332612743352952
+    second: GG_Gacha_AB_Animation_14
+  - first:
+      213: -823896468143716646
+    second: GG_Gacha_AB_Animation_15
+  - first:
+      213: 8948898779316167258
+    second: GG_Gacha_AB_Animation_16
+  - first:
+      213: -5840843858121584376
+    second: GG_Gacha_AB_Animation_17
+  - first:
+      213: 8070519323744244972
+    second: GG_Gacha_AB_Animation_18
+  - first:
+      213: -4665337030622191514
+    second: GG_Gacha_AB_Animation_19
+  - first:
+      213: -3968801376788615567
+    second: GG_Gacha_AB_Animation_20
+  - first:
+      213: 2128190178163780029
+    second: GG_Gacha_AB_Animation_21
+  - first:
+      213: 1253958702278254809
+    second: GG_Gacha_AB_Animation_22
+  - first:
+      213: 8514311950171842085
+    second: GG_Gacha_AB_Animation_23
+  - first:
+      213: 9201088451892036559
+    second: GG_Gacha_AB_Animation_24
+  - first:
+      213: -6349812578955534777
+    second: GG_Gacha_AB_Animation_25
+  - first:
+      213: -2895443955860289550
+    second: GG_Gacha_AB_Animation_26
+  - first:
+      213: 4755492340745312452
+    second: GG_Gacha_AB_Animation_27
+  - first:
+      213: 2511976610046987029
+    second: GG_Gacha_AB_Animation_28
+  - first:
+      213: -4757968753472751626
+    second: GG_Gacha_AB_Animation_29
+  - first:
+      213: -8879519010496042495
+    second: GG_Gacha_AB_Animation_30
+  - first:
+      213: -1862255662849534127
+    second: GG_Gacha_AB_Animation_31
+  - first:
+      213: 6733279946973558237
+    second: GG_Gacha_AB_Animation_32
+  - first:
+      213: 624446295122931059
+    second: GG_Gacha_AB_Animation_33
+  - first:
+      213: 3809068357327543812
+    second: GG_Gacha_AB_Animation_34
+  - first:
+      213: -3626923612642123214
+    second: GG_Gacha_AB_Animation_35
+  - first:
+      213: -163392917398652435
+    second: GG_Gacha_AB_Animation_36
+  - first:
+      213: -7843345691549663550
+    second: GG_Gacha_AB_Animation_37
+  - first:
+      213: 7304734010923815038
+    second: GG_Gacha_AB_Animation_38
+  - first:
+      213: -5272427749263640422
+    second: GG_Gacha_AB_Animation_39
+  - first:
+      213: -6587307269714526591
+    second: GG_Gacha_AB_Animation_40
+  - first:
+      213: -151712033798553130
+    second: GG_Gacha_AB_Animation_41
+  - first:
+      213: -3302000124501122109
+    second: GG_Gacha_AB_Animation_42
+  - first:
+      213: -2145622639593894157
+    second: GG_Gacha_AB_Animation_43
+  - first:
+      213: 347088423801764998
+    second: GG_Gacha_AB_Animation_44
+  - first:
+      213: 5588689590592304526
+    second: GG_Gacha_AB_Animation_45
+  - first:
+      213: 2251873017656167199
+    second: GG_Gacha_AB_Animation_46
+  - first:
+      213: 2159209676229872200
+    second: GG_Gacha_AB_Animation_47
+  - first:
+      213: -6244523734213491897
+    second: GG_Gacha_AB_Animation_48
+  - first:
+      213: 4008659389950215066
+    second: GG_Gacha_AB_Animation_49
+  - first:
+      213: -6136291551221975102
+    second: GG_Gacha_AB_Animation_50
+  - first:
+      213: -8436038020103198444
+    second: GG_Gacha_AB_Animation_51
+  - first:
+      213: -6732884998659283051
+    second: GG_Gacha_AB_Animation_52
+  - first:
+      213: 7330392206074341156
+    second: GG_Gacha_AB_Animation_53
+  - first:
+      213: -6530283125931118378
+    second: GG_Gacha_AB_Animation_54
+  - first:
+      213: 5265694387039927321
+    second: GG_Gacha_AB_Animation_55
+  - first:
+      213: -6528658207041145884
+    second: GG_Gacha_AB_Animation_56
+  - first:
+      213: -8500524585424601651
+    second: GG_Gacha_AB_Animation_57
+  - first:
+      213: 2096301382656954375
+    second: GG_Gacha_AB_Animation_58
+  - first:
+      213: -4679316596020790930
+    second: GG_Gacha_AB_Animation_59
+  - first:
+      213: -5443544111609004676
+    second: GG_Gacha_AB_Animation_60
+  - first:
+      213: 6045040520382028101
+    second: GG_Gacha_AB_Animation_61
+  - first:
+      213: -6065052132865246105
+    second: GG_Gacha_AB_Animation_62
+  - first:
+      213: -1392919907556085461
+    second: GG_Gacha_AB_Animation_63
+  - first:
+      213: 3262811723471752304
+    second: GG_Gacha_AB_Animation_64
+  - first:
+      213: 6692636238527540492
+    second: GG_Gacha_AB_Animation_65
+  - first:
+      213: -4481439848053564429
+    second: GG_Gacha_AB_Animation_66
+  - first:
+      213: -8474236694758999530
+    second: GG_Gacha_AB_Animation_67
+  - first:
+      213: 7733825818608732634
+    second: GG_Gacha_AB_Animation_68
+  - first:
+      213: 6873532500712630777
+    second: GG_Gacha_AB_Animation_69
+  - first:
+      213: -8218755634986238520
+    second: GG_Gacha_AB_Animation_70
+  - first:
+      213: -7524742959531469249
+    second: GG_Gacha_AB_Animation_71
+  - first:
+      213: -5461142165965646469
+    second: GG_Gacha_AB_Animation_72
+  - first:
+      213: 5089247264986862957
+    second: GG_Gacha_AB_Animation_73
+  - first:
+      213: 9105616639177928527
+    second: GG_Gacha_AB_Animation_74
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 920
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d7d65601fbe6280800000000000000
+      internalID: -9048084524198691554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 920
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb06c1e6b6b20210800000000000000
+      internalID: 1297800539224280045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_2
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 920
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfacec92d3df76360800000000000000
+      internalID: 7162972171492313853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_3
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 920
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187a358fa8b364620800000000000000
+      internalID: 2757957289868765057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_4
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 920
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b8556b09c898fa0800000000000000
+      internalID: -5797948492100564091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_5
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 920
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755b45d31b3d37b10800000000000000
+      internalID: 1978157419537413463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_6
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 920
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d7d7d26b7a833b0800000000000000
+      internalID: -5532487741335569140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_7
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 920
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e730dd55f797100800000000000000
+      internalID: 106256072976858755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_8
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 920
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309e0e2194aed68f0800000000000000
+      internalID: -545522380271720189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_9
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 920
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12a1ad7c00c6e850800000000000000
+      internalID: 6406018679860994590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_10
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 920
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a96182040230fd0800000000000000
+      internalID: -2377020718398924147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_11
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 920
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd614ef9dc5fa50b0800000000000000
+      internalID: -5739004511630649637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_12
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 920
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be55f0d8490c7b80800000000000000
+      internalID: -8395825396977410384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_13
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 920
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3376460b5eb9150800000000000000
+      internalID: 5880546284223804415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_14
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 920
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d234f70b78be1c0800000000000000
+      internalID: -4473332612743352952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_15
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 920
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad64894078ee094f0800000000000000
+      internalID: -823896468143716646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_16
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 920
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a522118c600e03c70800000000000000
+      internalID: 8948898779316167258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_17
+      rect:
+        serializedVersion: 2
+        x: 4250
+        y: 920
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8011428057721fea0800000000000000
+      internalID: -5840843858121584376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_18
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 920
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce493b4c09e300070800000000000000
+      internalID: 8070519323744244972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_19
+      rect:
+        serializedVersion: 2
+        x: 4750
+        y: 920
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660e94c40b4614fb0800000000000000
+      internalID: -4665337030622191514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_20
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 920
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17eee68ec2cfbe8c0800000000000000
+      internalID: -3968801376788615567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_21
+      rect:
+        serializedVersion: 2
+        x: 5250
+        y: 920
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db96deff0b9d88d10800000000000000
+      internalID: 2128190178163780029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_22
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 920
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d02e44cbc4f66110800000000000000
+      internalID: 1253958702278254809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_23
+      rect:
+        serializedVersion: 2
+        x: 5750
+        y: 920
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5262bd0ab99e82670800000000000000
+      internalID: 8514311950171842085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_24
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 920
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc349f19235d0bf70800000000000000
+      internalID: 9201088451892036559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 460
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e5c092a1fe0e7a0800000000000000
+      internalID: -6349812578955534777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_26
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 460
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f745e7101151d7d0800000000000000
+      internalID: -2895443955860289550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_27
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 460
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c817369617eef140800000000000000
+      internalID: 4755492340745312452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_28
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 460
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bc0f5fa655cd220800000000000000
+      internalID: 2511976610046987029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_29
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 460
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f739d4a0ac48fdb0800000000000000
+      internalID: -4757968753472751626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_30
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 460
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a2e03718c95c480800000000000000
+      internalID: -8879519010496042495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_31
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 460
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157d4ee5750f726e0800000000000000
+      internalID: -1862255662849534127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_32
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 460
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5be94ff6a617d50800000000000000
+      internalID: 6733279946973558237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_33
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 460
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d6c12d89a7aa800800000000000000
+      internalID: 624446295122931059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_34
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 460
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e50bb5d778cd430800000000000000
+      internalID: 3809068357327543812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_35
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 460
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2326df8c0349aadc0800000000000000
+      internalID: -3626923612642123214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_36
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 460
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de973afd1038bbdf0800000000000000
+      internalID: -163392917398652435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_37
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 460
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce779c36a6d62390800000000000000
+      internalID: -7843345691549663550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_38
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 460
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7014db71e0af5560800000000000000
+      internalID: 7304734010923815038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_39
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 460
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a987a3585e294d6b0800000000000000
+      internalID: -5272427749263640422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_40
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 460
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e315270fe2594a0800000000000000
+      internalID: -6587307269714526591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_41
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 460
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1094585b205edf0800000000000000
+      internalID: -151712033798553130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_42
+      rect:
+        serializedVersion: 2
+        x: 4250
+        y: 460
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3a0daa160fc22d0800000000000000
+      internalID: -3302000124501122109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_43
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 460
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe48f8c3973932e0800000000000000
+      internalID: -2145622639593894157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_44
+      rect:
+        serializedVersion: 2
+        x: 4750
+        y: 460
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68cba5e151b11d400800000000000000
+      internalID: 347088423801764998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_45
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 460
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e857d2f82930f8d40800000000000000
+      internalID: 5588689590592304526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_46
+      rect:
+        serializedVersion: 2
+        x: 5250
+        y: 460
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bcea02492404f10800000000000000
+      internalID: 2251873017656167199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_47
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 460
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a8443b2cd07fd10800000000000000
+      internalID: 2159209676229872200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_48
+      rect:
+        serializedVersion: 2
+        x: 5750
+        y: 460
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74385b6afbef659a0800000000000000
+      internalID: -6244523734213491897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_49
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 460
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a934483f97e91a730800000000000000
+      internalID: 4008659389950215066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7fe2b785387daa0800000000000000
+      internalID: -6136291551221975102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_51
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4192f04ed1c2dea80800000000000000
+      internalID: -8436038020103198444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_52
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5976b5d14ccff82a0800000000000000
+      internalID: -6732884998659283051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_53
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 0
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4276a539fd8cab560800000000000000
+      internalID: 7330392206074341156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_54
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0f52c8816cf55a0800000000000000
+      internalID: -6530283125931118378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_55
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 0
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c784b6521831940800000000000000
+      internalID: 5265694387039927321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_56
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3bf5573fb8565a0800000000000000
+      internalID: -6528658207041145884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_57
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 0
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdba416de1180a80800000000000000
+      internalID: -8500524585424601651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_58
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7009d67300f871d10800000000000000
+      internalID: 2096301382656954375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_59
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 0
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e693796195abf0fb0800000000000000
+      internalID: -4679316596020790930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_60
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 0
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d306cb875a474b0800000000000000
+      internalID: -5443544111609004676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_61
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 0
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5499636435c44e350800000000000000
+      internalID: 6045040520382028101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_62
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c775c183b94dba0800000000000000
+      internalID: -6065052132865246105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_63
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 0
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21bc8d59ba5bace0800000000000000
+      internalID: -1392919907556085461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_64
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 0
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c8382b9f5d74d20800000000000000
+      internalID: 3262811723471752304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_65
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 0
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d2758233501ec50800000000000000
+      internalID: 6692636238527540492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_66
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 0
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb9c7ea33abec1c0800000000000000
+      internalID: -4481439848053564429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_67
+      rect:
+        serializedVersion: 2
+        x: 4250
+        y: 0
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a3f42ef96756a80800000000000000
+      internalID: -8474236694758999530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_68
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 0
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad90be04b91145b60800000000000000
+      internalID: 7733825818608732634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_69
+      rect:
+        serializedVersion: 2
+        x: 4750
+        y: 0
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f924115461b36f50800000000000000
+      internalID: 6873532500712630777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_70
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 0
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdb7e87b4d11fd80800000000000000
+      internalID: -8218755634986238520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_71
+      rect:
+        serializedVersion: 2
+        x: 5250
+        y: 0
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f365107652eb29790800000000000000
+      internalID: -7524742959531469249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_72
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 0
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75d5b962202634b0800000000000000
+      internalID: -5461142165965646469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_73
+      rect:
+        serializedVersion: 2
+        x: 5750
+        y: 0
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d659bab6c63a0a640800000000000000
+      internalID: 5089247264986862957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Gacha_AB_Animation_74
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 0
+        width: 250
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f2617f616ad5e70800000000000000
+      internalID: 9105616639177928527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
