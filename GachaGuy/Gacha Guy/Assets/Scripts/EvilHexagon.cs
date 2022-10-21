@@ -18,4 +18,11 @@ public class EvilHexagon : MonoBehaviour
             gm.playerDamaged(1);
         }
     }
+
+    public void rip()
+    {
+        gm.ps.WAL += (25 + (2 * gm.ps.LCK)); //Pays a base 25 cash + bonus based on luck
+
+        Destroy(gameObject);
+    }
 }

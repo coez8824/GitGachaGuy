@@ -16,7 +16,7 @@ public class PlayerStats : MonoBehaviour
     public int PAM; //Player damage, is added to the gun damage
     public float SPD; //Player speed
     public float HND; //Gun handling, improves gun ACC (Closer HND is to 0, the less deviation occurs. I.E. HND = 0 means perfect accuracy)
-    public float LCK; //Affects drops and money gain
+    public int LCK; //Affects drops and money gain
     public float RCH; //Shield recharge delay
 
     //Vars most often changed

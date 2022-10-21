@@ -60,6 +60,14 @@ public class GunScript : MonoBehaviour
             Vector2 rayVec = -firePoint.up + (transform.rotation * new Vector3(r.x, r.y, 0)); //Apply deviation
 
             RaycastHit2D hit = Physics2D.Raycast(firePoint.transform.position, rayVec, 10f); //Actual raycast
+
+            if(hit)
+            {
+                if (hit.transform.tag == "HEX")
+                    hit.transform.GetComponent<EvilHexagon>().rip();
+            }
+
+
             Debug.DrawRay(firePoint.transform.position, rayVec * 10f, Color.red); //Debug raycast
 
             canShoot=false;
