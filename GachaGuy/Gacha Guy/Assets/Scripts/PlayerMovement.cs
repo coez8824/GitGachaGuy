@@ -1,28 +1,34 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-//using UnityEngine.InputSystem;
 
 public class PlayerMovement : MonoBehaviour
 {
-    public float playerSpeed;
+    private GameManager gm;
+
+    //public PlayerStats playerStats;
+
+    private float playerSpeed;
 
     public MovementJoystick movementJoystick;
 
     public MovementJoystick lookJoystick;
 
-    public GunScript gunScript;
+    //public GunScript gunScript;
 
     private Rigidbody2D rb;
 
     private void Start()
     {
+        gm = FindObjectOfType<GameManager>();
         rb = GetComponent<Rigidbody2D>();
     }
 
     private void FixedUpdate()
     {
-        if(movementJoystick.joystickVec.y != 0)
+        playerSpeed = gm.ps.SPD;
+
+        if (movementJoystick.joystickVec.y != 0)
         {
             rb.velocity = new Vector2(movementJoystick.joystickVec.x * playerSpeed, movementJoystick.joystickVec.y * playerSpeed);
         }
@@ -38,8 +44,8 @@ public class PlayerMovement : MonoBehaviour
 
             rb.SetRotation(playerRotation);
 
-            if (gunScript.canShoot)
-              gunScript.shoot();
+            if (gm.gs.canShoot)
+              gm.gs.shoot();
         }
     }
 }
