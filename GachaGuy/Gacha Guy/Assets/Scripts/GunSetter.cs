@@ -6,6 +6,8 @@ public class GunSetter : MonoBehaviour
 {
     private GameManager gm;
 
+    public GunScript GS;
+
     private void Start()
     {
         gm = GetComponent<GameManager>();
@@ -15,7 +17,7 @@ public class GunSetter : MonoBehaviour
     {
         if(s == "Pistol")
         {
-            gm.gs.setStats(1, 1, 7, .1f);
+            GS.setStats(1, 1, 7, .1f);
         }
         else
         {

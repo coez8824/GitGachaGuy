@@ -9,11 +9,16 @@ public class GunScript : MonoBehaviour
     private GameManager gm;
 
     //GUN STATS - Gun stats are set to a gun and are not modified by any other method
+    [SerializeField]
     private int DAM; //Damage
+    [SerializeField]
     private float RAT; //Fire rate
+    [SerializeField]
     private int CLP; //Max ammo in clip
+    [SerializeField]
     private float ACC; //Gun accuracy
 
+    [SerializeField]
     private int curr; //Current ammo in clip
 
     public bool canShoot; //Whether or not the gun can shoot
@@ -26,8 +31,6 @@ public class GunScript : MonoBehaviour
         gm = FindObjectOfType<GameManager>();
 
         canShoot = true;
-
-        curr = CLP;
     }
 
     
@@ -38,6 +41,8 @@ public class GunScript : MonoBehaviour
         RAT = r;
         CLP = c;
         ACC = a;
+
+        curr = CLP;
     }
 
     void FixedUpdate()
@@ -77,10 +82,18 @@ public class GunScript : MonoBehaviour
     {
         if(gm.ps.AMM != 0)
         {
-            //STILL NEEDS TO ACCOUNT FOR THE TOTAL AMMO LEFT BEING LESS THAN CLP
+            int a = CLP - curr;
 
-            curr = CLP;
-            gm.ps.AMM -= (CLP - curr);
+            if(gm.ps.AMM >= a)
+            {
+                curr = CLP;
+                gm.ps.AMM -= a;
+            }
+            else if ((gm.ps.AMM < a))
+            {
+                curr += gm.ps.AMM;
+                gm.ps.AMM = 0;
+            }
         }
         else
         {
