@@ -1,5 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Security.Cryptography;
+using UnityEditorInternal;
 using UnityEngine;
 using UnityEngine.XR;
 
@@ -9,13 +11,15 @@ public class GameManager : MonoBehaviour
     public GunScript gs;
     public GunSetter gSetter;
 
+    private bool recharging;
+
     // Start is called before the first frame update
     void Start()
     {
         testDEF();
     }
 
-    public void testDEF()
+    public void testDEF() //Default stats set up for testing
     {
         ps.setHTH(100);
         ps.setSHD(50);
@@ -24,6 +28,7 @@ public class GameManager : MonoBehaviour
         ps.SPD = 10;
         ps.HND = 1;
         ps.LCK = 0;
+        ps.RCH = 10;
 
         ps.currHTH = ps.getHTH();
         ps.currSHD = ps.getSHD();
@@ -43,17 +48,54 @@ public class GameManager : MonoBehaviour
         {
             Debug.Log("GAME OVER");
         }
+
+        /*if(recharging)
+            StartCoroutine(rechargeShield());*/
     }
 
     public void playerDamaged(int i)
     {
-        if(ps.currSHD > 0)
+        //Debug.Log("Hit for " + i);
+
+        recharging = false;
+
+        if (ps.currSHD > 0)
         {
-            ps.currSHD--;
+            ps.currSHD -= i;
         }
         else
         {
-            ps.currHTH--;
+            ps.currHTH -= i;
         }
+
+        if(!recharging)
+            StartCoroutine(startRecharge());
+    }
+
+    IEnumerator startRecharge()
+    {
+        yield return new WaitForSeconds(ps.RCH);
+
+        recharging = true;
+        StartCoroutine(rechargeShield());
+    }
+
+    IEnumerator rechargeShield()
+    {
+        yield return new WaitForSeconds(1);
+
+        if (!recharging)
+            yield break;
+
+        if(ps.currSHD < ps.getSHD())
+        {
+            ps.currSHD++;
+        }
+        else
+        {
+            yield break;
+        }
+
+        StartCoroutine(rechargeShield());
     }
 }
