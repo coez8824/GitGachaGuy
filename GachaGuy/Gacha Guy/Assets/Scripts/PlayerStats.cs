@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class PlayerStats : MonoBehaviour
 {
+    private GameManager gm;
+
     //This script will hold the modifiable variables affecting the player
 
     //Private vars
@@ -29,21 +31,9 @@ public class PlayerStats : MonoBehaviour
     //Functions
     private void Start()
     {
-        HTH = 100;
-        SHD = 50;
+        gm = GetComponent<GameManager>();
 
-        PAM = 0;
-        SPD = 10;
-        HND = 1;
-        LCK = 0;
-
-        currHTH = HTH;
-        currSHD = SHD;
-        WAL = 0;
-        AMM = 999;
-
-        gun1 = "Pistol";
-        gun2 = "";
+        
     }
 
     public int getHTH()
@@ -51,8 +41,18 @@ public class PlayerStats : MonoBehaviour
         return HTH;
     }
 
+    public void setHTH(int i)
+    {
+        HTH = i;
+    }
+
     public int getSHD()
     {
         return SHD;
+    }
+
+    public void setSHD(int i)
+    {
+        SHD = i;
     }
 }

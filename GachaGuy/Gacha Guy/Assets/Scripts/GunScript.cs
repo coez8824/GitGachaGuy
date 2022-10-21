@@ -25,8 +25,6 @@ public class GunScript : MonoBehaviour
     {
         gm = FindObjectOfType<GameManager>();
 
-        //Default stats
-        setStats(1, 1, 7, .5f);
         canShoot = true;
 
         curr = CLP;
