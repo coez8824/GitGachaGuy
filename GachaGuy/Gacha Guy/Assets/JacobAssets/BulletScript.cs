@@ -2,8 +2,14 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+//Code quaratined with "//-" is code added by Zoom
+
 public class BulletScript : MonoBehaviour
 {
+    //-
+    private GameManager gm;
+    //-
+
     float moveSpeed = 20f;
     Rigidbody2D rb;
     private Transform target;
@@ -13,6 +19,11 @@ public class BulletScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        //-
+        gm = FindObjectOfType<GameManager>();
+        //-
+
+
         enemy = GameObject.FindWithTag("Shooter");
         rb = GetComponent<Rigidbody2D>();
         target = GameObject.FindWithTag("Player").transform;
@@ -34,6 +45,10 @@ public class BulletScript : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Player"))
         {
+            //-
+            gm.playerDamaged(1);
+            //-
+
             Destroy(gameObject);
         }
         else if(collision.gameObject.CompareTag("Wall"))

@@ -3,8 +3,15 @@ using System.Collections.Generic;
 using UnityEngine;
 using static UnityEngine.GraphicsBuffer;
 
+//Code quaratined with "//-" is code added by Zoom
+
 public class Collision : MonoBehaviour
 {
+    //-
+    private Color orig;
+    private SpriteRenderer sr;
+    //-
+
     public Transform target;
     private Animator enemyAnimator;
     public int health;
@@ -13,6 +20,11 @@ public class Collision : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        //-
+        sr = GetComponent<SpriteRenderer>();
+        orig = sr.color;
+        //-
+
         target = GameObject.FindWithTag("Player").transform;
         health = 5;
         enemyAnimator = GetComponent<Animator>();
@@ -49,4 +61,19 @@ public class Collision : MonoBehaviour
         Destroy(gameObject);
 
     }
+
+    //-
+    public void playerShot(int i)
+    {
+        health -= i;
+
+        sr.color = Color.red;
+        Invoke("ResetColor", .1f);
+    }
+
+    private void ResetColor()
+    {
+        sr.color = orig;
+    }
+    //-
 }

@@ -7,6 +7,7 @@ using UnityEngine.XR;
 public class GunScript : MonoBehaviour
 {
     private GameManager gm;
+    public ShakeBehavior sb;
 
     //GUN STATS - Gun stats are set to a gun and are not modified by any other method
     [SerializeField]
@@ -17,6 +18,9 @@ public class GunScript : MonoBehaviour
     private int CLP; //Max ammo in clip
     [SerializeField]
     private float ACC; //Gun accuracy
+
+    /*[SerializeField]
+    private float shake; //How hard the recoil shake is*/ //Not actually sure if I want this
 
     [SerializeField]
     private int curr; //Current ammo in clip
@@ -65,9 +69,11 @@ public class GunScript : MonoBehaviour
             {
                 if (hit.transform.tag == "HEX")
                     hit.transform.GetComponent<EvilHexagon>().rip();
+                if (hit.transform.tag == "Shooter")
+                    hit.transform.GetComponent<Collision>().playerShot(1);
             }
 
-
+            sb.TriggerShake();
             Debug.DrawRay(firePoint.transform.position, rayVec * 10f, Color.red); //Debug raycast
 
             canShoot=false;

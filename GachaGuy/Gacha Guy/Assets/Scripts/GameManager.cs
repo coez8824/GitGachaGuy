@@ -3,7 +3,9 @@ using System.Collections.Generic;
 using System.Security.Cryptography;
 using UnityEditorInternal;
 using UnityEngine;
+using UnityEngine.UI;
 using UnityEngine.XR;
+using TMPro;
 
 public class GameManager : MonoBehaviour
 {
@@ -11,11 +13,14 @@ public class GameManager : MonoBehaviour
     public GunScript gs;
     public GunSetter gSetter;
 
+    public TMP_Text moneyCount;
+
     private bool recharging;
 
     // Start is called before the first frame update
     void Start()
     {
+
         testDEF();
     }
 
@@ -51,6 +56,11 @@ public class GameManager : MonoBehaviour
 
         /*if(recharging)
             StartCoroutine(rechargeShield());*/
+
+        if (ps.WAL > 0)
+            moneyCount.text = "$" + ps.WAL.ToString();
+        else
+            moneyCount.text = "BROKE";
     }
 
     public void playerDamaged(int i)
