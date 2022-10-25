@@ -14,6 +14,8 @@ public class GameManager : MonoBehaviour
     public GunSetter gSetter;
 
     public TMP_Text moneyCount;
+    public GameObject gameoverTXT;
+    public GameObject player;
 
     private bool recharging;
 
@@ -22,6 +24,7 @@ public class GameManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        gameoverTXT.SetActive(false);
         dangerLevel = 0;
         testDEF();
     }
@@ -51,12 +54,10 @@ public class GameManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(dangerLevel>=500)
-            dangerLevel -= 500; //Danger level resets at 500 because the difficulty effect increases every 500
-
         if(ps.currHTH <= 0)
         {
-            Debug.Log("GAME OVER");
+            gameoverTXT.SetActive(true);
+            Destroy(player);
         }
 
         /*if(recharging)

@@ -10,7 +10,7 @@ public class Spawner : MonoBehaviour
     private GameManager gm;
     //-
 
-    public GameObject Enemy1, Boomba;
+    public GameObject Enemy1, Boomba, Gunba, Sawba, point1, point2, point3;
     Vector3 location;
 
     private float enemyInterval = 10f;
@@ -23,7 +23,7 @@ public class Spawner : MonoBehaviour
 
         StartCoroutine(spawnEnemy(enemyInterval, Enemy1));
         //StartCoroutine(spawnEnemy(enemyInterval, Boomba));
-        location = this.transform.position;
+        //location = this.transform.position;
     }
 
     //-
@@ -32,7 +32,10 @@ public class Spawner : MonoBehaviour
         if(enemyInterval != 0)
         {
             if (gm.dangerLevel >= 500)
+            {
+                gm.dangerLevel -= 500;
                 enemyInterval -= .1f;
+            }
         }
     }
     //-
@@ -49,9 +52,50 @@ public class Spawner : MonoBehaviour
     {
         //-
         setInterval();
+        spawn();
         //-
 
-        spawnEnemy(enemyInterval, Enemy1);
+        //spawnEnemy(enemyInterval, Enemy1);
         //spawnEnemy(enemyInterval, Boomba);
     }
+
+    //-
+    private void spawn()
+    {
+        int i;
+
+        if(enemyInterval <= 5)
+        {
+            i = 4;
+        }
+        else if (enemyInterval <= 8)
+        {
+            i = 3;
+        }
+        else
+        {
+            i = 2;
+        }
+
+        int j = Random.Range(0, i);
+
+        int k = Random.Range(0, 3);
+
+        if (k == 0)
+            location = point1.transform.position;
+        else if (k == 1)
+            location = point2.transform.position;
+        else if (k == 2)
+            location = point3.transform.position;
+
+        if (j == 0)
+            spawnEnemy(enemyInterval, Enemy1);
+        else if (j == 1)
+            spawnEnemy(enemyInterval, Sawba);
+        else if (j == 2)
+            spawnEnemy(enemyInterval, Gunba);
+        else if (j == 3)
+            spawnEnemy(enemyInterval, Boomba);
+    }
+    //-
 }

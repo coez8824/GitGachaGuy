@@ -26,7 +26,9 @@ public class BulletScript : MonoBehaviour
 
         enemy = GameObject.FindWithTag("Shooter");
         rb = GetComponent<Rigidbody2D>();
+
         target = GameObject.FindWithTag("Player").transform;
+
         moveDirection = (target.position - transform.position).normalized * moveSpeed;
         rb.velocity = new Vector2(moveDirection.x, moveDirection.y);
         Destroy(gameObject, 5f);

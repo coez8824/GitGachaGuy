@@ -25,6 +25,8 @@ public class GunScript : MonoBehaviour
     [SerializeField]
     private int curr; //Current ammo in clip
 
+    public bool inf; //Whether or not gun will use ammo from AMM 
+
     public bool canShoot; //Whether or not the gun can shoot
     public bool canReload; //Whether or not the player can reload
     private bool reloading; //If currently reloading
@@ -163,7 +165,11 @@ public class GunScript : MonoBehaviour
         {
             int a = CLP - curr;
 
-            if (gm.ps.AMM >= a)
+            if(inf)
+            {
+                curr = CLP;
+            }
+            else if (gm.ps.AMM >= a)
             {
                 curr = CLP;
                 gm.ps.AMM -= a;
@@ -277,7 +283,11 @@ public class GunScript : MonoBehaviour
     {
         int a = CLP - curr;
 
-        if (gm.ps.AMM >= a)
+        if (inf)
+        {
+            curr = CLP;
+        }
+        else if(gm.ps.AMM >= a)
         {
             curr = CLP;
             gm.ps.AMM -= a;
