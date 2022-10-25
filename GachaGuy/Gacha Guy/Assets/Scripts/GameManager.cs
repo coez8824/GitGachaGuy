@@ -52,7 +52,7 @@ public class GameManager : MonoBehaviour
     void Update()
     {
         if(dangerLevel>=500)
-            dangerLevel -= 500;
+            dangerLevel -= 500; //Danger level resets at 500 because the difficulty effect increases every 500
 
         if(ps.currHTH <= 0)
         {
@@ -62,7 +62,7 @@ public class GameManager : MonoBehaviour
         /*if(recharging)
             StartCoroutine(rechargeShield());*/
 
-        if (ps.WAL > 0)
+        if (ps.WAL > 0) //Displays money in moneyCount
             moneyCount.text = "$" + ps.WAL.ToString();
         else
             moneyCount.text = "BROKE";
@@ -74,43 +74,43 @@ public class GameManager : MonoBehaviour
 
         recharging = false;
 
-        if (ps.currSHD > 0)
+        if (ps.currSHD > 0) //Always damages shield first
         {
             ps.currSHD -= i;
         }
-        else
+        else //But damages health if there is no shield left
         {
             ps.currHTH -= i;
         }
 
-        if(!recharging)
+        if(!recharging) //If recharging isn't true, start the shield recharge
             StartCoroutine(startRecharge());
     }
 
     IEnumerator startRecharge()
     {
-        yield return new WaitForSeconds(ps.RCH);
+        yield return new WaitForSeconds(ps.RCH); //Delayed based on RCH stat
 
         recharging = true;
-        StartCoroutine(rechargeShield());
+        StartCoroutine(rechargeShield()); //Actual shield recharge
     }
 
     IEnumerator rechargeShield()
     {
-        yield return new WaitForSeconds(1);
+        yield return new WaitForSeconds(1); //By every 1 second
 
-        if (!recharging)
+        if (!recharging) //Cancels if player is hit
             yield break;
 
-        if(ps.currSHD < ps.getSHD())
+        if(ps.currSHD < ps.getSHD()) //Prevents from going over max
         {
-            ps.currSHD++;
+            ps.currSHD++; //Increases by 1
         }
         else
         {
-            yield break;
+            yield break; //Stops recharge if shield is full
         }
 
-        StartCoroutine(rechargeShield());
+        StartCoroutine(rechargeShield()); //Continues recharge if shield isn't full
     }
 }

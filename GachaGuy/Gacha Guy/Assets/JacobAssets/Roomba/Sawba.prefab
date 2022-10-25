@@ -17,7 +17,7 @@ GameObject:
   - component: {fileID: 8670125992935789143}
   m_Layer: 6
   m_Name: Sawba
-  m_TagString: Untagged
+  m_TagString: Sawba
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

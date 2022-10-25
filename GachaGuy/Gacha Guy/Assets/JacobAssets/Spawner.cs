@@ -22,7 +22,7 @@ public class Spawner : MonoBehaviour
         //-
 
         StartCoroutine(spawnEnemy(enemyInterval, Enemy1));
-        StartCoroutine(spawnEnemy(enemyInterval, Boomba));
+        //StartCoroutine(spawnEnemy(enemyInterval, Boomba));
         location = this.transform.position;
     }
 

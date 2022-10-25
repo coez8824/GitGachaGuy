@@ -49,11 +49,6 @@ public class GunScript : MonoBehaviour
         curr = CLP;
     }
 
-    void FixedUpdate()
-    {
-
-    }
-
     public void shoot()
     {
         if(curr != 0) //If there are still bullets in the clip
@@ -71,9 +66,15 @@ public class GunScript : MonoBehaviour
                     hit.transform.GetComponent<EvilHexagon>().rip();
                 if (hit.transform.tag == "Shooter")
                     hit.transform.GetComponent<Collision>().playerShot(1);
+                if (hit.transform.tag == "Boomba")
+                    hit.transform.GetComponent<BoombaScript>().playerShot();
+                if (hit.transform.tag == "Gunba")
+                    hit.transform.GetComponent<GunbaMovement>().health--;
+                if (hit.transform.tag == "Sawba")
+                    hit.transform.GetComponent<RoombaMovement>().health--;
             }
 
-            sb.TriggerShake();
+            sb.TriggerShake(); //Shakes camera
             Debug.DrawRay(firePoint.transform.position, rayVec * 10f, Color.red); //Debug raycast
 
             canShoot=false;

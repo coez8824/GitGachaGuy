@@ -170,7 +170,7 @@ GameObject:
   - component: {fileID: 5422187494773300609}
   m_Layer: 6
   m_Name: Boomba
-  m_TagString: Untagged
+  m_TagString: Boomba
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
