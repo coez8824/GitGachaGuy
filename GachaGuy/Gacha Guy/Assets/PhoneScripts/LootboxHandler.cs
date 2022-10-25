@@ -5,8 +5,8 @@ using UnityEngine;
 public class LootboxHandler : MonoBehaviour
 {
     [SerializeField] public GameObject listHandler;
-
-    public void roll()
+    
+    public GachaCharacter roll()
     {
         float currRarity = 0;
    
@@ -29,6 +29,20 @@ public class LootboxHandler : MonoBehaviour
             }
         }
 
-        Debug.Log(listHandler.GetComponent<GachaList>().listChar[chosenInt].name);
+        GachaCharacter chosenChar = new GachaCharacter(listHandler.GetComponent<GachaList>().listChar[chosenInt]);
+
+        if (listHandler.GetComponent<GachaList>().playerInven.Find(x => x.id == chosenChar.id) == null)
+        {
+            listHandler.GetComponent<GachaList>().playerInven.Add(chosenChar);
+        }
+        else 
+        {
+            listHandler.GetComponent<GachaList>().playerInven.Find(x => x.id == chosenChar.id).level++;
+        }
+        
+
+        Debug.Log(chosenChar.name + " (" + listHandler.GetComponent<GachaList>().playerInven.Find(x => x.id == chosenChar.id).level + ")");
+
+        return chosenChar;
     }
 }

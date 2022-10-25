@@ -4,15 +4,11 @@ using UnityEngine;
 
 public class LootBoxButton : MonoBehaviour
 {
-    [SerializeField] public GameObject listHandler;
-    [SerializeField] public GameObject lootbox;
-
+    [SerializeField] public GameObject phone;
+    
     void OnMouseDown()
     {
-        //hideAutoBattler();
-
-        //this.gameObject.SetActive(false);
-
-        lootbox.GetComponent<LootboxHandler>().roll();
+        phone.GetComponent<PhoneHandler>().lootboxExecuter();
     }
 }
+//StartCoroutine(phone.GetComponent<PhoneHandler>().lootboxButtonPressed());
