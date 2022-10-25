@@ -55,12 +55,12 @@ public class ReloadScript : MonoBehaviour
         int i = Random.Range(1, 3);
 
         //Square button to also be part of reload QTE, but a bit iffy to get working. Will probably be easier to do with touch screen.
-       /* if(i == 0)
+        if(i == 0)
         {
             b = "joystick button 0";
             square.SetActive(true);
         }
-        else*/ if (i == 1)
+        else if (i == 1)
         {
             b = "joystick button 3";
             triangle.SetActive(true);

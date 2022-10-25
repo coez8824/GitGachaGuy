@@ -140,6 +140,7 @@ public class PlayerController : MonoBehaviour
     IEnumerator ShotCoolDown()
     {
         yield return new WaitForSeconds(timeBetweenShots);
-        canShoot = true;
+        if(!reloading)
+            canShoot = true;
     }
 }
