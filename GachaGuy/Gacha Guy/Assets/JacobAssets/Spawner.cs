@@ -13,15 +13,18 @@ public class Spawner : MonoBehaviour
     public GameObject Enemy1, Boomba, Gunba, Sawba, point1, point2, point3;
     Vector3 location;
 
-    private float enemyInterval = 10f;
+    private float enemyInterval = 5f;
     // Start is called before the first frame update
     void Start()
     {
         //-
         gm = FindObjectOfType<GameManager>();
+
+        setInterval();
+        spawn();
         //-
 
-        StartCoroutine(spawnEnemy(enemyInterval, Enemy1));
+        //StartCoroutine(spawnEnemy(enemyInterval, Enemy1));
         //StartCoroutine(spawnEnemy(enemyInterval, Boomba));
         //location = this.transform.position;
     }
@@ -44,15 +47,20 @@ public class Spawner : MonoBehaviour
     {
         yield return new WaitForSeconds(interval);
         GameObject newEnemy = Instantiate(enemy, location, Quaternion.identity);
-        StartCoroutine(spawnEnemy(interval, enemy));
+
+        //StartCoroutine(spawnEnemy(interval, enemy));
+        //-
+        setInterval();
+        spawn();
+        //-
     }
 
     // Update is called once per frame
     void Update()
     {
         //-
-        setInterval();
-        spawn();
+        //setInterval();
+        //spawn();
         //-
 
         //spawnEnemy(enemyInterval, Enemy1);
@@ -64,11 +72,11 @@ public class Spawner : MonoBehaviour
     {
         int i;
 
-        if(enemyInterval <= 5)
+        if(enemyInterval <= 1)
         {
             i = 4;
         }
-        else if (enemyInterval <= 8)
+        else if (enemyInterval <= 3)
         {
             i = 3;
         }
@@ -88,14 +96,16 @@ public class Spawner : MonoBehaviour
         else if (k == 2)
             location = point3.transform.position;
 
+        j = 1;
+
         if (j == 0)
-            spawnEnemy(enemyInterval, Enemy1);
+            StartCoroutine(spawnEnemy(enemyInterval, Enemy1));
         else if (j == 1)
-            spawnEnemy(enemyInterval, Sawba);
+            StartCoroutine(spawnEnemy(enemyInterval, Sawba));
         else if (j == 2)
-            spawnEnemy(enemyInterval, Gunba);
+            StartCoroutine(spawnEnemy(enemyInterval, Gunba));
         else if (j == 3)
-            spawnEnemy(enemyInterval, Boomba);
+            StartCoroutine(spawnEnemy(enemyInterval, Boomba));
     }
     //-
 }

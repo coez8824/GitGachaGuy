@@ -64,13 +64,20 @@ public class RoombaMovement : MonoBehaviour
         }
     }
 
+    //-
+    private void OnCollisionStay2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Player"))
+        {
+            gm.playerDamaged(1);
+        }
+    }
+    //-
+
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.CompareTag("Player"))
         {
-            //-
-            gm.playerDamaged(1);
-            //-
 
             moveDirection = (target.position + transform.position).normalized * moveSpeed;
             enemyAnimator.SetFloat("MoveY", target.position.y + transform.position.y);

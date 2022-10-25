@@ -6,6 +6,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.XR;
 using TMPro;
+using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
@@ -14,7 +15,6 @@ public class GameManager : MonoBehaviour
     public GunSetter gSetter;
 
     public TMP_Text moneyCount;
-    public GameObject gameoverTXT;
     public GameObject player;
 
     private bool recharging;
@@ -24,7 +24,6 @@ public class GameManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        gameoverTXT.SetActive(false);
         dangerLevel = 0;
         testDEF();
     }
@@ -54,10 +53,14 @@ public class GameManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if(ps.WAL >= 1000000)
+        {
+            SceneManager.LoadScene("YouWin");
+        }
+
         if(ps.currHTH <= 0)
         {
-            gameoverTXT.SetActive(true);
-            Destroy(player);
+            SceneManager.LoadScene("GameOver");
         }
 
         /*if(recharging)
