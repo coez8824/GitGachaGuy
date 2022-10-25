@@ -94,7 +94,8 @@ public class GunScript : MonoBehaviour
 
     public void reload()
     {
-        if(gm.ps.AMM != 0)
+        Debug.Log("RELOAD");
+        if (gm.ps.AMM != 0)
         {
             int a = CLP - curr;
 

@@ -42,6 +42,7 @@ public class Pickup : MonoBehaviour
         if(gm.ps.WAL >= price)
         {
             gm.ps.WAL -= price;
+            gm.dangerLevel += price;
             Destroy(gameObject);
         }
     }

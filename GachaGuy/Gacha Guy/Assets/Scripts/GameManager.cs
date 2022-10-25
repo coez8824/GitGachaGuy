@@ -17,10 +17,12 @@ public class GameManager : MonoBehaviour
 
     private bool recharging;
 
+    public int dangerLevel;
+
     // Start is called before the first frame update
     void Start()
     {
-
+        dangerLevel = 0;
         testDEF();
     }
 
@@ -49,6 +51,9 @@ public class GameManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if(dangerLevel>=500)
+            dangerLevel -= 500;
+
         if(ps.currHTH <= 0)
         {
             Debug.Log("GAME OVER");
