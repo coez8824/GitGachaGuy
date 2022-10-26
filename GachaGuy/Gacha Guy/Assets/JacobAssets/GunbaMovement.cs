@@ -2,26 +2,47 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+//Code quaratined with "//-" is code added by Zoom
+
 public class GunbaMovement : MonoBehaviour
 {
+    //-
+    private GameManager gm;
+    //-
+
     float moveSpeed = 10f;
     Rigidbody2D rb;
     private Transform target;
     private Transform wall;
     private Transform obstacle;
     public Vector3 moveDirection;
-    public GameObject enemy;
+
+    //-
+    //public GameObject enemy;
+    //-
+
     public int health = 1;
     // Start is called before the first frame update
     void Start()
     {
+        //-
+        gm = FindObjectOfType<GameManager>();
+        //-
+
         //Physics2D.IgnoreLayerCollision(6, 7, true);
         //Physics2D.IgnoreLayerCollision(7, 7, true);
-        enemy = GameObject.FindWithTag("Shooter");
+
+        //-
+        //enemy = GameObject.FindWithTag("Shooter");
+        //-
+
         rb = GetComponent<Rigidbody2D>();
         target = GameObject.FindWithTag("Player").transform;
         moveDirection = (target.position - transform.position).normalized * moveSpeed;
-        obstacle = GameObject.FindWithTag("Obstacle").transform;
+
+        //-
+        //obstacle = GameObject.FindWithTag("Obstacle").transform;
+        //-
     }
 
     // Update is called once per frame
@@ -31,6 +52,7 @@ public class GunbaMovement : MonoBehaviour
 
         if (health <= 0)
         {
+            gm.ps.WAL += (25 + (2 * Random.Range(0, gm.ps.LCK))); //Pays a base 25 cash + bonus based on luck
             Destroy(gameObject);
         }
     }
@@ -39,6 +61,10 @@ public class GunbaMovement : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Player"))
         {
+            //-
+            gm.playerDamaged(1);
+            //-
+
             moveDirection = (target.position + transform.position).normalized * moveSpeed;
         }
         if (collision.gameObject.CompareTag("Wall"))

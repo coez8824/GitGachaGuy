@@ -8,6 +8,7 @@ using static UnityEngine.GraphicsBuffer;
 public class Collision : MonoBehaviour
 {
     //-
+    private GameManager gm;
     private Color orig;
     private SpriteRenderer sr;
     //-
@@ -21,6 +22,7 @@ public class Collision : MonoBehaviour
     void Start()
     {
         //-
+        gm = FindObjectOfType<GameManager>();
         sr = GetComponent<SpriteRenderer>();
         orig = sr.color;
         //-
@@ -58,11 +60,15 @@ public class Collision : MonoBehaviour
 
         yield return new WaitForSeconds(1f);//Delay for 1 seconds
 
+        //-
+        gm.ps.WAL += (25 + (2 * Random.Range(0, gm.ps.LCK))); //Pays a base 25 cash + bonus based on luck
+        //-
         Destroy(gameObject);
 
     }
 
     //-
+    //Credit webcam on Unity Answers for making enemies flash red when hit
     public void playerShot(int i)
     {
         health -= i;

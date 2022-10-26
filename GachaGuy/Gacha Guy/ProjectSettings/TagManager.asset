@@ -9,6 +9,9 @@ TagManager:
   - Explosion
   - Wall
   - Obstacle
+  - Boomba
+  - Gunba
+  - Sawba
   layers:
   - Default
   - TransparentFX
@@ -20,7 +23,7 @@ TagManager:
   - Projectile
   - Explosion
   - Shooter
-  - 
+  - Obstacle
   - 
   - 
   - 
@@ -54,4 +57,7 @@ TagManager:
     locked: 0
   - name: Player
     uniqueID: 1190087409
+    locked: 0
+  - name: Enemy
+    uniqueID: 2356923687
     locked: 0

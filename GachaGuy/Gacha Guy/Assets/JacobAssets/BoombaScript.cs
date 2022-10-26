@@ -3,15 +3,28 @@ using System.Collections.Generic;
 using UnityEngine;
 using static UnityEditor.FilePathAttribute;
 
+//Code quaratined with "//-" is code added by Zoom
+
 public class BoombaScript : MonoBehaviour
 {
     private Animator enemyAnimator;
     public Transform target;
     public GameObject boom;
     public Collider2D explosion;
+
+    //-
+    private GameManager gm;
+    private bool caution; //Created so explosion doesn't accidentally go off twice
+    //-
+
     // Start is called before the first frame update
     void Start()
     {
+        //-
+        gm = FindObjectOfType<GameManager>();
+        caution = false;
+        //-
+
         enemyAnimator = GetComponent<Animator>();
         target = GameObject.FindWithTag("Player").transform;
     }
@@ -29,7 +42,7 @@ public class BoombaScript : MonoBehaviour
     }
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.CompareTag("Player"))
+        if ((collision.gameObject.CompareTag("Player"))&&(!caution))
         {
             StartCoroutine(DelayedDeath());
         }
@@ -44,4 +57,13 @@ public class BoombaScript : MonoBehaviour
         Destroy(gameObject);
 
     }
+
+    //-
+    public void playerShot()
+    {
+        caution = true;
+        gm.ps.WAL += (25 + (2 * Random.Range(0, gm.ps.LCK))); //Pays a base 25 cash + bonus based on luck
+        StartCoroutine(DelayedDeath());
+    }
+    //-
 }

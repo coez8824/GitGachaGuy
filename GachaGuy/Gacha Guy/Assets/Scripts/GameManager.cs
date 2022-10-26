@@ -6,6 +6,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.XR;
 using TMPro;
+using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
@@ -14,13 +15,16 @@ public class GameManager : MonoBehaviour
     public GunSetter gSetter;
 
     public TMP_Text moneyCount;
+    public GameObject player;
 
     private bool recharging;
+
+    public int dangerLevel;
 
     // Start is called before the first frame update
     void Start()
     {
-
+        dangerLevel = 0;
         testDEF();
     }
 
@@ -49,15 +53,20 @@ public class GameManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if(ps.WAL >= 1000000)
+        {
+            SceneManager.LoadScene("YouWin");
+        }
+
         if(ps.currHTH <= 0)
         {
-            Debug.Log("GAME OVER");
+            SceneManager.LoadScene("GameOver");
         }
 
         /*if(recharging)
             StartCoroutine(rechargeShield());*/
 
-        if (ps.WAL > 0)
+        if (ps.WAL > 0) //Displays money in moneyCount
             moneyCount.text = "$" + ps.WAL.ToString();
         else
             moneyCount.text = "BROKE";
@@ -69,43 +78,43 @@ public class GameManager : MonoBehaviour
 
         recharging = false;
 
-        if (ps.currSHD > 0)
+        if (ps.currSHD > 0) //Always damages shield first
         {
             ps.currSHD -= i;
         }
-        else
+        else //But damages health if there is no shield left
         {
             ps.currHTH -= i;
         }
 
-        if(!recharging)
+        if(!recharging) //If recharging isn't true, start the shield recharge
             StartCoroutine(startRecharge());
     }
 
     IEnumerator startRecharge()
     {
-        yield return new WaitForSeconds(ps.RCH);
+        yield return new WaitForSeconds(ps.RCH); //Delayed based on RCH stat
 
         recharging = true;
-        StartCoroutine(rechargeShield());
+        StartCoroutine(rechargeShield()); //Actual shield recharge
     }
 
     IEnumerator rechargeShield()
     {
-        yield return new WaitForSeconds(1);
+        yield return new WaitForSeconds(1); //By every 1 second
 
-        if (!recharging)
+        if (!recharging) //Cancels if player is hit
             yield break;
 
-        if(ps.currSHD < ps.getSHD())
+        if(ps.currSHD < ps.getSHD()) //Prevents from going over max
         {
-            ps.currSHD++;
+            ps.currSHD++; //Increases by 1
         }
         else
         {
-            yield break;
+            yield break; //Stops recharge if shield is full
         }
 
-        StartCoroutine(rechargeShield());
+        StartCoroutine(rechargeShield()); //Continues recharge if shield isn't full
     }
 }
