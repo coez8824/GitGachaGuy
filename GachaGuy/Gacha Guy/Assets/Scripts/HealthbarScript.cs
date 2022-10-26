@@ -17,10 +17,10 @@ public class HealthbarScript : MonoBehaviour
         gm = FindObjectOfType<GameManager>();
         slide = GetComponent<Slider>();
 
-        if (isShield)
-            slide.maxValue = /*gm.ps.getSHD()*/50;
+/*        if (isShield)
+            slide.maxValue = *//*gm.ps.getSHD() *//* 50;
         else
-            slide.maxValue = /*gm.ps.getHTH()*/100;
+            slide.maxValue = *//*gm.ps.getHTH() *//* 100;*/
     }
 
     // Update is called once per frame
@@ -30,5 +30,10 @@ public class HealthbarScript : MonoBehaviour
             slide.value = gm.ps.currSHD;
         else
             slide.value = gm.ps.currHTH;
+
+        if (isShield)
+            slide.maxValue = gm.ps.getSHD();
+        else
+            slide.maxValue = gm.ps.getHTH();
     }
 }

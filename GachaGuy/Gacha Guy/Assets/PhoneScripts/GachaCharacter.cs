@@ -4,18 +4,18 @@ using UnityEngine;
 
 public class GachaCharacter
 {
-    public int id;
-    public string name;
-    public string passive;
-    public float rarity;
-    public float lowerRarity;
+    public int id;      //assigned ID to find in list easier
+    public string name;     //name of character
+    public string passive;      //name of passive 
+    public float rarity;        //rarity value (used in roll())
+    public float lowerRarity;       //rarity values used in roll()
     public float upperRarity;
-    public int level = 1;
-    public GameObject charObj;
+    public int level = 1;       //current level of character (changes)
+    public GameObject charObj;      //Prefab of character sprite
 
     public GachaCharacter(int charID, string charName, string passiveAbility, float charRarity, GameObject itsme)
     {
-        id = charID;
+        id = charID;        //Constructor
         name = charName;
         passive = passiveAbility;
         rarity = charRarity;
@@ -24,7 +24,7 @@ public class GachaCharacter
 
     public GachaCharacter(GachaCharacter character)
     {
-        id = character.id;
+        id = character.id;      //Copy constructor
         name = character.name;
         passive = character.passive;
         rarity = character.rarity;

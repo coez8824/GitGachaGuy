@@ -33,8 +33,6 @@ public class PlayerStats : MonoBehaviour
     private void Start()
     {
         gm = GetComponent<GameManager>();
-
-        
     }
 
     public int getHTH()

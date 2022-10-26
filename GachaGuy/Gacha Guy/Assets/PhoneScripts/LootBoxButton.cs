@@ -8,6 +8,7 @@ public class LootBoxButton : MonoBehaviour
     
     void OnMouseDown()
     {
+        Debug.Log("Outch");
         phone.GetComponent<PhoneHandler>().lootboxExecuter();
     }
 }
