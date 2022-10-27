@@ -15,6 +15,7 @@ public class BoombaScript : MonoBehaviour
     //-
     private GameManager gm;
     private bool caution; //Created so explosion doesn't accidentally go off twice
+    public AudioSource ping;
     //-
 
     // Start is called before the first frame update
@@ -53,7 +54,7 @@ public class BoombaScript : MonoBehaviour
         boom.SetActive(true);
 
         yield return new WaitForSeconds(.05f);//Delay for 5 seconds
-
+        ping.Play();
         Destroy(gameObject);
 
     }

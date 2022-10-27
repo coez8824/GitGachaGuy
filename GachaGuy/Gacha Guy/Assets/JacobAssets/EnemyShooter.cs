@@ -5,6 +5,8 @@ using static UnityEditor.FilePathAttribute;
 
 public class EnemyShooter : MonoBehaviour
 {
+    public AudioSource bang;
+
     // Start is called before the first frame update
     public GameObject projectilePrefab; //drag prefab to this variable in editor
     private GameObject spawnedProjectile;
@@ -21,6 +23,7 @@ public class EnemyShooter : MonoBehaviour
     private IEnumerator fire(float interval)
     {
         yield return new WaitForSeconds(interval);
+        bang.Play();
         spawnedProjectile = Instantiate(projectilePrefab, this.gameObject.transform.position, this.gameObject.transform.rotation);
 
         //get physics of spawned projectile

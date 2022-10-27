@@ -53,7 +53,7 @@ public class GameManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(ps.WAL >= 1000000)
+        if(ps.WAL >= 1000)
         {
             SceneManager.LoadScene("YouWin");
         }

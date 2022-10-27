@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class PhoneHandler : MonoBehaviour
 {
+    public GameManager gm;
+    public AudioSource kaching;
     [SerializeField] public GameObject lootBoxButton;   //Gameobject holding lootboxButton object
     [SerializeField] public GameObject characterSelectButton;     //Gameobject holding charSelectButton object
     [SerializeField] public GameObject listHandler;     //Gameobject holding GachaList script
@@ -14,6 +16,7 @@ public class PhoneHandler : MonoBehaviour
 
     void Awake()
     {
+        gm = FindObjectOfType<GameManager>();
         setChar();      //default parameters set all 3 charSlots to null (no sprites)
     }
 
@@ -73,7 +76,7 @@ public class PhoneHandler : MonoBehaviour
 
     public void enableMainMenu()        //Shortcut to enable main menu objects
     {
-        lootBoxButton.SetActive(true);
+        //lootBoxButton.SetActive(true);
         //characterSelectButton.SetActive(true);
         charSlot1.SetActive(true);
         charSlot2.SetActive(true);
@@ -87,9 +90,15 @@ public class PhoneHandler : MonoBehaviour
 
     public void lootboxExecuter()       //in-script method to execute coroutine to avoid errors (called from lootboxButton object)
     {
-        if (true) 
+        if ((true)&&(gm.ps.WAL >= 25)) 
         {
+            kaching.Play();
+            gm.ps.WAL -= 25;
             StartCoroutine(lootboxButtonPressed());
+        }
+        else
+        {
+            Debug.Log("Can't Roll");
         }
     }
 

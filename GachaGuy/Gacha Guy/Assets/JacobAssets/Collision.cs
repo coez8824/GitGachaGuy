@@ -11,6 +11,8 @@ public class Collision : MonoBehaviour
     private GameManager gm;
     private Color orig;
     private SpriteRenderer sr;
+    public AudioSource ting;
+    public AudioSource ping;
     //-
 
     public Transform target;
@@ -61,6 +63,7 @@ public class Collision : MonoBehaviour
         yield return new WaitForSeconds(1f);//Delay for 1 seconds
 
         //-
+        ping.Play();
         gm.ps.WAL += (25 + (2 * Random.Range(0, gm.ps.LCK))); //Pays a base 25 cash + bonus based on luck
         //-
         Destroy(gameObject);
@@ -71,6 +74,7 @@ public class Collision : MonoBehaviour
     //Credit webcam on Unity Answers for making enemies flash red when hit
     public void playerShot(int i)
     {
+        ting.Play();
         health -= i;
 
         sr.color = Color.red;

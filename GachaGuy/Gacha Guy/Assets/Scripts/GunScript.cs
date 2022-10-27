@@ -8,6 +8,8 @@ public class GunScript : MonoBehaviour
 {
     private GameManager gm;
     public ShakeBehavior sb;
+    public AudioSource bang;
+    public AudioSource re;
 
     //GUN STATS - Gun stats are set to a gun and are not modified by any other method
     [SerializeField]
@@ -67,6 +69,7 @@ public class GunScript : MonoBehaviour
     {
         if(curr != 0) //If there are still bullets in the clip
         {
+            bang.Play();
             float a = Random.Range(-ACC * gm.ps.HND, ACC * gm.ps.HND); //Choose deviation based on ACC stat
 
             Vector2 r = new Vector2(a, 0); //Turn deviation into Vector2
@@ -133,6 +136,7 @@ public class GunScript : MonoBehaviour
         }*/
         if ((canReload)&&(gm.ps.AMM != 0))
         {
+            re.Play();
             regButtons.SetActive(false);
             colorButtons.SetActive(true);
 

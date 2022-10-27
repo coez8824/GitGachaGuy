@@ -96,8 +96,6 @@ public class Spawner : MonoBehaviour
         else if (k == 2)
             location = point3.transform.position;
 
-        j = 1;
-
         if (j == 0)
             StartCoroutine(spawnEnemy(enemyInterval, Enemy1));
         else if (j == 1)
