@@ -10,7 +10,7 @@ public class LootboxHandler : MonoBehaviour
     {
         float currRarity = 0;
    
-        for (int i = 0; i < listHandler.GetComponent<GachaList>().listChar.Count; i++)
+        for (int i = 1; i < listHandler.GetComponent<GachaList>().listChar.Count; i++)
         {
             listHandler.GetComponent<GachaList>().listChar[i].setLowerRarity(currRarity);
             currRarity += listHandler.GetComponent<GachaList>().listChar[i].rarity;
@@ -39,10 +39,10 @@ public class LootboxHandler : MonoBehaviour
         {
             listHandler.GetComponent<GachaList>().playerInven.Find(x => x.id == chosenChar.id).level++;
         }
-        
+
+        listHandler.GetComponent<GachaList>().abilityChange(listHandler.GetComponent<GachaList>().playerInven.Find(x => x.id == chosenChar.id));
 
         Debug.Log(chosenChar.name + " (" + listHandler.GetComponent<GachaList>().playerInven.Find(x => x.id == chosenChar.id).level + ")");
-        Debug.Log("playerInven.Count = " + listHandler.GetComponent<GachaList>().playerInven.Count);
 
         return chosenChar;
     }

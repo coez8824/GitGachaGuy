@@ -81,15 +81,18 @@ public class GachaList : MonoBehaviour
     public void maLuckIncrease(int level)
     {
         gm.GetComponent<PlayerStats>().LCK = level;
+        Debug.Log("Yes");
     }
 
     public void fluHealthIncrease(int level)
     {
         gm.GetComponent<PlayerStats>().setHTH(100 + (level * 10));
+        Debug.Log("Yes");
     }
 
     public void greShieldBuff(int level)
     {
         gm.GetComponent<PlayerStats>().setSHD(50 + (level * 5));
+        Debug.Log("Yes");
     }
 }
