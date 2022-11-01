@@ -11,6 +11,8 @@ public class Pickup : MonoBehaviour
 
     public GameObject buyButton;
 
+    public string effect;
+
     private bool canBuy;
 
     private void Start()
@@ -49,7 +51,20 @@ public class Pickup : MonoBehaviour
         {
             gm.ps.WAL -= price; //Remove money from wallet
             gm.dangerLevel += price; //Increase danger level based on money just spent
+            doEffect();
             Destroy(gameObject); //Destroy pickup
+        }
+    }
+
+    private void doEffect()
+    {
+        if(effect == "newGun")
+        {
+            gm.gSetter.gunSetter("Rifle");
+        }
+        else
+        {
+            Debug.Log("If this message pops up then you just bought a pickup without an effect.");
         }
     }
 }

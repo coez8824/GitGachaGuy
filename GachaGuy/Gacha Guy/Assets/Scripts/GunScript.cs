@@ -16,16 +16,16 @@ public class GunScript : MonoBehaviour
     private int DAM; //Damage
     [SerializeField]
     private float RAT; //Fire rate
-    [SerializeField]
-    private int CLP; //Max ammo in clip
+    
+    public int CLP; //Max ammo in clip
     [SerializeField]
     private float ACC; //Gun accuracy
 
     /*[SerializeField]
     private float shake; //How hard the recoil shake is*/ //Not actually sure if I want this
 
-    [SerializeField]
-    private int curr; //Current ammo in clip
+    
+    public int curr; //Current ammo in clip
 
     public bool inf; //Whether or not gun will use ammo from AMM 
 

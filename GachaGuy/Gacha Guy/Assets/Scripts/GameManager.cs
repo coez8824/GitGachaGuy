@@ -17,6 +17,8 @@ public class GameManager : MonoBehaviour
     public TMP_Text moneyCount;
     public GameObject player;
 
+    public Text clpTXT;
+
     private bool recharging;
 
     public int dangerLevel;
@@ -65,6 +67,8 @@ public class GameManager : MonoBehaviour
 
         /*if(recharging)
             StartCoroutine(rechargeShield());*/
+
+        clpTXT.text = gs.curr + "/" + ps.AMM;
 
         if (ps.WAL > 0) //Displays money in moneyCount
             moneyCount.text = "$" + ps.WAL.ToString();
