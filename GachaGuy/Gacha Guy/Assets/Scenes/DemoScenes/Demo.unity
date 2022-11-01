@@ -14693,17 +14693,25 @@ PrefabInstance:
       propertyPath: m_Name
       value: Melee Enemy
       objectReference: {fileID: 0}
+    - target: {fileID: 1111713322494602755, guid: f224f1ace73702644bcb9bd0dcc5b3eb, type: 3}
+      propertyPath: m_SortingLayer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1111713322494602755, guid: f224f1ace73702644bcb9bd0dcc5b3eb, type: 3}
+      propertyPath: m_SortingLayerID
+      value: -1938043609
+      objectReference: {fileID: 0}
     - target: {fileID: 5157893942085102402, guid: f224f1ace73702644bcb9bd0dcc5b3eb, type: 3}
       propertyPath: m_RootOrder
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5157893942085102402, guid: f224f1ace73702644bcb9bd0dcc5b3eb, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 18.4
+      value: 6.69
       objectReference: {fileID: 0}
     - target: {fileID: 5157893942085102402, guid: f224f1ace73702644bcb9bd0dcc5b3eb, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -9.4
+      value: -6.53
       objectReference: {fileID: 0}
     - target: {fileID: 5157893942085102402, guid: f224f1ace73702644bcb9bd0dcc5b3eb, type: 3}
       propertyPath: m_LocalPosition.z
