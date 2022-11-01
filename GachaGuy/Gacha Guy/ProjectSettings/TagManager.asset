@@ -12,6 +12,7 @@ TagManager:
   - Boomba
   - Gunba
   - Sawba
+  - Melee
   layers:
   - Default
   - TransparentFX

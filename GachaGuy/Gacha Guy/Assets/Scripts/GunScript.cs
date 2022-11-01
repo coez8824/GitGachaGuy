@@ -4,6 +4,8 @@ using System.Reflection;
 using UnityEngine;
 using UnityEngine.XR;
 
+//Code quaratined with "//!" is code added by Jacob
+
 public class GunScript : MonoBehaviour
 {
     private GameManager gm;
@@ -89,6 +91,10 @@ public class GunScript : MonoBehaviour
                     hit.transform.GetComponent<GunbaMovement>().health--;
                 if (hit.transform.tag == "Sawba")
                     hit.transform.GetComponent<RoombaMovement>().health--;
+                //!
+                if (hit.transform.tag == "Melee")
+                    hit.transform.GetComponent<Collision>().playerShot(1);
+                //!
             }
 
             sb.TriggerShake(); //Shakes camera
