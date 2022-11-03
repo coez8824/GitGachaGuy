@@ -59,7 +59,7 @@ namespace Pathfinding {
 	/// It may take one or sometimes multiple frames for the path to be calculated, but finally the <see cref="OnPathComplete"/> method will be called and the current path that the AI is following will be replaced.
 	/// </summary>
 	[AddComponentMenu("Pathfinding/AI/AIPath (2D,3D)")]
-	public partial class AIPath : AIBase, IAstarAI {
+    public partial class AIPath : AIBase, IAstarAI {
 		/// <summary>
 		/// How quickly the agent accelerates.
 		/// Positive values represent an acceleration in world units per second squared.
@@ -232,7 +232,7 @@ namespace Pathfinding {
 		/// <summary>\copydoc Pathfinding::IAstarAI::canSearch</summary>
 		bool IAstarAI.canSearch { get { return canSearch; } set { canSearch = value; } }
 
-		/// <summary>\copydoc Pathfinding::IAstarAI::canMove</summary>
+		/// <summary>\copydoc Pathfinding::IAstarAI:: ove</summary>
 		bool IAstarAI.canMove { get { return canMove; } set { canMove = value; } }
 
 		#endregion

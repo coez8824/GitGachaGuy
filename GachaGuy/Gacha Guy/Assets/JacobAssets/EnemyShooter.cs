@@ -17,17 +17,18 @@ public class EnemyShooter : MonoBehaviour
     public float interval = 3f;
     public float testX;
     public float testY;
+    public Collision col;
     void Start()
     {
         target = GameObject.FindWithTag("Player").transform;
         StartCoroutine(fire(interval));
     }
 
-    private IEnumerator fire(float interval)
+    public IEnumerator fire(float interval)
     {
         
             yield return new WaitForSeconds(interval);
-        if ((target.position.x - transform.position.x) <= range && (target.position.y - transform.position.y) <= range && (target.position.x - transform.position.x) >= -range && (target.position.y - transform.position.y) >= -range)
+        if ((target.position.x - transform.position.x) <= range && (target.position.y - transform.position.y) <= range && (target.position.x - transform.position.x) >= -range && (target.position.y - transform.position.y) >= -range && col.health > 0)
         {
             bang.Play();
             spawnedProjectile = Instantiate(projectilePrefab, this.gameObject.transform.position, this.gameObject.transform.rotation);

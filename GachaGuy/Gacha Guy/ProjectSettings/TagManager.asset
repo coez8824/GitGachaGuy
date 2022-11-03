@@ -13,6 +13,7 @@ TagManager:
   - Gunba
   - Sawba
   - Melee
+  - Boss1
   layers:
   - Default
   - TransparentFX
