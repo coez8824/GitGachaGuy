@@ -1,7 +1,595 @@
 fileFormatVersion: 2
 guid: 440bdf89ff2babc4bbf5358ded65e42a
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 6599166561769119491
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_0
+  - first:
+      213: 4361762021081837148
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_1
+  - first:
+      213: -8626990172371830093
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_2
+  - first:
+      213: -7318511040636105742
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_3
+  - first:
+      213: -1124848501978605713
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_4
+  - first:
+      213: 5807033522449545633
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_5
+  - first:
+      213: 4316349894243563057
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_6
+  - first:
+      213: 8906743032395904027
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_7
+  - first:
+      213: 1470097289013299600
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_8
+  - first:
+      213: 6290239154748158359
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_9
+  - first:
+      213: 749773377207201723
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_10
+  - first:
+      213: 6682183132646378835
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_11
+  - first:
+      213: -4542472281670883183
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_12
+  - first:
+      213: -6380184879972815727
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_13
+  - first:
+      213: 4041527027570683170
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_14
+  - first:
+      213: 5532234170506282244
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_15
+  - first:
+      213: -7990566378530224168
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_16
+  - first:
+      213: -7722849989913185694
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_17
+  - first:
+      213: -4137004472587916558
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_18
+  - first:
+      213: -1442012139531389840
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_19
+  - first:
+      213: 7933986968016425487
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_20
+  - first:
+      213: 3138035868985381873
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_21
+  - first:
+      213: -6350895475510471153
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_22
+  - first:
+      213: -1384823366732221199
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_23
+  - first:
+      213: 5061858377317541056
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_24
+  - first:
+      213: -2667077241477655667
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_25
+  - first:
+      213: -5565503323543409928
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_26
+  - first:
+      213: 4671250858195065609
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_27
+  - first:
+      213: 1963628788292297456
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_28
+  - first:
+      213: 2324182411372060052
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_29
+  - first:
+      213: 2378290337770538597
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_30
+  - first:
+      213: -410899518087200856
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_31
+  - first:
+      213: 6954614193626114700
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_32
+  - first:
+      213: 1981016088607451302
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_33
+  - first:
+      213: -4286058657657695073
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_34
+  - first:
+      213: -3896081876381709016
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_35
+  - first:
+      213: -448627700000192783
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_36
+  - first:
+      213: 757742712508885557
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_37
+  - first:
+      213: -8014163080664889211
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_38
+  - first:
+      213: 6363202719599508400
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_39
+  - first:
+      213: 1756534949416473945
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_40
+  - first:
+      213: -2934919177269744060
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_41
+  - first:
+      213: 331012023146124333
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_42
+  - first:
+      213: 3867850390833561777
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_43
+  - first:
+      213: -3281198849290629465
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_44
+  - first:
+      213: 8126631208305407911
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_45
+  - first:
+      213: -2918031389602353018
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_46
+  - first:
+      213: 8310451138391849874
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_47
+  - first:
+      213: 2735030546654517689
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_48
+  - first:
+      213: -3211687295642404523
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_49
+  - first:
+      213: 6853647894199783353
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_50
+  - first:
+      213: -4955611978310677172
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_51
+  - first:
+      213: -2323609871017481600
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_52
+  - first:
+      213: -2472029444960268726
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_53
+  - first:
+      213: 6462759818613411475
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_54
+  - first:
+      213: 102723203225605863
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_55
+  - first:
+      213: 7157215154394169884
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_56
+  - first:
+      213: -8635705839276040299
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_57
+  - first:
+      213: 5581900455135619201
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_58
+  - first:
+      213: -5253116558264083347
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_59
+  - first:
+      213: 6339507448088604700
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_60
+  - first:
+      213: -4236742904018118013
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_61
+  - first:
+      213: -5110569436052509653
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_62
+  - first:
+      213: -4014656891556963622
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_63
+  - first:
+      213: -5537629835140434491
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_64
+  - first:
+      213: -3215221447137722487
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_65
+  - first:
+      213: -4030652991684645574
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_66
+  - first:
+      213: -8759123541781792006
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_67
+  - first:
+      213: 2553514088025398627
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_68
+  - first:
+      213: 8654142515450676711
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_69
+  - first:
+      213: -2295366128668462056
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_70
+  - first:
+      213: 9202188953089396555
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_71
+  - first:
+      213: 4978481537493576337
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_72
+  - first:
+      213: -6257880112207921430
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_73
+  - first:
+      213: -232657902025296438
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_74
+  - first:
+      213: -1534711052399397986
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_75
+  - first:
+      213: -3706549037909663330
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_76
+  - first:
+      213: 516551993145093979
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_77
+  - first:
+      213: 820158646011863713
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_78
+  - first:
+      213: -6447877465937178078
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_79
+  - first:
+      213: -6489600299508821243
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_80
+  - first:
+      213: 3931042851408400883
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_81
+  - first:
+      213: 1881304517505154958
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_82
+  - first:
+      213: -6792762324249190538
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_83
+  - first:
+      213: 1585371856984965598
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_84
+  - first:
+      213: 1977176312671293776
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_85
+  - first:
+      213: 4707427452020502045
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_86
+  - first:
+      213: 7765157882382904745
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_87
+  - first:
+      213: 7776185911677336062
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_88
+  - first:
+      213: -2275749832199821388
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_89
+  - first:
+      213: -3169441333908390361
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_90
+  - first:
+      213: -5954384899925798263
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_91
+  - first:
+      213: -3302569995673590042
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_92
+  - first:
+      213: -1722502751077318337
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_93
+  - first:
+      213: 2926462326627690607
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_94
+  - first:
+      213: 8412869504633582049
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_95
+  - first:
+      213: -4128333049969304546
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_96
+  - first:
+      213: -2611092843426209531
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_97
+  - first:
+      213: 3048903922794602738
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_98
+  - first:
+      213: -3723459065460685843
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_99
+  - first:
+      213: 2536262802316261984
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_100
+  - first:
+      213: -1108370461215448818
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_101
+  - first:
+      213: 4894071980167504392
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_102
+  - first:
+      213: 2590270502570143104
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_103
+  - first:
+      213: -4498125203955488484
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_104
+  - first:
+      213: -8319038839139586416
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_105
+  - first:
+      213: 8692133630067320044
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_106
+  - first:
+      213: 3081473588582038166
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_107
+  - first:
+      213: -3333691039098577303
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_108
+  - first:
+      213: 6969210994308975041
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_109
+  - first:
+      213: -3349329747723229093
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_110
+  - first:
+      213: 2769140775853512597
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_111
+  - first:
+      213: 1081660163566922501
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_112
+  - first:
+      213: 7436952661253866057
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_113
+  - first:
+      213: 4629607784991752411
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_114
+  - first:
+      213: 1144624971070241363
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_115
+  - first:
+      213: -4701288897287552439
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_116
+  - first:
+      213: -7125375852474736948
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_117
+  - first:
+      213: 1416546134268298316
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_118
+  - first:
+      213: 8169205966707235635
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_119
+  - first:
+      213: -8771319704267870842
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_120
+  - first:
+      213: 4217021606285261036
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_121
+  - first:
+      213: -443288779284262824
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_122
+  - first:
+      213: -6681307605172814084
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_123
+  - first:
+      213: 3645919127493188755
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_124
+  - first:
+      213: 2982875226739017147
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_125
+  - first:
+      213: -7277761198252808484
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_126
+  - first:
+      213: -643570619379265324
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_127
+  - first:
+      213: 8668683006107206344
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_128
+  - first:
+      213: -4698049894075918647
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_129
+  - first:
+      213: -8604238333653468250
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_130
+  - first:
+      213: 8174132414854906759
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_131
+  - first:
+      213: -5960711776170058834
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_132
+  - first:
+      213: -7943742553173703121
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_133
+  - first:
+      213: 6909036905726004191
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_134
+  - first:
+      213: 3809999081056026399
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_135
+  - first:
+      213: -5959270103067416892
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_136
+  - first:
+      213: -4502337872139847670
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_137
+  - first:
+      213: 3817432728526034964
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_138
+  - first:
+      213: 8869133934974959238
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_139
+  - first:
+      213: -4140600724510845212
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_140
+  - first:
+      213: -4881996587809731114
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_141
+  - first:
+      213: -646742446924742710
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_142
+  - first:
+      213: 9177488286474166482
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_143
+  - first:
+      213: -2609120946344119888
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_144
+  - first:
+      213: -913541896244491720
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_145
+  - first:
+      213: -1672476889064742592
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_146
+  - first:
+      213: 5217067548625000402
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_147
+  - first:
+      213: 2307542355257169916
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_148
+  - first:
+      213: 7980907908880872653
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_149
+  - first:
+      213: 3587817189726798400
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_150
+  - first:
+      213: 625919142686426790
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_151
+  - first:
+      213: 8999588063774571318
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_152
+  - first:
+      213: 132109105762088044
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_153
+  - first:
+      213: -1012598419644922057
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_154
+  - first:
+      213: -3080426341206502737
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_155
+  - first:
+      213: 3259708882863783723
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_156
+  - first:
+      213: -4798587106241561826
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_157
+  - first:
+      213: -4751751798571916602
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_158
+  - first:
+      213: 6859863394410842411
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_159
+  - first:
+      213: -7321839735584607182
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_160
+  - first:
+      213: -9087877438125527567
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_161
+  - first:
+      213: -2061340288486932166
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_162
+  - first:
+      213: -7826221291690662082
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_163
+  - first:
+      213: -7435019044068820176
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_164
+  - first:
+      213: -2094154714980246464
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_165
+  - first:
+      213: 2129103942642057832
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_166
+  - first:
+      213: 1998023078057936102
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_167
+  - first:
+      213: -6883456328902169543
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_168
+  - first:
+      213: 7901284784147224508
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_169
+  - first:
+      213: -2979904664508949566
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_170
+  - first:
+      213: 8314657257160435076
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_171
+  - first:
+      213: -6389696848780113623
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_172
+  - first:
+      213: 3789680995348802374
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_173
+  - first:
+      213: -8870686360651151924
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_174
+  - first:
+      213: 1390652465280763381
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_175
+  - first:
+      213: -6301617846635460146
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_176
+  - first:
+      213: 2753639680998407457
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_177
+  - first:
+      213: -5717118264330799532
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_178
+  - first:
+      213: 5123348474693785689
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_179
+  - first:
+      213: 2465085612010588093
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_180
+  - first:
+      213: 4412166375762784466
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_181
+  - first:
+      213: -9154287698991827676
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_182
+  - first:
+      213: 3250321000148036165
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_183
+  - first:
+      213: 1248322135059321075
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_184
+  - first:
+      213: 6245515739753043846
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_185
+  - first:
+      213: 177802356048455795
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_186
+  - first:
+      213: -474238752060542249
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_187
+  - first:
+      213: 3434674320712065264
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_188
+  - first:
+      213: -918069959077875952
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_189
+  - first:
+      213: 4733796267660442523
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_190
+  - first:
+      213: -627711944570870492
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_191
+  - first:
+      213: -3191965570220306501
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_192
+  - first:
+      213: -3520872351876596060
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_193
+  - first:
+      213: 7923229214748195054
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_194
+  - first:
+      213: 2637877939091817360
+    second: GG_Danger_Level_Indicator_SpriteSheet_270x800_195
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,14 +629,14 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spriteGenerateFallbackPhysicsShape: 0
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
@@ -89,7 +677,4123 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10400
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f52e72603f49b50800000000000000
+      internalID: 6599166561769119491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_1
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 10400
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e6f55d277188c30800000000000000
+      internalID: 4361762021081837148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_2
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 10400
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3babdfe5526c64880800000000000000
+      internalID: -8626990172371830093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_3
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 10400
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb4c12dbfc6f6a90800000000000000
+      internalID: -7318511040636105742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_4
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 10400
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f675f654f3cb360f0800000000000000
+      internalID: -1124848501978605713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_5
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 10400
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9f360c83ab69050800000000000000
+      internalID: 5807033522449545633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_6
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 10400
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136beac1c51c6eb30800000000000000
+      internalID: 4316349894243563057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_7
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 10400
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14b4a7199b1b9b70800000000000000
+      internalID: 8906743032395904027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_8
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 10400
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09907e802b5d66410800000000000000
+      internalID: 1470097289013299600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_9
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 10400
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79174032f2b6b4750800000000000000
+      internalID: 6290239154748158359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_10
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 10400
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfea720aeab76a00800000000000000
+      internalID: 749773377207201723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_11
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 10400
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d8e79c722ebbc50800000000000000
+      internalID: 6682183132646378835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_12
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 10400
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198e2f0e685e5f0c0800000000000000
+      internalID: -4542472281670883183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_13
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 10400
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ce6e3c7a70577a0800000000000000
+      internalID: -6380184879972815727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9600
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22dad7c2b63661830800000000000000
+      internalID: 4041527027570683170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_15
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 9600
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4050e43caa176cc40800000000000000
+      internalID: 5532234170506282244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_16
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 9600
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7c68de63ecb1190800000000000000
+      internalID: -7990566378530224168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_17
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 9600
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26278910adce2d490800000000000000
+      internalID: -7722849989913185694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_18
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 9600
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fae139d9586696c0800000000000000
+      internalID: -4137004472587916558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_19
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 9600
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0743e656991fcfbe0800000000000000
+      internalID: -1442012139531389840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_20
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 9600
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0292318c1f2b1e60800000000000000
+      internalID: 7933986968016425487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_21
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 9600
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3de4f2ffa8c8b20800000000000000
+      internalID: 3138035868985381873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_22
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 9600
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f061098a6361dd7a0800000000000000
+      internalID: -6350895475510471153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_23
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 9600
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4f34d2c7e18cce0800000000000000
+      internalID: -1384823366732221199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_24
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 9600
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4e85310655f3640800000000000000
+      internalID: 5061858377317541056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_25
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 9600
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8312313163acfad0800000000000000
+      internalID: -2667077241477655667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_26
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 9600
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa60fbe63c53c2b0800000000000000
+      internalID: -5565503323543409928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_27
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 9600
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b947bf7ed93d040800000000000000
+      internalID: 4671250858195065609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8800
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2a4ecaaf5304b10800000000000000
+      internalID: 1963628788292297456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_29
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 8800
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49dda0fc697214020800000000000000
+      internalID: 2324182411372060052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_30
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 8800
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5668e832672610120800000000000000
+      internalID: 2378290337770538597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_31
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 8800
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af780ab0113c4af0800000000000000
+      internalID: -410899518087200856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_32
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 8800
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a69f013c0c38060800000000000000
+      internalID: 6954614193626114700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_33
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 8800
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8e7cff2abfd7b10800000000000000
+      internalID: 1981016088607451302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_34
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 8800
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9453dffb5cd484c0800000000000000
+      internalID: -4286058657657695073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_35
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 8800
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d4e6efc265ee9c0800000000000000
+      internalID: -3896081876381709016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_36
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 8800
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f68619db7726c9f0800000000000000
+      internalID: -448627700000192783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_37
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 8800
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53aab3a7bfa048a00800000000000000
+      internalID: 757742712508885557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_38
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 8800
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5884be49329f7c090800000000000000
+      internalID: -8014163080664889211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_39
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 8800
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb3787e823ae4850800000000000000
+      internalID: 6363202719599508400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_40
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 8800
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955178fda37706810800000000000000
+      internalID: 1756534949416473945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_41
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 8800
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44eea52ee821547d0800000000000000
+      internalID: -2934919177269744060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8000
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2412086eadf79400800000000000000
+      internalID: 331012023146124333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_43
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 8000
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b08dfd007d5da530800000000000000
+      internalID: 3867850390833561777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_44
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 8000
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae8c96f707d672d0800000000000000
+      internalID: -3281198849290629465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_45
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 8000
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7b5a7f60897c070800000000000000
+      internalID: 8126631208305407911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_46
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 8000
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680ff4b59e11187d0800000000000000
+      internalID: -2918031389602353018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_47
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 8000
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b361b9747a45370800000000000000
+      internalID: 8310451138391849874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_48
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 8000
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b95f279ac7c4f520800000000000000
+      internalID: 2735030546654517689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_49
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 8000
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559799dbb6bcd63d0800000000000000
+      internalID: -3211687295642404523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_50
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 8000
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfc165927c0d1f50800000000000000
+      internalID: 6853647894199783353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_51
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 8000
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d0f1469212a3bb0800000000000000
+      internalID: -4955611978310677172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_52
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 8000
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a69612221e0cfd0800000000000000
+      internalID: -2323609871017481600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_53
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 8000
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e46d2315691bdd0800000000000000
+      internalID: -2472029444960268726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_54
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 8000
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ece1950d550b950800000000000000
+      internalID: 6462759818613411475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_55
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 8000
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6d3768532fc6100800000000000000
+      internalID: 102723203225605863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7200
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1205ba2349835360800000000000000
+      internalID: 7157215154394169884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_57
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 7200
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f5f290b4fc72880800000000000000
+      internalID: -8635705839276040299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_58
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 7200
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18823f7c3e4e67d40800000000000000
+      internalID: 5581900455135619201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_59
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 7200
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c52fc825e2917b0800000000000000
+      internalID: -5253116558264083347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_60
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 7200
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10b3469f647af750800000000000000
+      internalID: 6339507448088604700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_61
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 7200
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ad759a6c01435c0800000000000000
+      internalID: -4236742904018118013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_62
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 7200
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c2f14cc2c9319b0800000000000000
+      internalID: -5110569436052509653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_63
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 7200
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada5ca3e3d21948c0800000000000000
+      internalID: -4014656891556963622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_64
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 7200
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c579da21036623b0800000000000000
+      internalID: -5537629835140434491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_65
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 7200
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f7329f02d3163d0800000000000000
+      internalID: -3215221447137722487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_66
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 7200
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d65c9957e3018c0800000000000000
+      internalID: -4030652991684645574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_67
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 7200
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afab55ceb87517680800000000000000
+      internalID: -8759123541781792006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_68
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 7200
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d95b1b887ef6320800000000000000
+      internalID: 2553514088025398627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_69
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 7200
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e50b0524c0b91870800000000000000
+      internalID: 8654142515450676711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6400
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814b047daa83520e0800000000000000
+      internalID: -2295366128668462056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_71
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 6400
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fcae8f81eb4bf70800000000000000
+      internalID: 9202188953089396555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_72
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 6400
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a252bc49e171540800000000000000
+      internalID: 4978481537493576337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_73
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 6400
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee7dd0913b8729a0800000000000000
+      internalID: -6257880112207921430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_74
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 6400
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5389beede65ccf0800000000000000
+      internalID: -232657902025296438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_75
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 6400
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e933ed8dd6c93bae0800000000000000
+      internalID: -1534711052399397986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_76
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 6400
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9124d4c941bf8cc0800000000000000
+      internalID: -3706549037909663330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_77
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 6400
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5fee6b0d492b2700800000000000000
+      internalID: 516551993145093979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_78
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 6400
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2a00371f9c16b00800000000000000
+      internalID: 820158646011863713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_79
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 6400
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22291976b998486a0800000000000000
+      internalID: -6447877465937178078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_80
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 6400
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503128539ee40f5a0800000000000000
+      internalID: -6489600299508821243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_81
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 6400
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1590355aedd8630800000000000000
+      internalID: 3931042851408400883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_82
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 6400
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f7b38bd7cbb1a10800000000000000
+      internalID: 1881304517505154958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_83
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 6400
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f587bd7a24bb1a0800000000000000
+      internalID: -6792762324249190538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5600
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed18d74ed4f500610800000000000000
+      internalID: 1585371856984965598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_85
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 5600
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051d61f7167507b10800000000000000
+      internalID: 1977176312671293776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_86
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 5600
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1eaa9b9354245140800000000000000
+      internalID: 4707427452020502045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_87
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 5600
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ade144d3f163cb60800000000000000
+      internalID: 7765157882382904745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_88
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 5600
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9bcecf2ef8aeb60800000000000000
+      internalID: 7776185911677336062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_89
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 5600
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b72316c599ea60e0800000000000000
+      internalID: -2275749832199821388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_90
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 5600
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e33f336e1e304d0800000000000000
+      internalID: -3169441333908390361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_91
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 5600
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98219ff2b76cd5da0800000000000000
+      internalID: -5954384899925798263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_92
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 5600
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e62302361aea22d0800000000000000
+      internalID: -3302569995673590042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_93
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 5600
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f314765cfd07818e0800000000000000
+      internalID: -1722502751077318337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_94
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 5600
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68e4332bf1ec9820800000000000000
+      internalID: 2926462326627690607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_95
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 5600
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1b66dbd3480c470800000000000000
+      internalID: 8412869504633582049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_96
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 5600
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c1312c6f635b6c0800000000000000
+      internalID: -4128333049969304546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_97
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 5600
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5012400a4e883cbd0800000000000000
+      internalID: -2611092843426209531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4800
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0a778c6f1ef4a20800000000000000
+      internalID: 3048903922794602738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_99
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 4800
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3028b25bd935cc0800000000000000
+      internalID: -3723459065460685843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_100
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 4800
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06af81db49d923320800000000000000
+      internalID: 2536262802316261984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_101
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 4800
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01a7bb10f64e90f0800000000000000
+      internalID: -1108370461215448818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_102
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 4800
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802a31b398c3be340800000000000000
+      internalID: 4894071980167504392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_103
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 4800
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08dadd95c4d72f320800000000000000
+      internalID: 2590270502570143104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_104
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 4800
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19600785f27391c0800000000000000
+      internalID: -4498125203955488484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_105
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 4800
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e28608046dc8c80800000000000000
+      internalID: -8319038839139586416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_106
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 4800
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4a360db79a0a870800000000000000
+      internalID: 8692133630067320044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_107
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 4800
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a3e2807e793ca20800000000000000
+      internalID: 3081473588582038166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_108
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 4800
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e50af99a95cb1d0800000000000000
+      internalID: -3333691039098577303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_109
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 4800
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c98880997c97b060800000000000000
+      internalID: 6969210994308975041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_110
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 4800
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58ee47075ac481d0800000000000000
+      internalID: -3349329747723229093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_111
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 4800
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5975cc53dd6fd6620800000000000000
+      internalID: 2769140775853512597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4000
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50be8191034d20f00800000000000000
+      internalID: 1081660163566922501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_113
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 4000
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942ce61fa0d553760800000000000000
+      internalID: 7436952661253866057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_114
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 4000
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd001d170cbaf3040800000000000000
+      internalID: 4629607784991752411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_115
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 4000
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35afea1c85682ef00800000000000000
+      internalID: 1144624971070241363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_116
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 4000
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94200ba08aaa1ceb0800000000000000
+      internalID: -4701288897287552439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_117
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 4000
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cced81ef9649d1d90800000000000000
+      internalID: -7125375852474736948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_118
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 4000
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44c305343598a310800000000000000
+      internalID: 1416546134268298316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_119
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 4000
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b169e5b89de5170800000000000000
+      internalID: 8169205966707235635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_120
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 4000
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68daabf8333064680800000000000000
+      internalID: -8771319704267870842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_121
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 4000
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8b7c4eeced58a30800000000000000
+      internalID: 4217021606285261036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_122
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 4000
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85058d1343f19d9f0800000000000000
+      internalID: -443288779284262824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_123
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 4000
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfefe86d12a3743a0800000000000000
+      internalID: -6681307605172814084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_124
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 4000
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c980a2128e89230800000000000000
+      internalID: 3645919127493188755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_125
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 4000
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5871bf63d456920800000000000000
+      internalID: 2982875226739017147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3200
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6250adfb2300b90800000000000000
+      internalID: -7277761198252808484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_127
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 3200
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d055047ee39117f0800000000000000
+      internalID: -643570619379265324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_128
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 3200
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c24c71f3495d4870800000000000000
+      internalID: 8668683006107206344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_129
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 3200
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c61b8e338c2dceb0800000000000000
+      internalID: -4698049894075918647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_130
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 3200
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab39cf92da979880800000000000000
+      internalID: -8604238333653468250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_131
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 3200
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783ce667f1a507170800000000000000
+      internalID: 8174132414854906759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_132
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 3200
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab55e4883c474da0800000000000000
+      internalID: -5960711776170058834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_133
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 3200
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f264de25c3822c190800000000000000
+      internalID: -7943742553173703121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_134
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 3200
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbccd9c574d1ef50800000000000000
+      internalID: 6909036905726004191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_135
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 3200
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fb8ec5af5dfd430800000000000000
+      internalID: 3809999081056026399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_136
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 3200
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6af023a6b6c4da0800000000000000
+      internalID: -5959270103067416892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_137
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 3200
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08f0584f8b7481c0800000000000000
+      internalID: -4502337872139847670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_138
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 3200
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4189eb947de3af430800000000000000
+      internalID: 3817432728526034964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_139
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 3200
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e7b8bb25e751b70800000000000000
+      internalID: 8869133934974959238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e65ec23491a986c0800000000000000
+      internalID: -4140600724510845212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_141
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 2400
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd8ee428f9af3cb0800000000000000
+      internalID: -4881996587809731114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_142
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2400
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf32edcb2f4607f0800000000000000
+      internalID: -646742446924742710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_143
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 2400
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0e99dd8fcfc5f70800000000000000
+      internalID: 9177488286474166482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_144
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2400
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1b021b25a8acbd0800000000000000
+      internalID: -2609120946344119888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_145
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 2400
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a09ea4c727253f0800000000000000
+      internalID: -913541896244491720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_146
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 2400
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041ee3c612b2ac8e0800000000000000
+      internalID: -1672476889064742592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_147
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 2400
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7d2055b4fb66840800000000000000
+      internalID: 5217067548625000402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_148
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2400
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf79545db89060020800000000000000
+      internalID: 2307542355257169916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_149
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 2400
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc433fd5571e1ce60800000000000000
+      internalID: 7980907908880872653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_150
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 2400
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042c4b899bc7ac130800000000000000
+      internalID: 3587817189726798400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_151
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 2400
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a601fdd426bfa800800000000000000
+      internalID: 625919142686426790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_152
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 2400
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bf02289a5f4ec70800000000000000
+      internalID: 8999588063774571318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_153
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 2400
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c643b80288855d100800000000000000
+      internalID: 132109105762088044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73741f03a1782f1f0800000000000000
+      internalID: -1012598419644922057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_155
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1600
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa251af30902045d0800000000000000
+      internalID: -3080426341206502737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_156
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1600
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ff74255ffcc3d20800000000000000
+      internalID: 3259708882863783723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_157
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1600
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bb3bc637ef76db0800000000000000
+      internalID: -4798587106241561826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_158
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1600
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c22c414ae26e0eb0800000000000000
+      internalID: -4751751798571916602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_159
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1600
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29409f7961233f50800000000000000
+      internalID: 6859863394410842411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_160
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1600
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234b322ad89936a90800000000000000
+      internalID: -7321839735584607182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_161
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1600
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdad32ae9f51e180800000000000000
+      internalID: -9087877438125527567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_162
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1600
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a310987dde5a463e0800000000000000
+      internalID: -2061340288486932166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_163
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 1600
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37ed27433da36390800000000000000
+      internalID: -7826221291690662082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_164
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1600
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b7304629181d890800000000000000
+      internalID: -7435019044068820176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_165
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 1600
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c94ecc16110f2e0800000000000000
+      internalID: -2094154714980246464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_166
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1600
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862401f51c81c8d10800000000000000
+      internalID: 2129103942642057832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_167
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 1600
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e40dac47676abb10800000000000000
+      internalID: 1998023078057936102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c2fd060fc0970a0800000000000000
+      internalID: -6883456328902169543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_169
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 800
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb75b4cf5a007ad60800000000000000
+      internalID: 7901284784147224508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_170
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 800
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb1a6fee7045a6d0800000000000000
+      internalID: -2979904664508949566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_171
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 800
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485eb22f8b8936370800000000000000
+      internalID: 8314657257160435076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_172
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 800
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9294702f19c3357a0800000000000000
+      internalID: -6389696848780113623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_173
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 800
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b60d369c6a79430800000000000000
+      internalID: 3789680995348802374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_174
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 800
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc54c7ff0cdf4e480800000000000000
+      internalID: -8870686360651151924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_175
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 800
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5c4179c079c4310800000000000000
+      internalID: 1390652465280763381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_176
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 800
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec90805b4f72c88a0800000000000000
+      internalID: -6301617846635460146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_177
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 800
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d745153b4e63620800000000000000
+      internalID: 2753639680998407457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_178
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 800
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4563aabaa37b8a0b0800000000000000
+      internalID: -5717118264330799532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_179
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 800
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95899a60b4ac91740800000000000000
+      internalID: 5123348474693785689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_180
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 800
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db741d4bd4eb53220800000000000000
+      internalID: 2465085612010588093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_181
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 800
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0734d21f92b3d30800000000000000
+      internalID: 4412166375762784466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_182
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4253dd9d6df65f080800000000000000
+      internalID: -9154287698991827676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_183
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ae0db8ab57b1d20800000000000000
+      internalID: 3250321000148036165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_184
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0d7713e5ee25110800000000000000
+      internalID: 1248322135059321075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_185
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 0
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6875713a9778ca650800000000000000
+      internalID: 6245515739753043846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_186
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378ee700d4ea77200800000000000000
+      internalID: 177802356048455795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_187
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 0
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2f4bc1e5a2b69f0800000000000000
+      internalID: -474238752060542249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_188
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 0
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0e235d81a6aaf20800000000000000
+      internalID: 3434674320712065264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_189
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 0
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fa4328c3c5243f0800000000000000
+      internalID: -918069959077875952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_190
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 0
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b78fcef92d1b140800000000000000
+      internalID: 4733796267660442523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_191
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 0
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425659aef4be947f0800000000000000
+      internalID: -627711944570870492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_192
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 0
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfcdb3c93cd3b3d0800000000000000
+      internalID: -3191965570220306501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_193
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 0
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aeb6e61049532fc0800000000000000
+      internalID: -3520872351876596060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_194
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 0
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee83013edf6f4fd60800000000000000
+      internalID: 7923229214748195054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG_Danger_Level_Indicator_SpriteSheet_270x800_195
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 0
+        width: 270
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09348607200ab9420800000000000000
+      internalID: 2637877939091817360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

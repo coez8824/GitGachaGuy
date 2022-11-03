@@ -23,16 +23,19 @@ public class GachaList : MonoBehaviour
     void Awake()
     {
         buildGachaList();   //builds lists on start
+        slot1 = listChar[0];
+        slot2 = listChar[0];
+        slot3 = listChar[0];
     }
 
     void buildGachaList()   //method to build listChar and assign slots to empty char
     {
         listChar.Add(new GachaCharacter(0, "Empty", "...", 0, empty));
-        //listChar.Add(new GachaCharacter(1, "Nosfie Dracul", "Health Steal", 5, nosfieDracul));
+        listChar.Add(new GachaCharacter(1, "Nosfie Dracul", "Health Steal", 5, nosfieDracul));
         listChar.Add(new GachaCharacter(2, "Ma Faker", "Income", 10, maFaker));
-        //listChar.Add(new GachaCharacter(3, "Alice Studos", "Aggro Buff", 15, aliceStudos));
+        listChar.Add(new GachaCharacter(3, "Alice Studos", "Aggro Buff", 15, aliceStudos));
         listChar.Add(new GachaCharacter(4, "Fluoride Suninwind", "Pre-Heal", 10, fluorideSuninwind));
-        //listChar.Add(new GachaCharacter(5, "Penny Poe", "Thorns", 20, pennyPoe));
+        listChar.Add(new GachaCharacter(5, "Penny Poe", "Thorns", 20, pennyPoe));
         listChar.Add(new GachaCharacter(6, "Grelian", "Sheild Buff", 15, grelian));
 
         slot1 = listChar[0];
@@ -49,7 +52,7 @@ public class GachaList : MonoBehaviour
                 break;
             
             case 1 : 
-                Debug.Log(slot.passive); //Not implemented
+                nosVampirism(slot.level); //Not implemented
                 break;
             
             case 2:
@@ -57,7 +60,7 @@ public class GachaList : MonoBehaviour
                 break;
 
             case 3:
-                Debug.Log(slot.passive); //Not implemented
+                aliAggroBuff(slot.level); //Not implemented
                 break;
 
             case 4:
@@ -65,7 +68,7 @@ public class GachaList : MonoBehaviour
                 break;
 
             case 5:
-                Debug.Log(slot.passive); //Not implemented
+                penThorns(slot.level); //Not implemented
                 break;
 
             case 6:
@@ -81,18 +84,30 @@ public class GachaList : MonoBehaviour
     public void maLuckIncrease(int level)
     {
         gm.GetComponent<PlayerStats>().LCK = level;
-        Debug.Log("Yes");
     }
 
     public void fluHealthIncrease(int level)
     {
         gm.GetComponent<PlayerStats>().setHTH(100 + (level * 10));
-        Debug.Log("Yes");
     }
 
     public void greShieldBuff(int level)
     {
         gm.GetComponent<PlayerStats>().setSHD(50 + (level * 5));
-        Debug.Log("Yes");
+    }
+
+    public void nosVampirism(int level)
+    {
+        //need enemy on death
+    }
+
+    public void aliAggroBuff(int level)
+    {
+        //aggro not implemented
+    }
+
+    public void penThorns(int level)
+    {
+        //need enemy on hit 
     }
 }
