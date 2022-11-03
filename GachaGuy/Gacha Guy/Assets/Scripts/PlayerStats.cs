@@ -28,6 +28,7 @@ public class PlayerStats : MonoBehaviour
     //Guns, will use gun name to search through list of guns and set current gun stats accordingly
     public string gun1;
     public string gun2;
+    public bool using1;
 
     //Functions
     private void Start()

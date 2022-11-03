@@ -60,6 +60,20 @@ public class Pickup : MonoBehaviour
     {
         if(effect == "newGun")
         {
+
+            if(gm.ps.gun2 == "")
+            {
+                gm.ps.gun2 = "Rifle";
+            }
+            else if (gm.ps.using1)
+            {
+                gm.ps.gun1 = "Rifle";
+            }
+            else
+            {
+                gm.ps.gun2 = "Rifle";
+            }
+
             gm.gSetter.gunSetter("Rifle");
         }
         else

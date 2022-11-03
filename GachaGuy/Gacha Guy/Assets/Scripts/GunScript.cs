@@ -8,6 +8,8 @@ using UnityEngine.XR;
 
 public class GunScript : MonoBehaviour
 {
+    //IEnumerator courVis;
+
     private GameManager gm;
     public ShakeBehavior sb;
     public AudioSource bang;
@@ -45,8 +47,12 @@ public class GunScript : MonoBehaviour
     //Spot where bullets come out of
     public Transform firePoint;
 
+    //private bool G;
+
     private void Start()
     {
+        //G = false;
+
         gm = FindObjectOfType<GameManager>();
 
         canShoot = true;
@@ -142,6 +148,11 @@ public class GunScript : MonoBehaviour
         }*/
         if ((canReload)&&(gm.ps.AMM != 0))
         {
+            //G = false;
+            //if(courVis!=null)
+            //StopCoroutine(courVis);
+
+            //courVis = spinReload(6);
             re.Play();
             regButtons.SetActive(false);
             colorButtons.SetActive(true);
@@ -168,10 +179,11 @@ public class GunScript : MonoBehaviour
 
         if (skip == true)
         {
+            //Debug.Log("G");
             skip = false;
             yield break;
         }
-        else
+        else// if (!G)
         {
             int a = CLP - curr;
 
@@ -197,7 +209,7 @@ public class GunScript : MonoBehaviour
             colorButtons.SetActive(false);
             regButtons.SetActive(true);
         }
-
+        //yield return null;
         
     }
 
@@ -206,26 +218,31 @@ public class GunScript : MonoBehaviour
         float startRotation = transform.eulerAngles.y;
         float endRotation = startRotation + 360.0f;
         float t = 0.0f;
-        while (t < duration)
+        while ((t < duration))
         {
             if (skip == true)
             {
-                spinG.transform.eulerAngles = new Vector3(0, 0, 0);
+                //t = duration;
+                //spinG.transform.eulerAngles = new Vector3(0, 0, 0);
+                //StopCoroutine(Reloading(6));
                 //skip = false;
                 reloadVisual.SetActive(false);
                 yield break;
             }
-            t += Time.deltaTime;
-            float zRotation = Mathf.Lerp(startRotation, endRotation, t / duration) % 360.0f;
-            spinG.transform.eulerAngles = new Vector3(transform.eulerAngles.x, transform.eulerAngles.y, zRotation);
-            yield return null;
+            else
+            {
+                t += Time.deltaTime;
+                float zRotation = Mathf.Lerp(startRotation, endRotation, t / duration) % 360.0f;
+                spinG.transform.eulerAngles = new Vector3(transform.eulerAngles.x, transform.eulerAngles.y, zRotation);
+                yield return null;
+            }
         }
         reloadVisual.SetActive(false);
     }
 
     private void buttonPicker()
     {
-        int i = Random.Range(1, 3);
+        int i = Random.Range(0, 3);
 
         if (i == 0)
         {
@@ -249,6 +266,7 @@ public class GunScript : MonoBehaviour
         if(buttonColor == "Red")
         {
             skip = true;
+            //G = true;
             skipReload();
         }
         else
@@ -264,6 +282,7 @@ public class GunScript : MonoBehaviour
         if (buttonColor == "Blue")
         {
             skip = true;
+            //G = true;
             skipReload();
         }
         else
@@ -279,6 +298,7 @@ public class GunScript : MonoBehaviour
         if (buttonColor == "Pink")
         {
             skip = true;
+            //G = true;
             skipReload();
         }
         else
@@ -291,6 +311,8 @@ public class GunScript : MonoBehaviour
 
     private void skipReload()
     {
+        //G = true;
+
         int a = CLP - curr;
 
         if (inf)

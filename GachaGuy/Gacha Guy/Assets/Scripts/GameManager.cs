@@ -49,6 +49,8 @@ public class GameManager : MonoBehaviour
         ps.gun1 = "Pistol";
         ps.gun2 = "";
 
+        ps.using1 = true;
+
         gSetter.gunSetter("Pistol");
     }
 
@@ -120,5 +122,19 @@ public class GameManager : MonoBehaviour
         }
 
         StartCoroutine(rechargeShield()); //Continues recharge if shield isn't full
+    }
+
+    public void swapGun()
+    {
+        if(ps.using1)
+        {
+            ps.using1 = false;
+            gSetter.gunSetter(ps.gun2);
+        }
+        else
+        {
+            ps.using1 = true;
+            gSetter.gunSetter(ps.gun1);
+        }
     }
 }
