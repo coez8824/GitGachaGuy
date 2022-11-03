@@ -117,9 +117,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7139f6007780304439846431001edcb5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  target: {fileID: 0}
-  testX: 0
-  testY: 0
 --- !u!114 &6366159778938138236
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -175,7 +172,6 @@ GameObject:
   - component: {fileID: 7686440457991198197}
   - component: {fileID: 6795654081540917228}
   - component: {fileID: 915039700462639289}
-  - component: {fileID: 1422296243324977898}
   - component: {fileID: 2708895744782199528}
   - component: {fileID: 407436760205176683}
   - component: {fileID: -8989096148156155153}
@@ -397,6 +393,9 @@ MonoBehaviour:
   enemyAnimations: {fileID: 0}
   collide: {fileID: 0}
   randomSound: 0
+  testX: 0
+  testY: 0
+  first: 0
 --- !u!114 &6795654081540917228
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -430,21 +429,6 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &1422296243324977898
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7686440457991198196}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7139f6007780304439846431001edcb5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  target: {fileID: 0}
-  testX: 0
-  testY: 0
 --- !u!114 &2708895744782199528
 MonoBehaviour:
   m_ObjectHideFlags: 0

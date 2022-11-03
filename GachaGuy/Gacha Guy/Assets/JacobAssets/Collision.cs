@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Runtime.ExceptionServices;
 using Unity.IO.LowLevel.Unsafe;
 using UnityEngine;
 using static UnityEngine.GraphicsBuffer;
@@ -23,6 +24,10 @@ public class Collision : MonoBehaviour
     public Enemy1Animations enemyAnimations;
     public Collider2D collide;
     public int randomSound;
+    EnemyShooter shooter;
+    public float testX;
+    public float testY;
+    public bool first;
     // Start is called before the first frame update
     void Start()
     {
@@ -32,6 +37,7 @@ public class Collision : MonoBehaviour
         orig = sr.color;
         //-
 
+        first = true;
         target = GameObject.FindWithTag("Player").transform;
         health = 5;
         enemyAnimator = GetComponent<Animator>();
@@ -44,6 +50,22 @@ public class Collision : MonoBehaviour
         if(health <= 0)
         {
             StartCoroutine(DelayedDeath());
+        }
+
+        if (target != null && health > 0)
+        {
+            testX = target.position.x - transform.position.x;
+            testY = target.position.y - transform.position.y;
+            enemyAnimator.SetFloat("MoveY", target.position.y - transform.position.y);
+            enemyAnimator.SetFloat("MoveX", target.position.x - transform.position.x);
+            if ((testX) <= 9.5f && (testY) <= 9.5f && (testX) >= -9.5f && (testY) >= -9.5f)
+            {
+                enemyAnimator.SetBool("isMoving", false);
+            }
+            else
+            {
+                enemyAnimator.SetBool("isMoving", true);
+            }
         }
     }
 
@@ -60,8 +82,12 @@ public class Collision : MonoBehaviour
         collide.enabled = false;
         enemyAnimator.SetBool("isDead", true);
 
-        enemyAnimator.SetFloat("MoveY", target.position.y - transform.position.y);
-        enemyAnimator.SetFloat("MoveX", target.position.x - transform.position.x);
+        if(first == true)
+        {
+            first = false;
+            enemyAnimator.SetFloat("MoveY", target.position.y - transform.position.y);
+            enemyAnimator.SetFloat("MoveX", target.position.x - transform.position.x);
+        }
 
         randomSound = Random.Range(0, 13);
         deathSoundArray[randomSound].Play();
