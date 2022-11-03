@@ -1,3 +1,4 @@
+using Pathfinding;
 using System.Collections;
 using System.Collections.Generic;
 using System.Runtime.ExceptionServices;
@@ -6,7 +7,6 @@ using UnityEngine;
 using static UnityEngine.GraphicsBuffer;
 
 //Code quaratined with "//-" is code added by Zoom
-
 public class Collision : MonoBehaviour
 {
     //-
@@ -28,6 +28,7 @@ public class Collision : MonoBehaviour
     public float testX;
     public float testY;
     public bool first;
+    public AIPath AIPathScript;
     // Start is called before the first frame update
     void Start()
     {
@@ -80,6 +81,7 @@ public class Collision : MonoBehaviour
     IEnumerator DelayedDeath()
     {
         collide.enabled = false;
+        AIPathScript.canMove = false;
         enemyAnimator.SetBool("isDead", true);
 
         if(first == true)
