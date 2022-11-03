@@ -23,7 +23,7 @@ public class EnemyShooter : MonoBehaviour
         StartCoroutine(fire(interval));
     }
 
-    private IEnumerator fire(float interval)
+    public IEnumerator fire(float interval)
     {
         
             yield return new WaitForSeconds(interval);
