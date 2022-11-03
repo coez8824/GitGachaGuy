@@ -46,9 +46,6 @@
         },
         {
             "m_Id": "dcc8dfeb63474555b30a8e565f654cc5"
-        },
-        {
-            "m_Id": "97d1ef0bf77b4c17adbe801f2023ca56"
         }
     ],
     "m_GroupDatas": [],
@@ -127,6 +124,34 @@
         {
             "m_OutputSlot": {
                 "m_Node": {
+                    "m_Id": "97f244a1eada4378b29e55c0b269b826"
+                },
+                "m_SlotId": 0
+            },
+            "m_InputSlot": {
+                "m_Node": {
+                    "m_Id": "9d22d61f1acf47e98be334a56a1318de"
+                },
+                "m_SlotId": 0
+            }
+        },
+        {
+            "m_OutputSlot": {
+                "m_Node": {
+                    "m_Id": "97f244a1eada4378b29e55c0b269b826"
+                },
+                "m_SlotId": 7
+            },
+            "m_InputSlot": {
+                "m_Node": {
+                    "m_Id": "afcff907ac5a423ca307ceaa4cce3185"
+                },
+                "m_SlotId": 0
+            }
+        },
+        {
+            "m_OutputSlot": {
+                "m_Node": {
                     "m_Id": "b459cd7d710e4e9ba44e9bce1b839e14"
                 },
                 "m_SlotId": 1
@@ -155,8 +180,8 @@
     ],
     "m_VertexContext": {
         "m_Position": {
-            "x": -189.3333282470703,
-            "y": -474.6666259765625
+            "x": -160.6667022705078,
+            "y": -143.3333282470703
         },
         "m_Blocks": [
             {
@@ -793,38 +818,6 @@
         "m_Guid": ""
     },
     "m_DefaultType": 0
-}
-
-{
-    "m_SGVersion": 1,
-    "m_Type": "UnityEditor.ShaderGraph.CustomFunctionNode",
-    "m_ObjectId": "97d1ef0bf77b4c17adbe801f2023ca56",
-    "m_Group": {
-        "m_Id": ""
-    },
-    "m_Name": "Custom Function",
-    "m_DrawState": {
-        "m_Expanded": true,
-        "m_Position": {
-            "serializedVersion": "2",
-            "x": 59.333282470703128,
-            "y": -280.6666564941406,
-            "width": 207.99998474121095,
-            "height": 244.6666717529297
-        }
-    },
-    "m_Slots": [],
-    "synonyms": [],
-    "m_Precision": 0,
-    "m_PreviewExpanded": true,
-    "m_PreviewMode": 0,
-    "m_CustomColors": {
-        "m_SerializableColors": []
-    },
-    "m_SourceType": 0,
-    "m_FunctionName": "Enter function name here...",
-    "m_FunctionSource": "",
-    "m_FunctionBody": "Enter function body here..."
 }
 
 {
