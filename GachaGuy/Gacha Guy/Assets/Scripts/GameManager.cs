@@ -51,7 +51,7 @@ public class GameManager : MonoBehaviour
 
         ps.using1 = true;
 
-        gSetter.gunSetter("Pistol");
+        gSetter.gunSetter("Pistol", 0);
     }
 
     // Update is called once per frame
@@ -129,12 +129,14 @@ public class GameManager : MonoBehaviour
         if(ps.using1)
         {
             ps.using1 = false;
-            gSetter.gunSetter(ps.gun2);
+            //gs.currSetter(2);
+            gSetter.gunSetter(ps.gun2, 2);
         }
         else
         {
             ps.using1 = true;
-            gSetter.gunSetter(ps.gun1);
+            //gs.currSetter(1);
+            gSetter.gunSetter(ps.gun1, 1);
         }
     }
 }

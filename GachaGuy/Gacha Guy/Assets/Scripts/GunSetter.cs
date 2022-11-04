@@ -13,18 +13,18 @@ public class GunSetter : MonoBehaviour
         gm = GetComponent<GameManager>();
     }
 
-    public void gunSetter(string s) //DAM = d; RAT = r; CLP = c; ACC = a;
+    public void gunSetter(string s, int n) //DAM = d; RAT = r; CLP = c; ACC = a; curNUM = n;
     {
         GS.inf = false;
 
         if (s == "Pistol")
         {
-            GS.setStats(1, 1, 7, .1f);
+            GS.setStats(1, 1, 7, .1f, n);
             GS.inf = true;
         }
         else if (s == "Rifle")
         {
-            GS.setStats(1, .1f, 25, .1f);
+            GS.setStats(1, .1f, 25, .1f, n);
         }
         else
         {

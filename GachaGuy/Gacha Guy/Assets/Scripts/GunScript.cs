@@ -30,6 +30,8 @@ public class GunScript : MonoBehaviour
 
     
     public int curr; //Current ammo in clip
+    public int curr1; //clip for gun1
+    public int curr2; //clip for gun2
 
     public bool inf; //Whether or not gun will use ammo from AMM 
 
@@ -49,6 +51,8 @@ public class GunScript : MonoBehaviour
 
     //private bool G;
 
+    private bool canReloadLock;
+
     private void Start()
     {
         //G = false;
@@ -59,18 +63,51 @@ public class GunScript : MonoBehaviour
         canReload = false;
         reloading = false;
         skip = false;
+
+        canReloadLock = false;
     }
 
-    
 
-    public void setStats(int d, float r, int c, float a)
+    private void Update()
+    {
+        if(curr == CLP)
+        {
+            canReload = false;
+        }
+        if(!canReloadLock)
+        {
+            if(curr < CLP)
+                canReload = true;
+        }
+    }
+
+
+    public void setStats(int d, float r, int c, float a, int currNUM)
     {
         DAM = d;
         RAT = r;
         CLP = c;
         ACC = a;
 
-        curr = CLP;
+        currSetter(currNUM);
+    }
+
+    public void currSetter(int i)
+    {
+        if(i==0)
+        {
+            curr = CLP;
+        }
+        else if(i==1)
+        {
+            curr2 = curr;
+            curr = curr1;
+        }
+        else if (i == 2)
+        {
+            curr1 = curr;
+            curr = curr2;
+        }
     }
 
     public void shoot()
@@ -108,7 +145,7 @@ public class GunScript : MonoBehaviour
 
             canShoot=false;
             curr--; //Remove 1 bullet
-            canReload = true; //With a bullet gone, the gun can be reloaded
+            //canReload = true; //With a bullet gone, the gun can be reloaded
             StartCoroutine(ShotCoolDown()); 
         }
         else
@@ -159,6 +196,7 @@ public class GunScript : MonoBehaviour
 
             buttonPicker();
 
+            canReloadLock = true;
             canReload = false;
             canShoot = false;
             Debug.Log("RELOAD");
@@ -205,6 +243,7 @@ public class GunScript : MonoBehaviour
             Debug.Log("RELOADED");
             canShoot = true;
             reloading = false;
+            canReloadLock = false;
 
             colorButtons.SetActive(false);
             regButtons.SetActive(true);
@@ -332,6 +371,7 @@ public class GunScript : MonoBehaviour
         Debug.Log("SKIP RELOADED");
         canShoot = true;
         reloading = false;
+        canReloadLock = false;
 
         colorButtons.SetActive(false);
         regButtons.SetActive(true);

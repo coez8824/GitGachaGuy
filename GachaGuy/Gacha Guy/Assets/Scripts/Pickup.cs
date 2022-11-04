@@ -63,6 +63,8 @@ public class Pickup : MonoBehaviour
 
             if(gm.ps.gun2 == "")
             {
+                gm.gs.curr1 = gm.gs.curr;
+                gm.ps.using1 = false;
                 gm.ps.gun2 = "Rifle";
             }
             else if (gm.ps.using1)
@@ -74,7 +76,7 @@ public class Pickup : MonoBehaviour
                 gm.ps.gun2 = "Rifle";
             }
 
-            gm.gSetter.gunSetter("Rifle");
+            gm.gSetter.gunSetter("Rifle", 0);
         }
         else
         {
