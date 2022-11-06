@@ -51,15 +51,24 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: BG Fog
+    uniqueID: 2967046759
+    locked: 0
   - name: Walls
     uniqueID: 1280105145
     locked: 0
   - name: Floor
     uniqueID: 3672743617
     locked: 0
+  - name: Pick_Ups
+    uniqueID: 3410528273
+    locked: 0
   - name: Enemy
     uniqueID: 2356923687
     locked: 0
   - name: Player
     uniqueID: 1190087409
+    locked: 0
+  - name: Fog
+    uniqueID: 2573576127
     locked: 0

@@ -53,7 +53,7 @@ MonoBehaviour:
   m_LightCookieSprite: {fileID: 0}
   m_UseNormalMap: 0
   m_LightOrder: 0
-  m_AlphaBlendOnOverlap: 0
+  m_AlphaBlendOnOverlap: 1
   m_ShadowIntensity: 0.281
   m_ShadowVolumeIntensity: 0
   m_PointLightInnerAngle: 360
@@ -66,7 +66,7 @@ MonoBehaviour:
   m_ShapeLightParametricAngleOffset: 0
   m_ShapeLightParametricRadius: 1
   m_ShapeLightFalloffSize: 11.92
-  m_ShapeLightFalloffOffset: {x: 0, y: 0}
+  m_ShapeLightFalloffOffset: {x: 0, y: -5.55}
   m_ShapePath:
   - {x: -0.5, y: -0.5, z: 0}
   - {x: 0.5, y: -0.5, z: 0}
