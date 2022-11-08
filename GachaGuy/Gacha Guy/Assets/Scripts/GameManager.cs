@@ -44,7 +44,7 @@ public class GameManager : MonoBehaviour
         ps.currHTH = ps.getHTH();
         ps.currSHD = ps.getSHD();
         ps.WAL = 0;
-        ps.AMM = 999;
+        ps.AMM = 40;
 
         ps.gun1 = "Pistol";
         ps.gun2 = "";
@@ -126,16 +126,55 @@ public class GameManager : MonoBehaviour
 
     public void swapGun()
     {
-        if(ps.using1)
+        if((ps.gun1 == "") || (ps.gun2 == ""))
         {
-            ps.using1 = false;
-            //gs.currSetter(2);
-            gSetter.gunSetter(ps.gun2, 2);
+            if (ps.using1)
+            {
+                ps.using1 = false;
+                //gs.currSetter(2);
+                gSetter.gunSetter(ps.gun2, 2);
+            }
+            else
+            {
+                ps.using1 = true;
+                //gs.currSetter(1);
+                gSetter.gunSetter(ps.gun1, 1);
+            }
         }
         else
         {
-            ps.using1 = true;
-            //gs.currSetter(1);
+            Debug.Log("Nah");
+        }
+    }
+
+    public void tossGun()
+    {
+        if ((ps.using1) && (ps.gun1 == "Pistol"))
+        {
+            Debug.Log("Nah");
+        }
+        else if ((!ps.using1) && (ps.gun2 == "Pistol"))
+        {
+            Debug.Log("Nah");
+        }
+        else if ((ps.using1)&&(ps.gun2 != "Pistol"))
+        {
+            ps.gun1 = "Pistol";
+            gSetter.gunSetter("Pistol", 0);
+        }
+        else if ((!ps.using1) && (ps.gun1 != "Pistol"))
+        {
+            ps.gun2 = "Pistol";
+            gSetter.gunSetter("Pistol", 0);
+        }
+        else if ((ps.using1) && (ps.gun2 == "Pistol"))
+        {
+            ps.gun1 = "";
+            gSetter.gunSetter(ps.gun2, 2);
+        }
+        else if ((!ps.using1) && (ps.gun1 == "Pistol"))
+        {
+            ps.gun2 = "";
             gSetter.gunSetter(ps.gun1, 1);
         }
     }
