@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class GachaList : MonoBehaviour
 {
-    [SerializeField] public GameObject gm;  //Gamemanager to access stats
     public PlayerStats ps;
 
     public List<GachaCharacter> listChar = new List<GachaCharacter>();      //List of all possible characters
@@ -44,11 +43,62 @@ public class GachaList : MonoBehaviour
         slot3 = listChar[0];
     }
 
-    public void abilityChange(GachaCharacter slot)
+    public void change (GachaCharacter slot, GachaCharacter newChar)
     {
-        
+        int tempCurrHTH = ps.currHTH;
+        int tempMaxHTH = ps.getHTH();
+        int tempCurrSHD = ps.currSHD;
+        int tempMaxSHD = ps.getSHD();
 
-        switch (slot.id) 
+        switch (slot.id)     //DISABLE OLD ABILITY
+        {
+            case 0:
+                //Do nothing
+                break;
+
+            case 1:
+                nosVampirismDisable(); //Not implemented
+                break;
+
+            case 2:
+                maLuckIncreaseDisable();
+                break;
+
+            case 3:
+                aliAggroBuffDisable(); //Not implemented
+                break;
+
+            case 4:
+                fluHealthIncreaseDisable();
+                break;
+
+            case 5:
+                penThornsDisable(); //Not implemented
+                break;
+
+            case 6:
+                greShieldBuffDisable();
+                break;
+
+            default:
+                Debug.Log("Broke");
+                break;
+        }
+
+        if (slot.id == slot1.id)
+        {
+            slot1 = newChar;
+        }
+        if (slot.id == slot2.id)
+        {
+            slot2 = newChar;
+        }
+        if (slot.id == slot3.id)
+        {
+            slot3 = newChar;
+        }
+
+        switch (newChar.id)     //ENABLE NEW ABILITY
         {
             case 0 : 
                 //Do nothing
@@ -84,32 +134,70 @@ public class GachaList : MonoBehaviour
         }
     }
 
-    public void maLuckIncrease(int level)
+    public void maLuckIncrease(int level)   //MA FAKER ACTIVE
     {
-        gm.GetComponent<PlayerStats>().LCK = level;
+        ps.LCK = level;
     }
 
-    public void fluHealthIncrease(int level)
+    public void maLuckIncreaseDisable()   //MA FAKER INACTIVE
     {
-        gm.GetComponent<PlayerStats>().setHTH(100 + (level * 10));
+        ps.LCK = 0;
     }
 
-    public void greShieldBuff(int level)
+    public void fluHealthIncrease(int level)    //FLU ACTIVE
     {
-        gm.GetComponent<PlayerStats>().setSHD(50 + (level * 5));
+        ps.setHTH(100 + (level * 10));
     }
 
-    public void nosVampirism(int level)
+    public void fluHealthIncreaseDisable()    //FLU INACTIVE
+    {
+        ps.setHTH(100);
+        if (ps.currHTH > 100)
+        {
+            ps.currHTH = 100;
+        }
+    }
+
+    public void greShieldBuff(int level)    //GRELIAN ACTIVE
+    {
+        ps.setSHD(50 + (level * 5));
+    }
+
+    public void greShieldBuffDisable()    //GRELIAN INACTIVE
+    {
+        ps.setSHD(50);
+        if(ps.currSHD > 50)
+        {
+            ps.currSHD = 50;
+        }
+    }
+
+    public void nosVampirism(int level)     //NOSFIE ACTIVE
     {
         //need enemy on death
     }
 
-    public void aliAggroBuff(int level)
+    public void nosVampirismDisable()     //NOSFIE INACTIVE
+    {
+        //need enemy on death
+    }
+
+    public void aliAggroBuff(int level)     //ALI ACTIVE
     {
         //aggro not implemented
     }
 
-    public void penThorns(int level)
+    public void aliAggroBuffDisable()      //ALI INACTIVE
+    {
+        //aggro not implemented
+    }
+
+    public void penThorns(int level)    //PENNY ACTIVE
+    {
+        //need enemy on hit 
+    }
+
+    public void penThornsDisable()     //PENNY INACTIVE
     {
         //need enemy on hit 
     }
