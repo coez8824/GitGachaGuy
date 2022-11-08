@@ -126,7 +126,7 @@ public class GameManager : MonoBehaviour
 
     public void swapGun()
     {
-        if((ps.gun1 == "") || (ps.gun2 == ""))
+        if((ps.gun1 != "") || (ps.gun2 != ""))
         {
             if (ps.using1)
             {
