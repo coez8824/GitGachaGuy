@@ -6,10 +6,11 @@ using UnityEngine.UI;
 public class PhoneHandler : MonoBehaviour
 {
     public GameManager gm;
+    public GachaList ls;     //GachaList
+    public LootboxHandler lh;
     public AudioSource kaching;
     [SerializeField] public GameObject lootBoxButton;   //Gameobject holding lootboxButton object
     [SerializeField] public GameObject characterSelectButton;     //Gameobject holding charSelectButton object
-    [SerializeField] public GameObject listHandler;     //Gameobject holding GachaList script
     [SerializeField] public GameObject lootbox;     //Gameobject hodling lootboxHandler script and transform
     [SerializeField] public GameObject charSlot1;   //Gameobjects to represent chosen characters
     [SerializeField] public GameObject charSlot2;   
@@ -71,7 +72,7 @@ public class PhoneHandler : MonoBehaviour
     public IEnumerator lootboxButtonPressed()       //Coroutine to handle selected sprite appearing on screen
     {
         disableMainMenu();
-        GachaCharacter chosenChar = lootbox.GetComponent<LootboxHandler>().roll();
+        GachaCharacter chosenChar = lh.roll();
         GameObject temp = Instantiate(chosenChar.charObj, lootbox.transform);
         yield return new WaitForSeconds(3f);
         temp.SetActive(false);
@@ -120,22 +121,22 @@ public class PhoneHandler : MonoBehaviour
         selectSlot6.SetActive(true);
 
         int num = 0;
-        for(int i = 0; i < listHandler.GetComponent<GachaList>().playerInven.Count; i++) //inititate and create selectable list of characters
+        for(int i = 0; i < ls.playerInven.Count; i++) //inititate and create selectable list of characters
         {                                //selectable = owned and not selected
-            if (i < listHandler.GetComponent<GachaList>().playerInven.Count)
+            if (i < ls.playerInven.Count)
             {
-                if (listHandler.GetComponent<GachaList>().playerInven[i] != listHandler.GetComponent<GachaList>().slot1 &&
-                    listHandler.GetComponent<GachaList>().playerInven[i] != listHandler.GetComponent<GachaList>().slot2 &&  //check if char is selected
-                    listHandler.GetComponent<GachaList>().playerInven[i] != listHandler.GetComponent<GachaList>().slot3)
+                if (ls.playerInven[i] != ls.slot1 &&
+                    ls.playerInven[i] != ls.slot2 &&  //check if char is selected
+                    ls.playerInven[i] != ls.slot3)
                 {
-                    selectable.Add(listHandler.GetComponent<GachaList>().playerInven[i]);   //add unselected chars to temp list
+                    selectable.Add(ls.playerInven[i]);   //add unselected chars to temp list
                     num++;
                 }
             }
         }
         for (int j = num; j < 6; j++)
         {
-            selectable.Add(listHandler.GetComponent<GachaList>().listChar[0]);
+            selectable.Add(ls.listChar[0]);
         }
 
         for (int i = 0; i < 6; i++)
@@ -153,7 +154,7 @@ public class PhoneHandler : MonoBehaviour
 
     public void setChar(int numChar)
     {
-        Debug.Log(listHandler.GetComponent<GachaList>().playerInven.Count);
+        Debug.Log(ls.playerInven.Count);
         if (selectable[numChar].name != "Empty")
         {
             switch (slotInt)
@@ -161,18 +162,22 @@ public class PhoneHandler : MonoBehaviour
                 case 0:
                     Debug.Log("skipped menu?");
                     break;
+
                 case 1:
-                    listHandler.GetComponent<GachaList>().slot1 = selectable[numChar];
                     charSlot1.GetComponent<SpriteRenderer>().sprite = selectable[numChar].charObj.GetComponent<SpriteRenderer>().sprite;
+                    ls.change(ls.slot1, selectable[numChar]);
                     break;
+
                 case 2:
-                    listHandler.GetComponent<GachaList>().slot2 = selectable[numChar];
                     charSlot2.GetComponent<SpriteRenderer>().sprite = selectable[numChar].charObj.GetComponent<SpriteRenderer>().sprite;
+                    ls.change(ls.slot2, selectable[numChar]);
                     break;
+
                 case 3:
-                    listHandler.GetComponent<GachaList>().slot3 = selectable[numChar];
                     charSlot3.GetComponent<SpriteRenderer>().sprite = selectable[numChar].charObj.GetComponent<SpriteRenderer>().sprite;
+                    ls.change(ls.slot3, selectable[numChar]);
                     break;
+
                 default:
                     Debug.Log("broke");
                     break;

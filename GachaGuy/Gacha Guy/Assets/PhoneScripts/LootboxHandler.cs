@@ -4,45 +4,43 @@ using UnityEngine;
 
 public class LootboxHandler : MonoBehaviour
 {
-    [SerializeField] public GameObject listHandler;
+    public GachaList ls;
     
     public GachaCharacter roll()
     {
         float currRarity = 0;
    
-        for (int i = 1; i < listHandler.GetComponent<GachaList>().listChar.Count; i++)
+        for (int i = 1; i < ls.listChar.Count; i++)
         {
-            listHandler.GetComponent<GachaList>().listChar[i].setLowerRarity(currRarity);
-            currRarity += listHandler.GetComponent<GachaList>().listChar[i].rarity;
-            listHandler.GetComponent<GachaList>().listChar[i].setUpperRarity(currRarity - 0.1f);
+            ls.listChar[i].setLowerRarity(currRarity);
+            currRarity += ls.listChar[i].rarity;
+            ls.listChar[i].setUpperRarity(currRarity - 0.1f);
         }
 
         float chosenValue = Random.Range(0.0f, currRarity - 0.1f);
         int chosenInt = 0;
 
-        for (int i = 0; i < listHandler.GetComponent<GachaList>().listChar.Count; i++)
+        for (int i = 0; i < ls.listChar.Count; i++)
         {
-            if (chosenValue >= listHandler.GetComponent<GachaList>().listChar[i].lowerRarity && chosenValue <= listHandler.GetComponent<GachaList>().listChar[i].upperRarity)
+            if (chosenValue >= ls.listChar[i].lowerRarity && chosenValue <= ls.listChar[i].upperRarity)
             {
                 chosenInt = i;
                 break;
             }
         }
 
-        GachaCharacter chosenChar = new GachaCharacter(listHandler.GetComponent<GachaList>().listChar[chosenInt]);
+        GachaCharacter chosenChar = new GachaCharacter(ls.listChar[chosenInt]);
 
-        if (listHandler.GetComponent<GachaList>().playerInven.Find(x => x.id == chosenChar.id) == null)
+        if (ls.playerInven.Find(x => x.id == chosenChar.id) == null)
         {
-            listHandler.GetComponent<GachaList>().playerInven.Add(chosenChar);
+            ls.playerInven.Add(chosenChar);
         }
         else 
         {
-            listHandler.GetComponent<GachaList>().playerInven.Find(x => x.id == chosenChar.id).level++;
+            ls.playerInven.Find(x => x.id == chosenChar.id).level++;
         }
 
-        listHandler.GetComponent<GachaList>().abilityChange(listHandler.GetComponent<GachaList>().playerInven.Find(x => x.id == chosenChar.id));
-
-        Debug.Log(chosenChar.name + " (" + listHandler.GetComponent<GachaList>().playerInven.Find(x => x.id == chosenChar.id).level + ")");
+        Debug.Log(chosenChar.name + " (" + ls.playerInven.Find(x => x.id == chosenChar.id).level + ")");
 
         return chosenChar;
     }
