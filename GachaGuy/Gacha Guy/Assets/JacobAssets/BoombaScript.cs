@@ -1,5 +1,8 @@
+using Pathfinding;
 using System.Collections;
 using System.Collections.Generic;
+using System.Runtime.ExceptionServices;
+using Unity.IO.LowLevel.Unsafe;
 using UnityEngine;
 using static UnityEditor.FilePathAttribute;
 
@@ -11,6 +14,8 @@ public class BoombaScript : MonoBehaviour
     public Transform target;
     public GameObject boom;
     public Collider2D explosion;
+    public float deathDelay;
+    public AIPath AIPathScript;
 
     //-
     private GameManager gm;
@@ -50,10 +55,14 @@ public class BoombaScript : MonoBehaviour
     }
     IEnumerator DelayedDeath()
     {
-        explosion.enabled = true;
+        gameObject.GetComponent<SpriteRenderer>().enabled = false;
+        gameObject.GetComponent<Collider2D>().enabled = false;
+        AIPathScript.canMove = false;
         boom.SetActive(true);
+        explosion.enabled = true;
 
-        yield return new WaitForSeconds(.05f);//Delay for 5 seconds
+
+        yield return new WaitForSeconds(deathDelay);//Delay for set amoung of seconds
         ping.Play();
         Destroy(gameObject);
 
