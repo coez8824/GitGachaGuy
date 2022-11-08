@@ -12,6 +12,8 @@ public class Pickup : MonoBehaviour
     public GameObject buyButton;
 
     public string effect;
+    public string gun;
+    public int num;
 
     private bool canBuy;
 
@@ -19,7 +21,7 @@ public class Pickup : MonoBehaviour
     {
         gm = FindObjectOfType<GameManager>();
 
-        buyButton = GameObject.Find("BuyButton");
+        //buyButton = GameObject.Find("BuyButton");
         buyButton.SetActive(false);
 
         buyButton.GetComponent<Button>().onClick.AddListener(purchase);
@@ -65,18 +67,28 @@ public class Pickup : MonoBehaviour
             {
                 gm.gs.curr1 = gm.gs.curr;
                 gm.ps.using1 = false;
-                gm.ps.gun2 = "Rifle";
+                gm.ps.gun2 = gun;
             }
             else if (gm.ps.using1)
             {
-                gm.ps.gun1 = "Rifle";
+                gm.ps.gun1 = gun;
             }
             else
             {
-                gm.ps.gun2 = "Rifle";
+                gm.ps.gun2 = gun;
             }
 
-            gm.gSetter.gunSetter("Rifle", 0);
+            gm.gSetter.gunSetter(gun, 0);
+        }
+        else if(effect == "Heal")
+        {
+            gm.ps.currHTH += num;
+            if (gm.ps.currHTH > gm.ps.getHTH())
+                gm.ps.currHTH = gm.ps.getHTH();
+        }
+        else if (effect == "Ammo")
+        {
+            gm.ps.AMM += num;
         }
         else
         {

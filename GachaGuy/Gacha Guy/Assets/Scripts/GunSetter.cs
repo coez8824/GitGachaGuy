@@ -26,6 +26,10 @@ public class GunSetter : MonoBehaviour
         {
             GS.setStats(1, .1f, 25, .1f, n);
         }
+        else if (s == "Sniper")
+        {
+            GS.setStats(10, 2, 12, 0, n);
+        }
         else
         {
             Debug.Log("If this message pops up then the game is probably broken.");
