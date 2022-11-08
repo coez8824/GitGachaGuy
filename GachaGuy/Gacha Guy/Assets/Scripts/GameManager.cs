@@ -13,6 +13,7 @@ public class GameManager : MonoBehaviour
     public PlayerStats ps;
     public GunScript gs;
     public GunSetter gSetter;
+    public GachaList cl;
 
     public TMP_Text moneyCount;
     public GameObject player;
@@ -138,5 +139,10 @@ public class GameManager : MonoBehaviour
             //gs.currSetter(1);
             gSetter.gunSetter(ps.gun1, 1);
         }
+    }
+
+    public void vampirismOnKill()
+    {
+        ps.setHTH(ps.getHTH() + (1 * cl.listChar[1].level));
     }
 }

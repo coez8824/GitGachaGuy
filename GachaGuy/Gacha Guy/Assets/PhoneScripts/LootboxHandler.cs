@@ -40,8 +40,6 @@ public class LootboxHandler : MonoBehaviour
             listHandler.GetComponent<GachaList>().playerInven.Find(x => x.id == chosenChar.id).level++;
         }
 
-        listHandler.GetComponent<GachaList>().abilityChange(listHandler.GetComponent<GachaList>().playerInven.Find(x => x.id == chosenChar.id));
-
         Debug.Log(chosenChar.name + " (" + listHandler.GetComponent<GachaList>().playerInven.Find(x => x.id == chosenChar.id).level + ")");
 
         return chosenChar;

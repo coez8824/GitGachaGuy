@@ -164,14 +164,17 @@ public class PhoneHandler : MonoBehaviour
                 case 1:
                     listHandler.GetComponent<GachaList>().slot1 = selectable[numChar];
                     charSlot1.GetComponent<SpriteRenderer>().sprite = selectable[numChar].charObj.GetComponent<SpriteRenderer>().sprite;
+                    listHandler.GetComponent<GachaList>().abilityChange(listHandler.GetComponent<GachaList>().slot1);
                     break;
                 case 2:
                     listHandler.GetComponent<GachaList>().slot2 = selectable[numChar];
                     charSlot2.GetComponent<SpriteRenderer>().sprite = selectable[numChar].charObj.GetComponent<SpriteRenderer>().sprite;
+                    listHandler.GetComponent<GachaList>().abilityChange(listHandler.GetComponent<GachaList>().slot2);
                     break;
                 case 3:
                     listHandler.GetComponent<GachaList>().slot3 = selectable[numChar];
                     charSlot3.GetComponent<SpriteRenderer>().sprite = selectable[numChar].charObj.GetComponent<SpriteRenderer>().sprite;
+                    listHandler.GetComponent<GachaList>().abilityChange(listHandler.GetComponent<GachaList>().slot3);
                     break;
                 default:
                     Debug.Log("broke");

@@ -4,7 +4,8 @@ using UnityEngine;
 
 public class GachaList : MonoBehaviour
 {
-    [SerializeField] public GameObject gm;      //Gamemanager to access stats
+    [SerializeField] public GameObject gm;  //Gamemanager to access stats
+    public PlayerStats ps;
 
     public List<GachaCharacter> listChar = new List<GachaCharacter>();      //List of all possible characters
     public List<GachaCharacter> playerInven = new List<GachaCharacter>();   //List of all obtained characters
@@ -45,6 +46,8 @@ public class GachaList : MonoBehaviour
 
     public void abilityChange(GachaCharacter slot)
     {
+        
+
         switch (slot.id) 
         {
             case 0 : 
