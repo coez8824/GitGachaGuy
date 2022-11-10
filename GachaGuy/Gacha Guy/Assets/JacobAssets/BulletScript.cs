@@ -48,7 +48,7 @@ public class BulletScript : MonoBehaviour
         if (collision.gameObject.CompareTag("Player"))
         {
             //-
-            gm.playerDamaged(1);
+            gm.playerDamaged(10);
             //-
 
             Destroy(gameObject);

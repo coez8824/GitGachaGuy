@@ -336,6 +336,10 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 11
       objectReference: {fileID: 0}
+    - target: {fileID: 7570320534364418915, guid: 0a3777d118411f246a293a5595b6193c, type: 3}
+      propertyPath: m_SleepingMode
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7570320534364418924, guid: 0a3777d118411f246a293a5595b6193c, type: 3}
       propertyPath: m_RootOrder
       value: 0

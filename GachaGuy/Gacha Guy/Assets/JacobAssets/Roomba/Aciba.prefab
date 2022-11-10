@@ -31,13 +31,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: AcidExplosion
       objectReference: {fileID: 0}
+    - target: {fileID: 5656708480822806960, guid: 2f4ed6644a807814bb19e0fd067cd9e1, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5753655419257850335, guid: 2f4ed6644a807814bb19e0fd067cd9e1, type: 3}
       propertyPath: m_Name
-      value: Acidic Boomba Variant
+      value: Aciba
       objectReference: {fileID: 0}
     - target: {fileID: 7557727814205264808, guid: 2f4ed6644a807814bb19e0fd067cd9e1, type: 3}
       propertyPath: m_IsTrigger
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8394094662431802762, guid: 2f4ed6644a807814bb19e0fd067cd9e1, type: 3}
+      propertyPath: m_Color.a
+      value: 0.34509805
       objectReference: {fileID: 0}
     - target: {fileID: 8394094662431802762, guid: 2f4ed6644a807814bb19e0fd067cd9e1, type: 3}
       propertyPath: m_Color.g

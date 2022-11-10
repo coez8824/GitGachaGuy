@@ -51,11 +51,13 @@ public class RoombaMovement : MonoBehaviour
         //-
 
         enemyAnimator = GetComponent<Animator>();
+
     }
 
     // Update is called once per frame
     void Update()
     {
+
         rb.velocity = new Vector2(moveDirection.x, moveDirection.y);
 
         if(health <= 0)
