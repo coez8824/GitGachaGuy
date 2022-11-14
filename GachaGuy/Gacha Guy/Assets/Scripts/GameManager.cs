@@ -24,6 +24,11 @@ public class GameManager : MonoBehaviour
 
     public int dangerLevel;
 
+    public bool thornsActive = false;
+    public int thornsLevel = 0;
+    public bool vampirismActive = false;
+    public int vampirismLevel = 0;
+
     // Start is called before the first frame update
     void Start()
     {

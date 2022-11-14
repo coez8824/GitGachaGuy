@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class GachaList : MonoBehaviour
 {
+    public GameManager gm;
     public PlayerStats ps;
 
     public List<GachaCharacter> listChar = new List<GachaCharacter>();      //List of all possible characters
@@ -23,35 +24,33 @@ public class GachaList : MonoBehaviour
     void Awake()
     {
         buildGachaList();   //builds lists on start
-        slot1 = listChar[0];
-        slot2 = listChar[0];
-        slot3 = listChar[0];
+        gm = FindObjectOfType<GameManager>();
     }
 
     void buildGachaList()   //method to build listChar and assign slots to empty char
     {
-        listChar.Add(new GachaCharacter(0, "Empty", "...", 0, empty));
-        listChar.Add(new GachaCharacter(1, "Nosfie Dracul", "Health Steal", 5, nosfieDracul));
+        listChar.Add(new GachaCharacter(0, "Empty", "...", 0, empty));  //empty char
+        listChar.Add(new GachaCharacter(1, "Nosfie Dracul", "Health Steal", 10, nosfieDracul));
         listChar.Add(new GachaCharacter(2, "Ma Faker", "Income", 10, maFaker));
-        listChar.Add(new GachaCharacter(3, "Alice Studos", "Aggro Buff", 15, aliceStudos));
+        listChar.Add(new GachaCharacter(3, "Alice Studos", "Aggro Buff", 10, aliceStudos));
         listChar.Add(new GachaCharacter(4, "Fluoride Suninwind", "Pre-Heal", 10, fluorideSuninwind));
-        listChar.Add(new GachaCharacter(5, "Penny Poe", "Thorns", 20, pennyPoe));
-        listChar.Add(new GachaCharacter(6, "Grelian", "Sheild Buff", 15, grelian));
+        listChar.Add(new GachaCharacter(5, "Penny Poe", "Thorns", 10, pennyPoe));
+        listChar.Add(new GachaCharacter(6, "Grelian", "Sheild Buff", 10, grelian));
 
-        slot1 = listChar[0];
+        slot1 = listChar[0];    //assigning slots to empty char
         slot2 = listChar[0];
         slot3 = listChar[0];
     }
 
-    public void change (GachaCharacter slot, GachaCharacter newChar)
+    public void change (GachaCharacter slot, GachaCharacter newChar, int slotNum)    //method that implements changes to charSlot and abilities
     {
-        int tempCurrHTH = ps.currHTH;
-        int tempMaxHTH = ps.getHTH();
-        int tempCurrSHD = ps.currSHD;
+        int tempCurrHTH = ps.currHTH;   //getting max and current values for health/shield
+        int tempMaxHTH = ps.getHTH();   //BEFORE changing abilities so if an ability that changes
+        int tempCurrSHD = ps.currSHD;   //these values is removed, it doesn't give you over max health/shield
         int tempMaxSHD = ps.getSHD();
 
         switch (slot.id)     //DISABLE OLD ABILITY
-        {
+        {   //slot.id is the index for the char in listChar
             case 0:
                 //Do nothing
                 break;
@@ -85,15 +84,15 @@ public class GachaList : MonoBehaviour
                 break;
         }
 
-        if (slot.id == slot1.id)
+        if (slotNum == 1)    //these if statements just finds and assigns the slot you are changing
         {
             slot1 = newChar;
         }
-        if (slot.id == slot2.id)
+        if (slotNum == 2)
         {
             slot2 = newChar;
         }
-        if (slot.id == slot3.id)
+        if (slotNum == 3)
         {
             slot3 = newChar;
         }
@@ -174,12 +173,13 @@ public class GachaList : MonoBehaviour
 
     public void nosVampirism(int level)     //NOSFIE ACTIVE
     {
-        //need enemy on death
+        gm.vampirismActive = true;
+        gm.vampirismLevel = level;
     }
 
     public void nosVampirismDisable()     //NOSFIE INACTIVE
     {
-        //need enemy on death
+        gm.vampirismActive = false;
     }
 
     public void aliAggroBuff(int level)     //ALI ACTIVE
@@ -194,11 +194,12 @@ public class GachaList : MonoBehaviour
 
     public void penThorns(int level)    //PENNY ACTIVE
     {
-        //need enemy on hit 
+        gm.thornsActive = true;
+        gm.thornsLevel = level;
     }
 
     public void penThornsDisable()     //PENNY INACTIVE
     {
-        //need enemy on hit 
+        gm.thornsActive = false;
     }
 }
