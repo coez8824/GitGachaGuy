@@ -56,7 +56,7 @@ public class GachaList : MonoBehaviour
                 break;
 
             case 1:
-                nosVampirismDisable(); //Not implemented
+                nosVampirismDisable();
                 break;
 
             case 2:
@@ -72,7 +72,7 @@ public class GachaList : MonoBehaviour
                 break;
 
             case 5:
-                penThornsDisable(); //Not implemented
+                penThornsDisable();
                 break;
 
             case 6:
@@ -104,7 +104,7 @@ public class GachaList : MonoBehaviour
                 break;
             
             case 1 : 
-                nosVampirism(slot.level); //Not implemented
+                nosVampirism(slot.level); 
                 break;
             
             case 2:
@@ -120,7 +120,7 @@ public class GachaList : MonoBehaviour
                 break;
 
             case 5:
-                penThorns(slot.level); //Not implemented
+                penThorns(slot.level); 
                 break;
 
             case 6:
@@ -184,12 +184,12 @@ public class GachaList : MonoBehaviour
 
     public void aliAggroBuff(int level)     //ALI ACTIVE
     {
-        //aggro not implemented
+        ps.SPD = 10f + (0.01f * level);
     }
 
     public void aliAggroBuffDisable()      //ALI INACTIVE
     {
-        //aggro not implemented
+        ps.SPD = 10f;
     }
 
     public void penThorns(int level)    //PENNY ACTIVE
