@@ -135,7 +135,6 @@ MonoBehaviour:
   interval: 3
   testX: 0
   testY: 0
-  col: {fileID: 0}
 --- !u!50 &4063214086044689020
 Rigidbody2D:
   serializedVersion: 4
@@ -451,7 +450,6 @@ MonoBehaviour:
   interval: 3
   testX: 0
   testY: 0
-  col: {fileID: 7686440457991198197}
 --- !u!82 &407436760205176683
 AudioSource:
   m_ObjectHideFlags: 0
@@ -462,7 +460,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 2877adba893e09c478f82571e91e9618, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 0a9431655c761cf4e88ce0be5a9e5135, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
