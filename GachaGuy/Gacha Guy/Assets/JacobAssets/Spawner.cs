@@ -20,7 +20,7 @@ public class Spawner : MonoBehaviour
         //-
         gm = FindObjectOfType<GameManager>();
 
-        setInterval();
+        //setInterval();
         spawn();
         //-
 
@@ -30,7 +30,7 @@ public class Spawner : MonoBehaviour
     }
 
     //-
-    public void setInterval() //Every time the danger level increases by 500 points, the enemy spawn rate decreases by 0.1f
+    /*public void setInterval() //Every time the danger level increases by 500 points, the enemy spawn rate decreases by 0.1f
     {
         if(enemyInterval != 0)
         {
@@ -40,17 +40,26 @@ public class Spawner : MonoBehaviour
                 enemyInterval -= .1f;
             }
         }
-    }
+
+
+    }*/
     //-
 
     private IEnumerator spawnEnemy(float interval, GameObject enemy)
     {
+
+
         yield return new WaitForSeconds(interval);
+
+        point1.SetActive(false);
+        point2.SetActive(false);
+        point3.SetActive(false);
+
         GameObject newEnemy = Instantiate(enemy, location, Quaternion.identity);
 
         //StartCoroutine(spawnEnemy(interval, enemy));
         //-
-        setInterval();
+        //setInterval();
         spawn();
         //-
     }
@@ -70,9 +79,9 @@ public class Spawner : MonoBehaviour
     //-
     private void spawn()
     {
-        int i;
+        int i = 0;
 
-        if(enemyInterval <= 1)
+       /* if(enemyInterval <= 1)
         {
             i = 4;
         }
@@ -83,6 +92,22 @@ public class Spawner : MonoBehaviour
         else
         {
             i = 2;
+        } */
+
+        if(gm.dangerLevel < 500)
+        {
+            i = 2;
+            enemyInterval = 5;
+        }
+        else if (gm.dangerLevel >= 1000)
+        {
+            i = 4;
+            enemyInterval = 1;
+        }
+        else if (gm.dangerLevel >= 500)
+        {
+            i = 3;
+            enemyInterval = 3;
         }
 
         int j = Random.Range(0, i);
@@ -90,11 +115,22 @@ public class Spawner : MonoBehaviour
         int k = Random.Range(0, 3);
 
         if (k == 0)
-            location = point1.transform.position;
+        {
+            location = new Vector3(point1.transform.position.x, point1.transform.position.y, 0);
+            point1.SetActive(true);
+        }
         else if (k == 1)
-            location = point2.transform.position;
+        {
+            location = new Vector3(point2.transform.position.x, point2.transform.position.y, 0);
+            point2.SetActive(true);
+        }
         else if (k == 2)
-            location = point3.transform.position;
+        {
+            location = new Vector3(point3.transform.position.x, point3.transform.position.y, 0);
+            point3.SetActive(true);
+        }
+
+        //StartCoroutine(off());
 
         if (j == 0)
             StartCoroutine(spawnEnemy(enemyInterval, Enemy1));
@@ -104,6 +140,14 @@ public class Spawner : MonoBehaviour
             StartCoroutine(spawnEnemy(enemyInterval, Gunba));
         else if (j == 3)
             StartCoroutine(spawnEnemy(enemyInterval, Boomba));
+    }
+
+    IEnumerator off()
+    {
+        yield return new WaitForSeconds(.5f);
+        point1.SetActive(false);
+        point2.SetActive(false);
+        point3.SetActive(false);
     }
     //-
 }

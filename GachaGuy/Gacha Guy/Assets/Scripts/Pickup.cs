@@ -9,7 +9,7 @@ public class Pickup : MonoBehaviour
 
     public int price;
 
-    public GameObject buyButton;
+    public Button buyButton;
 
     public string effect;
     public string gun;
@@ -17,12 +17,27 @@ public class Pickup : MonoBehaviour
 
     private bool canBuy;
 
+    public GameObject door;
+
+    private GameObject p;
+    private GameObject d;
+
+    public string des;
+
+    public bool scaling;
+
     private void Start()
     {
+        if (scaling)
+            price += gm.scalingPrice;
+
         gm = FindObjectOfType<GameManager>();
 
-        //buyButton = GameObject.Find("BuyButton");
-        buyButton.SetActive(false);
+        p = GameObject.Find("Price");
+        d = GameObject.Find("Description");
+
+        buyButton = GameObject.Find("BuyButton").GetComponent<Button>();
+        buyButton.interactable = false;
 
         buyButton.GetComponent<Button>().onClick.AddListener(purchase);
 
@@ -33,8 +48,16 @@ public class Pickup : MonoBehaviour
     {
         if (collision.gameObject.tag == "Player")
         {
-            buyButton.SetActive(true); //Buy button in UI becomes visible when player steps over object
+            p.GetComponent<Text>().text = "$"+price.ToString();
+            d.GetComponent<Text>().text = des;
+
+            buyButton.interactable = true;
+            //buyButton.SetActive(true); //Buy button in UI becomes visible when player steps over object
             canBuy = true; //Set canBuy to true so only this item can be bought
+        }
+        if (collision.gameObject.tag == "PickUp")
+        {
+            Destroy(this.gameObject);
         }
     }
 
@@ -42,7 +65,11 @@ public class Pickup : MonoBehaviour
     {
         if (collision.gameObject.tag == "Player")
         {
-            buyButton.SetActive(false); //Buy button becomes invisble when player steps over object
+            p.GetComponent<Text>().text = "";
+            d.GetComponent<Text>().text = "";
+
+            buyButton.interactable = false;
+            //buyButton.SetActive(false); //Buy button becomes invisble when player steps over object
             canBuy=false; //Set canBuy to false so it isn't bought when buying another item
         }
     }
@@ -54,6 +81,10 @@ public class Pickup : MonoBehaviour
             gm.ps.WAL -= price; //Remove money from wallet
             gm.dangerLevel += price; //Increase danger level based on money just spent
             doEffect();
+
+            if (scaling)
+                gm.scalingPrice += 5;
+
             Destroy(gameObject); //Destroy pickup
         }
     }
@@ -89,6 +120,16 @@ public class Pickup : MonoBehaviour
         else if (effect == "Ammo")
         {
             gm.ps.AMM += num;
+        }
+        else if (effect == "Door")
+        {
+            DoorScript ds = door.GetComponent<DoorScript>();
+            ds.open = true;
+            Destroy(door.GetComponent<Collider2D>());
+        }
+        else if (effect == "Luck")
+        {
+            gm.ps.LCK += num;
         }
         else
         {

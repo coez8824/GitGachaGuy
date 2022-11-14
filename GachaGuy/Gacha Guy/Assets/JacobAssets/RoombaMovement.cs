@@ -63,7 +63,7 @@ public class RoombaMovement : MonoBehaviour
         if(health <= 0)
         {
             ping.Play();
-            gm.ps.WAL += (25 + (2 * Random.Range(0, gm.ps.LCK))); //Pays a base 25 cash + bonus based on luck
+            gm.ps.WAL += (1 + (2 * Random.Range(0, gm.ps.LCK))); //Pays a base 25 cash + bonus based on luck
             Destroy(gameObject);
         }
     }

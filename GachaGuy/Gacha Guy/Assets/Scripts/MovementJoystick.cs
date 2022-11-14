@@ -60,13 +60,13 @@ public class MovementJoystick : MonoBehaviour
         //joystickBG.transform.position = joystickOriginalPos;
     }
 
-    //Point at mouse code form BenZed on Unity Answers
+    //Point at mouse code form BenZed on Unity Answers... Did I keep this code or is this a old comment? Well, I can't be bothered to hunt for it so I'll give em credit anyways.
     private void Update()
     {
         if (point)
         {
             //Get the Screen positions of the object
-            Vector2 positionOnScreen = Camera.main.WorldToViewportPoint(transform.position);
+           /* Vector2 positionOnScreen = Camera.main.WorldToViewportPoint(transform.position);
 
             //Get the Screen position of the mouse
             Vector2 mouseOnScreen = (Vector2)Camera.main.ScreenToViewportPoint(Input.mousePosition);
@@ -75,7 +75,7 @@ public class MovementJoystick : MonoBehaviour
             float angle = AngleBetweenTwoPoints(positionOnScreen, mouseOnScreen);
 
             //Ta Daaa
-            joystick.transform.rotation = Quaternion.Euler(new Vector3(0f, 0f, angle));
+            joystick.transform.rotation = Quaternion.Euler(new Vector3(0f, 0f, angle));*/
         }
     }
 

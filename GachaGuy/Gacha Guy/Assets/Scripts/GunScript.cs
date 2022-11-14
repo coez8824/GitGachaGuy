@@ -183,7 +183,7 @@ public class GunScript : MonoBehaviour
         {
             Debug.Log("NO AMMO");
         }*/
-        if ((canReload)&&(gm.ps.AMM != 0))
+        if (((canReload)&&(gm.ps.AMM != 0)) || ((canReload) && (inf)))
         {
             //G = false;
             //if(courVis!=null)

@@ -15,6 +15,8 @@ public class Collision : MonoBehaviour
     private SpriteRenderer sr;
     public AudioSource ting;//firing sound
     public AudioSource ping;//death sound
+
+    private DropScript drop;
     //-
 
     public AudioSource[] deathSoundArray;
@@ -36,6 +38,8 @@ public class Collision : MonoBehaviour
         gm = FindObjectOfType<GameManager>();
         sr = GetComponent<SpriteRenderer>();
         orig = sr.color;
+
+        drop = GetComponent<DropScript>();
         //-
 
         first = true;
@@ -98,7 +102,9 @@ public class Collision : MonoBehaviour
 
         //-
         //ping.Play();
-        gm.ps.WAL += (25 + (2 * Random.Range(0, gm.ps.LCK))); //Pays a base 25 cash + bonus based on luck
+        gm.ps.WAL += (5 + (2 * Random.Range(0, gm.ps.LCK))); //Pays a base 25 cash + bonus based on luck
+
+        drop.yell();
         //-
         Destroy(gameObject);
 

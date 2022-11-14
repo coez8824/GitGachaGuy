@@ -29,15 +29,19 @@ public class GameManager : MonoBehaviour
     public bool vampirismActive = false;
     public int vampirismLevel = 0;
 
+    public int scalingPrice;
+
     // Start is called before the first frame update
     void Start()
     {
-        dangerLevel = 0;
-        testDEF();
+     //   testDEF();
     }
 
     public void testDEF() //Default stats set up for testing
     {
+        scalingPrice = 0;
+        dangerLevel = 0;
+
         ps.setHTH(100);
         ps.setSHD(50);
 
@@ -49,7 +53,7 @@ public class GameManager : MonoBehaviour
 
         ps.currHTH = ps.getHTH();
         ps.currSHD = ps.getSHD();
-        ps.WAL = 0;
+        ps.WAL = 25;
         ps.AMM = 40;
 
         ps.gun1 = "Pistol";
