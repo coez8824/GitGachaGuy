@@ -6,6 +6,8 @@ public class PlayerMovement : MonoBehaviour
 {
     private GameManager gm;
 
+    public PlayerVisual pv;
+
     //public PlayerStats playerStats;
 
     private float playerSpeed;
@@ -31,10 +33,12 @@ public class PlayerMovement : MonoBehaviour
         if (movementJoystick.joystickVec.y != 0) //If move joystick is moved
         {
             rb.velocity = new Vector2(movementJoystick.joystickVec.x * playerSpeed, movementJoystick.joystickVec.y * playerSpeed);
+            pv.moving = true;
         }
         else
         {
             rb.velocity = Vector2.zero;
+            pv.moving = false;
         }
 
         if (lookJoystick.joystickVec.magnitude > 0f) //If look joystick is moved

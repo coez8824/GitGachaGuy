@@ -125,18 +125,36 @@ public class GunScript : MonoBehaviour
             if(hit)
             {
                 if (hit.transform.tag == "HEX")
+                {
                     hit.transform.GetComponent<EvilHexagon>().rip();
+                    gm.ps.aggro++;
+                }
                 if (hit.transform.tag == "Shooter")
+                {
                     hit.transform.GetComponent<Collision>().playerShot(1);
+                    gm.ps.aggro++;
+                }
                 if (hit.transform.tag == "Boomba")
+                {
                     hit.transform.GetComponent<BoombaScript>().playerShot();
+                    gm.ps.aggro++;
+                }
                 if (hit.transform.tag == "Gunba")
+                {
                     hit.transform.GetComponent<GunbaMovement>().health--;
+                    gm.ps.aggro++;
+                }
                 if (hit.transform.tag == "Sawba")
+                {
                     hit.transform.GetComponent<RoombaMovement>().health--;
+                    gm.ps.aggro++;
+                }
                 //!
                 if (hit.transform.tag == "Melee")
+                {
                     hit.transform.GetComponent<Collision>().playerShot(1);
+                    gm.ps.aggro++;
+                }
                 //!
             }
 

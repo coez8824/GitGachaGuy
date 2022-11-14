@@ -56,6 +56,8 @@ public class GameManager : MonoBehaviour
         ps.WAL = 25;
         ps.AMM = 40;
 
+        ps.aggro = 0;
+
         ps.gun1 = "Pistol";
         ps.gun2 = "";
 
@@ -67,18 +69,36 @@ public class GameManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(ps.WAL >= 1000)
+        /*if(ps.WAL >= 1000)
         {
             SceneManager.LoadScene("YouWin");
-        }
+        }*/
 
         if(ps.currHTH <= 0)
         {
+            Destroy(GameObject.Find("Important"));
             SceneManager.LoadScene("GameOver");
         }
 
         /*if(recharging)
             StartCoroutine(rechargeShield());*/
+
+        if(ps.aggro > 50)
+        {
+            ps.PAM = 2;
+        }
+        else if (ps.aggro > 100)
+        {
+            ps.PAM = 3;
+        }
+        if (ps.aggro > 150)
+        {
+            ps.PAM = 4;
+        }
+        else if (ps.aggro > 200)
+        {
+            ps.PAM = 5;
+        }
 
         clpTXT.text = gs.curr + "/" + ps.AMM;
 

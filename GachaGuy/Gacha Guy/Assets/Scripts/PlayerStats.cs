@@ -30,6 +30,8 @@ public class PlayerStats : MonoBehaviour
     public string gun2;
     public bool using1;
 
+    public int aggro; //Variable based on amount of damage being dealt
+
     //Functions
     private void Start()
     {
