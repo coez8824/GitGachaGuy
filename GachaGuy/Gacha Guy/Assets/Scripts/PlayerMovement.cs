@@ -59,6 +59,25 @@ public class PlayerMovement : MonoBehaviour
         {
             gm.playerDamaged(10);
         }
+        if (gm.thornsActive == true && collision.gameObject.CompareTag("Shooter"))
+        {
+            collision.gameObject.GetComponent<Collision>().playerShot(gm.thornsLevel);
+        }
+        if (gm.thornsActive == true && collision.gameObject.CompareTag("Boomba"))
+        {
+            collision.gameObject.GetComponent<BoombaScript>().playerShot();
+        }
+        if (gm.thornsActive == true && collision.gameObject.CompareTag("Gunba"))
+        {
+            collision.gameObject.GetComponent<GunbaMovement>().health -= (gm.thornsLevel);
+        }
+        if (gm.thornsActive == true && collision.gameObject.CompareTag("Sawba"))
+        {
+            collision.gameObject.GetComponent<RoombaMovement>().health -= (gm.thornsLevel);
+        }
+        if(gm.thornsActive == true && collision.gameObject.CompareTag("Melee"))
+        {
+            collision.gameObject.GetComponent<Collision>().playerShot(gm.thornsLevel);
+        }
     }
-
 }
