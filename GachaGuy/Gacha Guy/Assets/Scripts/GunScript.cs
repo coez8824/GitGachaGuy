@@ -11,6 +11,7 @@ public class GunScript : MonoBehaviour
     //IEnumerator courVis;
 
     private GameManager gm;
+    public PlayerStats ps;
     public ShakeBehavior sb;
     public AudioSource bang;
     public AudioSource re;
@@ -127,32 +128,98 @@ public class GunScript : MonoBehaviour
                 if (hit.transform.tag == "HEX")
                 {
                     hit.transform.GetComponent<EvilHexagon>().rip();
+                    if(gm.vampirismActive == true)
+                    {
+                        if (ps.currHTH + (1 * gm.vampirismLevel) <= ps.getHTH())
+                        {
+                            ps.currHTH += (1 * gm.vampirismLevel);
+                        }
+                        else
+                        {
+                            ps.currHTH = ps.getHTH();
+                        }
+                    }
                     gm.ps.aggro++;
                 }
                 if (hit.transform.tag == "Shooter")
                 {
                     hit.transform.GetComponent<Collision>().playerShot(1);
+                    if (gm.vampirismActive == true)
+                    {
+                        if (ps.currHTH + (1 * gm.vampirismLevel) <= ps.getHTH())
+                        {
+                            ps.currHTH += (1 * gm.vampirismLevel);
+                        }
+                        else
+                        {
+                            ps.currHTH = ps.getHTH();
+                        }
+                    }
                     gm.ps.aggro++;
                 }
                 if (hit.transform.tag == "Boomba")
                 {
                     hit.transform.GetComponent<BoombaScript>().playerShot();
+                    if (gm.vampirismActive == true)
+                    {
+                        if (ps.currHTH + (1 * gm.vampirismLevel) <= ps.getHTH())
+                        {
+                            ps.currHTH += (1 * gm.vampirismLevel);
+                        }
+                        else
+                        {
+                            ps.currHTH = ps.getHTH();
+                        }
+                    }
                     gm.ps.aggro++;
                 }
                 if (hit.transform.tag == "Gunba")
                 {
                     hit.transform.GetComponent<GunbaMovement>().health--;
+                    if (gm.vampirismActive == true)
+                    {
+                        if (ps.currHTH + (1 * gm.vampirismLevel) <= ps.getHTH())
+                        {
+                            ps.currHTH += (1 * gm.vampirismLevel);
+                        }
+                        else
+                        {
+                            ps.currHTH = ps.getHTH();
+                        }
+                    }
                     gm.ps.aggro++;
                 }
                 if (hit.transform.tag == "Sawba")
                 {
                     hit.transform.GetComponent<RoombaMovement>().health--;
+                    if (gm.vampirismActive == true)
+                    {
+                        if (ps.currHTH + (1 * gm.vampirismLevel) <= ps.getHTH())
+                        {
+                            ps.currHTH += (1 * gm.vampirismLevel);
+                        }
+                        else
+                        {
+                            ps.currHTH = ps.getHTH();
+                        }
+                    }
                     gm.ps.aggro++;
                 }
                 //!
                 if (hit.transform.tag == "Melee")
                 {
                     hit.transform.GetComponent<Collision>().playerShot(1);
+                    if (gm.vampirismActive == true)
+                    {
+                        if (ps.currHTH + (1 * gm.vampirismLevel) <= ps.getHTH())
+                        {
+                            ps.currHTH += (1 * gm.vampirismLevel);
+                        }
+                        else
+                        {
+                            ps.currHTH = ps.getHTH();
+                        }
+                    }
                     gm.ps.aggro++;
                 }
                 //!

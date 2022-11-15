@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -11,6 +12,7 @@ public class PhoneHandler : MonoBehaviour
     public AudioSource kaching;
     [SerializeField] public GameObject lootBoxButton;   //Gameobject holding lootboxButton object
     [SerializeField] public GameObject characterSelectButton;     //Gameobject holding charSelectButton object
+    [SerializeField] public GameObject levelText;
     [SerializeField] public GameObject lootbox;     //Gameobject hodling lootboxHandler script and transform
     [SerializeField] public GameObject charSlot1;   //Gameobjects to represent chosen characters
     [SerializeField] public GameObject charSlot2;   
@@ -19,11 +21,17 @@ public class PhoneHandler : MonoBehaviour
     [SerializeField] public GameObject selectButton2;
     [SerializeField] public GameObject selectButton3;
     [SerializeField] public GameObject selectSlot1;     //Gameobjects of char buttons
+    public TMP_Text slot1Level;
     [SerializeField] public GameObject selectSlot2;
+    public TMP_Text slot2Level;
     [SerializeField] public GameObject selectSlot3;
+    public TMP_Text slot3Level;
     [SerializeField] public GameObject selectSlot4;
+    public TMP_Text slot4Level;
     [SerializeField] public GameObject selectSlot5;
+    public TMP_Text slot5Level;
     [SerializeField] public GameObject selectSlot6;
+    public TMP_Text slot6Level;
     [SerializeField] public GameObject backButton;      //Gameobject of cancel button in char menu
     [SerializeField] public GameObject background;      //Gameobject of animated background
 
@@ -101,8 +109,10 @@ public class PhoneHandler : MonoBehaviour
         disableMainMenu();
         GachaCharacter chosenChar = lh.roll();
         GameObject temp = Instantiate(chosenChar.charObj, lootbox.transform);
+        levelText.SetActive(true);
         yield return new WaitForSeconds(3f);
         temp.SetActive(false);
+        levelText.SetActive(false);
         enableMainMenu();
     }
 
@@ -169,6 +179,56 @@ public class PhoneHandler : MonoBehaviour
         selectSlot4.GetComponent<Image>().sprite = selectable[3].charObj.GetComponent<SpriteRenderer>().sprite;
         selectSlot5.GetComponent<Image>().sprite = selectable[4].charObj.GetComponent<SpriteRenderer>().sprite;
         selectSlot6.GetComponent<Image>().sprite = selectable[5].charObj.GetComponent<SpriteRenderer>().sprite;
+
+        if (selectable[0].name == "Empty")      //assign text underneath sprite (level)
+        {
+            slot1Level.text = "???";
+        }
+        else
+        {
+            slot1Level.text = "Level " + selectable[0].level.ToString();
+        }
+        if (selectable[1].name == "Empty")
+        {
+            slot2Level.text = "???";
+        }
+        else
+        {
+            slot2Level.text = "Level " + selectable[1].level.ToString();
+        }
+        if (selectable[2].name == "Empty")
+        {
+            slot3Level.text = "???";
+        }
+        else
+        {
+            slot3Level.text = "Level " + selectable[2].level.ToString();
+        }
+        if (selectable[3].name == "Empty")
+        {
+            slot4Level.text = "???";
+        }
+        else
+        {
+            slot4Level.text = "Level " + selectable[3].level.ToString();
+        }
+        if (selectable[4].name == "Empty")
+        {
+            slot5Level.text = "???";
+        }
+        else
+        {
+            slot5Level.text = "Level " + selectable[4].level.ToString();
+        }
+        if (selectable[5].name == "Empty")
+        {
+            slot6Level.text = "???";
+        }
+        else
+        {
+            slot6Level.text = "Level " + selectable[5].level.ToString();
+        }
+
 
         selectSlot1.SetActive(true);    //enable select menu
         selectSlot2.SetActive(true);

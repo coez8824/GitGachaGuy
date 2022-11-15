@@ -10,7 +10,7 @@ public class GachaCharacter
     public float rarity;        //rarity value (used in roll())
     public float lowerRarity;       //rarity values used in roll()
     public float upperRarity;
-    public int level = 1;       //current level of character (changes)
+    public int level = 0;       //current level of character (changes)
     public GameObject charObj;      //Prefab of character sprite
 
     public GachaCharacter(int charID, string charName, string passiveAbility, float charRarity, GameObject itsme)
