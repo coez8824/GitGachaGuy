@@ -26,6 +26,8 @@ public class Pickup : MonoBehaviour
 
     public bool scaling;
 
+    public AudioSource aud;
+
     private void Start()
     {
         if (scaling)
@@ -78,6 +80,8 @@ public class Pickup : MonoBehaviour
     {
         if((gm.ps.WAL >= price)&&(canBuy)) //If canBuy and the player has the money
         {
+            aud.Play();
+
             gm.ps.WAL -= price; //Remove money from wallet
             gm.dangerLevel += price; //Increase danger level based on money just spent
             doEffect();

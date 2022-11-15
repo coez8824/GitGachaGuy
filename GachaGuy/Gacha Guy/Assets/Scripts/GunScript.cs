@@ -15,6 +15,8 @@ public class GunScript : MonoBehaviour
     public ShakeBehavior sb;
     public AudioSource bang;
     public AudioSource re;
+    public AudioSource doneRe;
+    public AudioSource empt;
 
     //GUN STATS - Gun stats are set to a gun and are not modified by any other method
     [SerializeField]
@@ -236,6 +238,7 @@ public class GunScript : MonoBehaviour
         else
         {
             Debug.Log("EMPTY");
+            //empt.Play();
         }
     }
 
@@ -326,6 +329,7 @@ public class GunScript : MonoBehaviour
             }
 
             Debug.Log("RELOADED");
+            doneRe.Play();
             canShoot = true;
             reloading = false;
             canReloadLock = false;
@@ -454,6 +458,7 @@ public class GunScript : MonoBehaviour
             gm.ps.AMM = 0;
         }
         Debug.Log("SKIP RELOADED");
+        doneRe.Play();
         canShoot = true;
         reloading = false;
         canReloadLock = false;
