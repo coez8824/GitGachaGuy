@@ -17,6 +17,7 @@ public class GunbaMovement : MonoBehaviour
     private Transform wall;
     private Transform obstacle;
     public Vector3 moveDirection;
+    private Animator enemyAnimator;
 
     //-
     //public GameObject enemy;
@@ -26,6 +27,8 @@ public class GunbaMovement : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+
+        enemyAnimator = GetComponent<Animator>();
         //-
         gm = FindObjectOfType<GameManager>();
         //-
@@ -51,7 +54,12 @@ public class GunbaMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        if (target != null)
+        {
+            enemyAnimator.SetBool("isMoving", true);
+            enemyAnimator.SetFloat("MoveY", target.position.y - transform.position.y);
+            enemyAnimator.SetFloat("MoveX", target.position.x - transform.position.x);
+        }
 
         if (health <= 0)
         {
