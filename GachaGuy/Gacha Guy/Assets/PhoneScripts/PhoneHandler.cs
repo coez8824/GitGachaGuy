@@ -17,10 +17,12 @@ public class PhoneHandler : MonoBehaviour
     [SerializeField] public GameObject charSlot1;   //Gameobjects to represent chosen characters
     [SerializeField] public GameObject charSlot2;   
     [SerializeField] public GameObject charSlot3;
+    [SerializeField] public GameObject enemySlot;
     [SerializeField] public GameObject selectButton1;    //Gameobjects of slot buttons
     [SerializeField] public GameObject selectButton2;
     [SerializeField] public GameObject selectButton3;
     [SerializeField] public GameObject selectSlot1;     //Gameobjects of char buttons
+    [SerializeField] public GameObject enemSlider;
     public TMP_Text slot1Level;
     [SerializeField] public GameObject selectSlot2;
     public TMP_Text slot2Level;
@@ -35,39 +37,53 @@ public class PhoneHandler : MonoBehaviour
     [SerializeField] public GameObject backButton;      //Gameobject of cancel button in char menu
     [SerializeField] public GameObject background;      //Gameobject of animated background
 
+    public Sprite enemSkel;
+    public Sprite enemLarry;
+    public Sprite enemBox;
+    public List<Sprite> enemySpriteList = new List<Sprite>();
+    public int enemHTH;
+
     private int slotInt = 0;
     public List<GachaCharacter> selectable = new List<GachaCharacter>();
-    public Vector3 charLoc1;
-    public Vector3 charLoc2;
-    public Vector3 charLoc3;
-    public float xChar1;
-    public float yChar1;
-    public float xChar2;
-    public float yChar2;
-    public float xChar3;
-    public float yChar3;
 
     void Awake()
     {
-        gm = FindObjectOfType<GameManager>();
+        gm = FindObjectOfType<GameManager>();   //find gamemanager
 
-        charLoc1 = charSlot1.transform.position; //finds original vector posistion
-        charLoc2 = charSlot2.transform.position;
-        charLoc3 = charSlot3.transform.position;
+        enemySpriteList.Add(enemSkel);          //adds gacha enemy sprites to a list
+        enemySpriteList.Add(enemLarry);
+        enemySpriteList.Add(enemBox);
+
+        enemySlot.GetComponent<SpriteRenderer>().sprite = enemySpriteList[Random.Range(0, 3)];      //inital gacha enemy
+        enemHTH = 100;         
+        enemSlider.GetComponent<Slider>().maxValue = 100;
     }
 
     void Update()
     {
-        charLoc1.x += (float)((System.Math.Sin(Time.time + 1f) * 0.0005f));     //slight sway to sprites
-        charLoc1.y += (float)((System.Math.Sin(Time.time - 0.4f) * 0.00025f));
-        charLoc2.x += (float)((System.Math.Sin(Time.time + 2f) * 0.0005f));
-        charLoc2.y += (float)((System.Math.Sin(Time.time - 0.3f) * 0.00025f));
-        charLoc3.x += (float)((System.Math.Sin(Time.time + 3f) * 0.0005f));
-        charLoc3.y += (float)((System.Math.Sin(Time.time - 0.5f) * 0.00025f));
+        enemSlider.GetComponent<Slider>().value = enemHTH;      //gacha enemy health bar update
+    }
 
-        charSlot1.transform.position = charLoc1;    //sets new sway translation
-        charSlot2.transform.position = charLoc2;
-        charSlot3.transform.position = charLoc3;
+    public void enemHit(int charLevel)          //called if gacha enemy is hit
+    {
+        enemHTH -= (5 * charLevel);         //decreases health by 5 times the level of the char that hit it
+        if (enemHTH <= 0)
+        {
+            enemySlot.GetComponent<SpriteRenderer>().sprite = enemySpriteList[Random.Range(0, 3)];  //selects new random enemy
+            enemHTH = 100;                                                                          //resets health the 100
+            if (ls.slot1 != ls.listChar[0])                                                 //increases level of present characters
+            {
+                ls.slot1.level++;
+            }
+            if (ls.slot2 != ls.listChar[0])
+            {
+                ls.slot2.level++;
+            }
+            if (ls.slot3 != ls.listChar[0])
+            {
+                ls.slot3.level++;
+            }
+        }
     }
 
     public void disableMainMenu()       //Shortcut to disable main menu objects
@@ -78,6 +94,8 @@ public class PhoneHandler : MonoBehaviour
         charSlot2.SetActive(false);
         charSlot3.SetActive(false);
         background.SetActive(false);
+        enemySlot.SetActive(false);
+        enemSlider.SetActive(false);
     }
 
     public void enableMainMenu()        //Shortcut to enable main menu objects
@@ -88,6 +106,8 @@ public class PhoneHandler : MonoBehaviour
         charSlot2.SetActive(true);
         charSlot3.SetActive(true);
         background.SetActive(true);
+        enemySlot.SetActive(true);
+        enemSlider.SetActive(true);
     }
 
     public void lootboxExecuter()       //in-script method to execute coroutine to avoid errors (called from lootboxButton object)
