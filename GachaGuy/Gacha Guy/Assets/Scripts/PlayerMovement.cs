@@ -20,6 +20,12 @@ public class PlayerMovement : MonoBehaviour
 
     private Rigidbody2D rb;
 
+    public bool mouse;
+
+    public Camera c;
+
+    Vector2 move;
+
     private void Start()
     {
         gm = FindObjectOfType<GameManager>();
@@ -30,26 +36,46 @@ public class PlayerMovement : MonoBehaviour
     {
         playerSpeed = gm.ps.SPD; //Player's speed = speed stat
 
-        if (movementJoystick.joystickVec.y != 0) //If move joystick is moved
+        if(!mouse)
         {
-            rb.velocity = new Vector2(movementJoystick.joystickVec.x * playerSpeed, movementJoystick.joystickVec.y * playerSpeed);
-            pv.moving = true;
+            if (movementJoystick.joystickVec.y != 0) //If move joystick is moved
+            {
+                rb.velocity = new Vector2(movementJoystick.joystickVec.x * playerSpeed, movementJoystick.joystickVec.y * playerSpeed);
+                pv.moving = true;
+            }
+            else
+            {
+                rb.velocity = Vector2.zero;
+                pv.moving = false;
+            }
+
+            if (lookJoystick.joystickVec.magnitude > 0f) //If look joystick is moved
+            {
+                Vector3 currRotation = Vector3.right * lookJoystick.joystickVec.x + Vector3.up * lookJoystick.joystickVec.y;
+                Quaternion playerRotation = Quaternion.LookRotation(currRotation, Vector3.forward);
+
+                rb.SetRotation(playerRotation); //Rotate player
+
+                if (gm.gs.canShoot) //Shoot gun
+                    gm.gs.shoot();
+            }
         }
         else
         {
-            rb.velocity = Vector2.zero;
-            pv.moving = false;
-        }
+            move.x = Input.GetAxisRaw("Horizontal");
+            move.y = Input.GetAxisRaw("Vertical");
 
-        if (lookJoystick.joystickVec.magnitude > 0f) //If look joystick is moved
-        {
-            Vector3 currRotation = Vector3.right * lookJoystick.joystickVec.x + Vector3.up * lookJoystick.joystickVec.y;
-            Quaternion playerRotation = Quaternion.LookRotation(currRotation, Vector3.forward);
+            rb.velocity = new Vector2(move.x * playerSpeed, move.y * playerSpeed);
 
-            rb.SetRotation(playerRotation); //Rotate player
+            //Credit robertbu on Unity Answers for mouse look
+            Vector3 pos = c.WorldToScreenPoint(transform.position);
+            Vector3 dir = Input.mousePosition - pos;
+            float angle = Mathf.Atan2(dir.y, dir.x) * Mathf.Rad2Deg +90;
+            transform.rotation = Quaternion.AngleAxis(angle, Vector3.forward);
 
-            if (gm.gs.canShoot) //Shoot gun
-              gm.gs.shoot();
+            if (Input.GetMouseButton(0))
+                if (gm.gs.canShoot) //Shoot gun
+                    gm.gs.shoot();
         }
     }
 
