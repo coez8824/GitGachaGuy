@@ -44,12 +44,14 @@ public class GunbaMovement : MonoBehaviour
         //-
         //obstacle = GameObject.FindWithTag("Obstacle").transform;
         //-
+
+        rb.velocity = new Vector2(moveDirection.x, moveDirection.y);
     }
 
     // Update is called once per frame
     void Update()
     {
-        rb.velocity = new Vector2(moveDirection.x, moveDirection.y);
+        
 
         if (health <= 0)
         {
@@ -64,19 +66,20 @@ public class GunbaMovement : MonoBehaviour
         if (collision.gameObject.CompareTag("Player"))
         {
             //-
-            gm.playerDamaged(1);
+            //gm.playerDamaged(1);
             //-
 
             moveDirection = (target.position + transform.position).normalized * moveSpeed;
+            rb.velocity = new Vector2(moveDirection.x, moveDirection.y);
         }
-        if (collision.gameObject.CompareTag("Wall"))
-        {
-            moveDirection = (target.position - transform.position).normalized * moveSpeed;
-        }
-        if (collision.gameObject.CompareTag("Obstacle"))
-        {
-            moveDirection = (obstacle.position + transform.position).normalized * moveSpeed;
-        }
+        //if (collision.gameObject.CompareTag("Wall"))
+        //{
+        //    moveDirection = (target.position - transform.position).normalized * moveSpeed;
+        //}
+        //if (collision.gameObject.CompareTag("Obstacle"))
+        //{
+        //    moveDirection = (obstacle.position + transform.position).normalized * moveSpeed;
+        //}
         if (collision.gameObject.CompareTag("Explosion"))
         {
             health = health - 1;

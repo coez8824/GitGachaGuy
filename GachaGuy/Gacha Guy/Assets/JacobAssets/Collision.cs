@@ -44,7 +44,6 @@ public class Collision : MonoBehaviour
 
         first = true;
         target = GameObject.FindWithTag("Player").transform;
-        health = 5;
         enemyAnimator = GetComponent<Animator>();
         collide = GetComponent<Collider2D>();
     }

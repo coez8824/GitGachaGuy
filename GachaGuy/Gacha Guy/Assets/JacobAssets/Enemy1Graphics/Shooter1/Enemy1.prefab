@@ -135,6 +135,8 @@ MonoBehaviour:
   interval: 3
   testX: 0
   testY: 0
+  rateRange: 0
+  rateRange2: 0
 --- !u!50 &4063214086044689020
 Rigidbody2D:
   serializedVersion: 4
@@ -450,6 +452,8 @@ MonoBehaviour:
   interval: 3
   testX: 0
   testY: 0
+  rateRange: 1
+  rateRange2: 3
 --- !u!82 &407436760205176683
 AudioSource:
   m_ObjectHideFlags: 0

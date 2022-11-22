@@ -17,6 +17,8 @@ public class EnemyShooter : MonoBehaviour
     public float interval = 3f;
     public float testX;
     public float testY;
+    public float rateRange;
+    public float rateRange2;
     //public Collision col;
     void Start()
     {
@@ -37,7 +39,7 @@ public class EnemyShooter : MonoBehaviour
             //projectilePhysics = spawnedProjectile.GetComponent<Rigidbody2D>();
         }
             //Destroy(spawnedProjectile);
-            float nextInterval = Random.Range(2f, 5f);
+            float nextInterval = Random.Range(rateRange, rateRange2);
             StartCoroutine(fire(nextInterval));
         
     }
