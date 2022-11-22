@@ -42,6 +42,7 @@ public class PhoneHandler : MonoBehaviour
     public Sprite enemBox;
     public List<Sprite> enemySpriteList = new List<Sprite>();
     public int enemHTH;
+    public int maxEnemHTH;
 
     private int slotInt = 0;
     public List<GachaCharacter> selectable = new List<GachaCharacter>();
@@ -55,8 +56,9 @@ public class PhoneHandler : MonoBehaviour
         enemySpriteList.Add(enemBox);
 
         enemySlot.GetComponent<SpriteRenderer>().sprite = enemySpriteList[Random.Range(0, 3)];      //inital gacha enemy
-        enemHTH = 100;         
-        enemSlider.GetComponent<Slider>().maxValue = 100;
+        maxEnemHTH = 100;
+        enemHTH = maxEnemHTH;      
+        enemSlider.GetComponent<Slider>().maxValue = maxEnemHTH;
     }
 
     void Update()
@@ -70,7 +72,8 @@ public class PhoneHandler : MonoBehaviour
         if (enemHTH <= 0)
         {
             enemySlot.GetComponent<SpriteRenderer>().sprite = enemySpriteList[Random.Range(0, 3)];  //selects new random enemy
-            enemHTH = 100;                                                                          //resets health the 100
+            maxEnemHTH += 100;
+            enemHTH = maxEnemHTH;                                                                   //resets health the 100
             if (ls.slot1 != ls.listChar[0])                                                 //increases level of present characters
             {
                 ls.slot1.level++;

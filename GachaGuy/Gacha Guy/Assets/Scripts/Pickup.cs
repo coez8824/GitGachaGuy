@@ -95,7 +95,59 @@ public class Pickup : MonoBehaviour
 
     private void doEffect()
     {
-        if(effect == "newGun")
+        switch (effect)
+        {
+            case "newGun":
+                if (gm.ps.gun2 == "")
+                {
+                    gm.gs.curr1 = gm.gs.curr;
+                    gm.ps.using1 = false;
+                    gm.ps.gun2 = gun;
+                }
+                else if (gm.ps.using1)
+                {
+                    gm.ps.gun1 = gun;
+                }
+                else
+                {
+                    gm.ps.gun2 = gun;
+                }
+
+                gm.gSetter.gunSetter(gun, 0);
+                break;
+
+            case "Heal":
+                gm.ps.currHTH += num;
+                if (gm.ps.currHTH > gm.ps.getHTH())
+                {
+                    gm.ps.currHTH = gm.ps.getHTH();
+                }
+                break;
+
+            case "Ammo":
+                gm.ps.AMM += num;
+                break;
+
+            case "Door":
+                DoorScript ds = door.GetComponent<DoorScript>();
+                ds.open = true;
+                Destroy(door.GetComponent<Collider2D>());
+                break;
+
+            case "Luck":
+                gm.ps.LCK += num;
+                break;
+
+            case "Damage":
+                gm.ps.PAM += num;
+                break;
+
+            default:
+                Debug.Log("If this message pops up then you just bought a pickup without an effect.");
+                break;
+        }
+
+        /*if(effect == "newGun")
         {
 
             if(gm.ps.gun2 == "")
@@ -138,6 +190,6 @@ public class Pickup : MonoBehaviour
         else
         {
             Debug.Log("If this message pops up then you just bought a pickup without an effect.");
-        }
+        }*/
     }
 }

@@ -57,6 +57,7 @@ public class GameManager : MonoBehaviour
         ps.AMM = 40;
 
         ps.aggro = 0;
+        ps.aggroBonus = 0;
 
         ps.gun1 = "Pistol";
         ps.gun2 = "";
@@ -85,19 +86,19 @@ public class GameManager : MonoBehaviour
 
         if(ps.aggro > 50)
         {
-            ps.PAM = 2;
+            ps.aggroBonus = 1;
         }
         else if (ps.aggro > 100)
         {
-            ps.PAM = 3;
+            ps.aggroBonus = 2;
         }
         if (ps.aggro > 150)
         {
-            ps.PAM = 4;
+            ps.aggroBonus = 3;
         }
         else if (ps.aggro > 200)
         {
-            ps.PAM = 5;
+            ps.aggroBonus = 4;
         }
 
         clpTXT.text = gs.curr + "/" + ps.AMM;

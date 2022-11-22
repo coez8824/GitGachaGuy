@@ -31,6 +31,7 @@ public class PlayerStats : MonoBehaviour
     public bool using1;
 
     public int aggro; //Variable based on amount of damage being dealt
+    public int aggroBonus;
 
     //Functions
     private void Start()

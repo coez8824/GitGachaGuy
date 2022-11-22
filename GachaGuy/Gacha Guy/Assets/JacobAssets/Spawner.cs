@@ -47,9 +47,26 @@ public class Spawner : MonoBehaviour
 
     private IEnumerator spawnEnemy(float interval, GameObject enemy)
     {
+        yield return new WaitForSeconds(interval / 2);
 
+        int k = Random.Range(0, 3);
+        if (k == 0)
+        {
+            location = new Vector3(point1.transform.position.x, point1.transform.position.y, 0);
+            point1.SetActive(true);
+        }
+        else if (k == 1)
+        {
+            location = new Vector3(point2.transform.position.x, point2.transform.position.y, 0);
+            point2.SetActive(true);
+        }
+        else if (k == 2)
+        {
+            location = new Vector3(point3.transform.position.x, point3.transform.position.y, 0);
+            point3.SetActive(true);
+        }
 
-        yield return new WaitForSeconds(interval);
+        yield return new WaitForSeconds(interval / 2);
 
         point1.SetActive(false);
         point2.SetActive(false);
@@ -111,24 +128,6 @@ public class Spawner : MonoBehaviour
         }
 
         int j = Random.Range(0, i);
-
-        int k = Random.Range(0, 3);
-
-        if (k == 0)
-        {
-            location = new Vector3(point1.transform.position.x, point1.transform.position.y, 0);
-            point1.SetActive(true);
-        }
-        else if (k == 1)
-        {
-            location = new Vector3(point2.transform.position.x, point2.transform.position.y, 0);
-            point2.SetActive(true);
-        }
-        else if (k == 2)
-        {
-            location = new Vector3(point3.transform.position.x, point3.transform.position.y, 0);
-            point3.SetActive(true);
-        }
 
         //StartCoroutine(off());
 

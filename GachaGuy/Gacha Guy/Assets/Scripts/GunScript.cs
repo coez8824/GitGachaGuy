@@ -145,7 +145,7 @@ public class GunScript : MonoBehaviour
                 }
                 if (hit.transform.tag == "Shooter")
                 {
-                    hit.transform.GetComponent<Collision>().playerShot(1);
+                    hit.transform.GetComponent<Collision>().playerShot(DAM + gm.ps.PAM + gm.ps.aggroBonus);
                     if (gm.vampirismActive == true)
                     {
                         if (ps.currHTH + (1 * gm.vampirismLevel) <= ps.getHTH())
