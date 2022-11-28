@@ -15,6 +15,10 @@ public class BulletScript : MonoBehaviour
     private Transform target;
     Vector2 moveDirection;
     public GameObject enemy;
+    public GameObject player;
+    public PlayerMovement playMove;
+    public bool ice;
+
 
     // Start is called before the first frame update
     void Start()
@@ -23,11 +27,12 @@ public class BulletScript : MonoBehaviour
         gm = FindObjectOfType<GameManager>();
         //-
 
-
+        ice = false;
         enemy = GameObject.FindWithTag("Shooter");
         rb = GetComponent<Rigidbody2D>();
-
         target = GameObject.FindWithTag("Player").transform;
+        player = GameObject.FindWithTag("Player");
+        playMove = player.GetComponentInChildren<PlayerMovement>();
 
         moveDirection = (target.position - transform.position).normalized * moveSpeed;
         rb.velocity = new Vector2(moveDirection.x, moveDirection.y);
@@ -47,6 +52,12 @@ public class BulletScript : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Player"))
         {
+
+            if (this.gameObject.CompareTag("IceBullet") && ice == false)
+            {
+                ice = true;
+                playMove.StartIced();
+            }
             //-
             gm.playerDamaged(10);
             //-
