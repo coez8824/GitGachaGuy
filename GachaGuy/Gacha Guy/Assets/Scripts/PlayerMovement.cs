@@ -26,8 +26,12 @@ public class PlayerMovement : MonoBehaviour
 
     Vector2 move;
 
+    //Jacob's ice varible
+    public bool ice;
+
     private void Start()
     {
+        ice = false;
         gm = FindObjectOfType<GameManager>();
         rb = GetComponent<Rigidbody2D>();
     }
@@ -105,5 +109,23 @@ public class PlayerMovement : MonoBehaviour
         {
             collision.gameObject.GetComponent<Collision>().playerShot(gm.thornsLevel);
         }
+    }
+
+    public IEnumerator iced()
+    {
+        if (ice == false)
+        {
+            ice = true;
+            gm.ps.SPD = gm.ps.SPD - 5;
+            yield return new WaitForSeconds(3);
+            gm.ps.SPD = gm.ps.SPD + 5;
+            ice = false;
+        }
+        
+    }
+
+    public void StartIced()
+    {
+        StartCoroutine(iced());
     }
 }
