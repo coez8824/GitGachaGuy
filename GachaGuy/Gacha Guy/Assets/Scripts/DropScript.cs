@@ -11,13 +11,15 @@ public class DropScript : MonoBehaviour
     public GameObject rifle;
     public GameObject sniper;
     public GameObject luck;
+    public GameObject handling;
+    public GameObject speed;
 
 
     public void yell()
     {
         Debug.Log("AAAAAAAAA");
 
-        int i = Random.Range(0, 10);
+        int i = Random.Range(0, 15);
 
         switch (i)
         {
@@ -50,6 +52,16 @@ public class DropScript : MonoBehaviour
             case 4:
                 Debug.Log("Drop Damage");
                 Instantiate(damage, new Vector3(this.transform.position.x, this.transform.position.y, 0), Quaternion.identity);
+                break;
+
+            case 5:
+                Debug.Log("Drop Handling");
+                Instantiate(handling, new Vector3(this.transform.position.x, this.transform.position.y, 0), Quaternion.identity);
+                break;
+
+            case 6:
+                Debug.Log("Drop Speed");
+                Instantiate(speed, new Vector3(this.transform.position.x, this.transform.position.y, 0), Quaternion.identity);
                 break;
 
             default:

@@ -142,6 +142,14 @@ public class Pickup : MonoBehaviour
                 gm.ps.PAM += num;
                 break;
 
+            case "Handling":
+                gm.ps.HND -= 0.1f;  //num is an int, and can't be used for this. HARDCODED
+                break;
+
+            case "Speed":
+                gm.ps.SPD += 0.1f;  //num is an int and doesn't support this. HARDCODED
+                break;
+
             default:
                 Debug.Log("If this message pops up then you just bought a pickup without an effect.");
                 break;
