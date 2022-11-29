@@ -17,6 +17,7 @@ public class GunScript : MonoBehaviour
     public AudioSource re;
     public AudioSource doneRe;
     public AudioSource empt;
+    public LineRenderer tracer;
 
     //GUN STATS - Gun stats are set to a gun and are not modified by any other method
     [SerializeField]
@@ -124,6 +125,8 @@ public class GunScript : MonoBehaviour
             Vector2 rayVec = -firePoint.up + (transform.rotation * new Vector3(r.x, r.y, 0)); //Apply deviation
 
             RaycastHit2D hit = Physics2D.Raycast(firePoint.transform.position, rayVec, 10f); //Actual raycast
+
+            //drawTracer();
 
             if(hit)
             {

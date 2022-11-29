@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &2688267026405498442
+--- !u!1 &2080424170771589620
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,27 +8,27 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 8005915369469597526}
-  - component: {fileID: -179330073830665689}
-  - component: {fileID: 2441912870932492449}
-  - component: {fileID: 2386771576784027301}
-  - component: {fileID: -4506364388424372332}
-  - component: {fileID: -7039761432228783407}
-  - component: {fileID: -3031648600083449296}
+  - component: {fileID: 5232330257955663743}
+  - component: {fileID: 3672408685435665788}
+  - component: {fileID: 6331969797166387261}
+  - component: {fileID: 2563113068604738534}
+  - component: {fileID: 6276574497336232852}
+  - component: {fileID: 6347548137928511070}
+  - component: {fileID: -8836222325887890875}
   m_Layer: 0
-  m_Name: Speed_Pick-Up
+  m_Name: Handling_Pick-Up
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &8005915369469597526
+--- !u!4 &5232330257955663743
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2688267026405498442}
+  m_GameObject: {fileID: 2080424170771589620}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -36,13 +36,13 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!212 &-179330073830665689
+--- !u!212 &3672408685435665788
 SpriteRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2688267026405498442}
+  m_GameObject: {fileID: 2080424170771589620}
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
@@ -76,7 +76,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -8471766767480163567, guid: ebbdd74876b53aa4d841e3b272c99e11, type: 3}
+  m_Sprite: {fileID: -7622439262308414049, guid: b7b1f041d8df54147aaaf1829bb18239, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -87,17 +87,17 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!95 &2441912870932492449
+--- !u!95 &6331969797166387261
 Animator:
   serializedVersion: 3
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2688267026405498442}
+  m_GameObject: {fileID: 2080424170771589620}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 4cdbcd22055545c4895619b4a528f061, type: 2}
+  m_Controller: {fileID: 9100000, guid: af1f262f317f6014b88c8572e8d0b95d, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -106,13 +106,13 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!61 &2386771576784027301
+--- !u!61 &2563113068604738534
 BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2688267026405498442}
+  m_GameObject: {fileID: 2080424170771589620}
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
@@ -132,13 +132,13 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
---- !u!114 &-4506364388424372332
+--- !u!114 &6276574497336232852
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2688267026405498442}
+  m_GameObject: {fileID: 2080424170771589620}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 41ec18755ba70a14eb3de91340070f8c, type: 3}
@@ -146,21 +146,21 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   price: 50
   buyButton: {fileID: 0}
-  effect: Speed
+  effect: Handling
   gun: 
-  num: 1
+  num: 0
   door: {fileID: 0}
-  des: Speed +1
-  scaling: 1
-  aud: {fileID: -3031648600083449296}
---- !u!50 &-7039761432228783407
+  des: Handling +1
+  scaling: 0
+  aud: {fileID: -8836222325887890875}
+--- !u!50 &6347548137928511070
 Rigidbody2D:
   serializedVersion: 4
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2688267026405498442}
+  m_GameObject: {fileID: 2080424170771589620}
   m_BodyType: 0
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
@@ -174,13 +174,13 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!82 &-3031648600083449296
+--- !u!82 &-8836222325887890875
 AudioSource:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2688267026405498442}
+  m_GameObject: {fileID: 2080424170771589620}
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}

@@ -30,10 +30,10 @@ public class Pickup : MonoBehaviour
 
     private void Start()
     {
+        gm = FindObjectOfType<GameManager>();
+
         if (scaling)
             price += gm.scalingPrice;
-
-        gm = FindObjectOfType<GameManager>();
 
         p = GameObject.Find("Price");
         d = GameObject.Find("Description");

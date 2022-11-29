@@ -2124,6 +2124,6 @@ MonoBehaviour:
   ammo: {fileID: 2241498628877445189, guid: 0a8d86b6af203eb4fb559aadca0d261d, type: 3}
   rifle: {fileID: 6118249677492912552, guid: 27771fed8dbdce041aaab687e045da19, type: 3}
   sniper: {fileID: 3846940105301521987, guid: 11c72416f88c1304ba7a20c2764cfdb8, type: 3}
-  luck: {fileID: 6069361415972745522, guid: 6bf87629183ab8a40a0d71706b0c7f02, type: 3}
+  luck: {fileID: 6069361415972745522, guid: 82abc9df747b8de4ca583e006163ceb6, type: 3}
   handling: {fileID: 2080424170771589620, guid: befdcfb5a7814b34f8fe3e8c6f227d99, type: 3}
   speed: {fileID: 2688267026405498442, guid: 8cf4868a7e09afa4480cfcbe7fbb31c0, type: 3}
