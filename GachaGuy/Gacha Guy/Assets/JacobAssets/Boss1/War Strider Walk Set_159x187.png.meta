@@ -1,0 +1,3396 @@
+fileFormatVersion: 2
+guid: 47e341d3072fa94458e10ebb2d4caf53
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1119259413133640704
+    second: War Strider Walk Set_159x187_0
+  - first:
+      213: 915517192893878634
+    second: War Strider Walk Set_159x187_1
+  - first:
+      213: 249246212949532000
+    second: War Strider Walk Set_159x187_2
+  - first:
+      213: -7294149216889097393
+    second: War Strider Walk Set_159x187_3
+  - first:
+      213: 8987205249321758135
+    second: War Strider Walk Set_159x187_4
+  - first:
+      213: -7656147787510287134
+    second: War Strider Walk Set_159x187_5
+  - first:
+      213: -2736636952603275560
+    second: War Strider Walk Set_159x187_6
+  - first:
+      213: 1721927323195029962
+    second: War Strider Walk Set_159x187_7
+  - first:
+      213: -4660037808932437587
+    second: War Strider Walk Set_159x187_8
+  - first:
+      213: 7705056070064054380
+    second: War Strider Walk Set_159x187_9
+  - first:
+      213: -631997011586643702
+    second: War Strider Walk Set_159x187_10
+  - first:
+      213: -6285209535619542481
+    second: War Strider Walk Set_159x187_11
+  - first:
+      213: 6783078626976653972
+    second: War Strider Walk Set_159x187_12
+  - first:
+      213: 3861125479847755027
+    second: War Strider Walk Set_159x187_13
+  - first:
+      213: 1670788927315222791
+    second: War Strider Walk Set_159x187_14
+  - first:
+      213: 8284941595042747360
+    second: War Strider Walk Set_159x187_15
+  - first:
+      213: -7530728980723664103
+    second: War Strider Walk Set_159x187_16
+  - first:
+      213: -3439603140362924748
+    second: War Strider Walk Set_159x187_17
+  - first:
+      213: -7977833174532488051
+    second: War Strider Walk Set_159x187_18
+  - first:
+      213: -8039280355925958718
+    second: War Strider Walk Set_159x187_19
+  - first:
+      213: -4258328395508901194
+    second: War Strider Walk Set_159x187_20
+  - first:
+      213: 6196570119933684047
+    second: War Strider Walk Set_159x187_21
+  - first:
+      213: -9162396344695883070
+    second: War Strider Walk Set_159x187_22
+  - first:
+      213: -4030871379497491282
+    second: War Strider Walk Set_159x187_23
+  - first:
+      213: -1739943290502323350
+    second: War Strider Walk Set_159x187_24
+  - first:
+      213: 4663633011282644617
+    second: War Strider Walk Set_159x187_25
+  - first:
+      213: 5776272097184303045
+    second: War Strider Walk Set_159x187_26
+  - first:
+      213: 166953581370144297
+    second: War Strider Walk Set_159x187_27
+  - first:
+      213: -5054918644464816223
+    second: War Strider Walk Set_159x187_28
+  - first:
+      213: 3211420694940287914
+    second: War Strider Walk Set_159x187_29
+  - first:
+      213: 3827473960517990553
+    second: War Strider Walk Set_159x187_30
+  - first:
+      213: -7757071710356705965
+    second: War Strider Walk Set_159x187_31
+  - first:
+      213: 9110470453300411947
+    second: War Strider Walk Set_159x187_32
+  - first:
+      213: -5872579798452951415
+    second: War Strider Walk Set_159x187_33
+  - first:
+      213: -6147715079180558472
+    second: War Strider Walk Set_159x187_34
+  - first:
+      213: -3040141135088446983
+    second: War Strider Walk Set_159x187_35
+  - first:
+      213: -7062402391787065529
+    second: War Strider Walk Set_159x187_36
+  - first:
+      213: -5385622657335163461
+    second: War Strider Walk Set_159x187_37
+  - first:
+      213: 1751000225133855121
+    second: War Strider Walk Set_159x187_38
+  - first:
+      213: 7286962828505071041
+    second: War Strider Walk Set_159x187_39
+  - first:
+      213: -6735961725359774475
+    second: War Strider Walk Set_159x187_40
+  - first:
+      213: 3414891513172558720
+    second: War Strider Walk Set_159x187_41
+  - first:
+      213: 7285165517646252451
+    second: War Strider Walk Set_159x187_42
+  - first:
+      213: 2363728506999243045
+    second: War Strider Walk Set_159x187_43
+  - first:
+      213: -8838115425469582078
+    second: War Strider Walk Set_159x187_44
+  - first:
+      213: -9217544489313581451
+    second: War Strider Walk Set_159x187_45
+  - first:
+      213: 8964011806810749558
+    second: War Strider Walk Set_159x187_46
+  - first:
+      213: -4502854310040517170
+    second: War Strider Walk Set_159x187_47
+  - first:
+      213: -6685208287686987727
+    second: War Strider Walk Set_159x187_48
+  - first:
+      213: 3053476214286780811
+    second: War Strider Walk Set_159x187_49
+  - first:
+      213: 1417344934045379092
+    second: War Strider Walk Set_159x187_50
+  - first:
+      213: -6902302555437783987
+    second: War Strider Walk Set_159x187_51
+  - first:
+      213: -454319905419434418
+    second: War Strider Walk Set_159x187_52
+  - first:
+      213: -2240066722676644441
+    second: War Strider Walk Set_159x187_53
+  - first:
+      213: -3926371602138274338
+    second: War Strider Walk Set_159x187_54
+  - first:
+      213: 2439779284632362475
+    second: War Strider Walk Set_159x187_55
+  - first:
+      213: 2243476056744999400
+    second: War Strider Walk Set_159x187_56
+  - first:
+      213: 3332817922659219987
+    second: War Strider Walk Set_159x187_57
+  - first:
+      213: 8343874491832460084
+    second: War Strider Walk Set_159x187_58
+  - first:
+      213: 1281927839789502461
+    second: War Strider Walk Set_159x187_59
+  - first:
+      213: 6956796657927384607
+    second: War Strider Walk Set_159x187_60
+  - first:
+      213: 6174223320664533238
+    second: War Strider Walk Set_159x187_61
+  - first:
+      213: 934925856940724570
+    second: War Strider Walk Set_159x187_62
+  - first:
+      213: -2006591189599517192
+    second: War Strider Walk Set_159x187_63
+  - first:
+      213: 8216318848564492750
+    second: War Strider Walk Set_159x187_64
+  - first:
+      213: 2004863796472669233
+    second: War Strider Walk Set_159x187_65
+  - first:
+      213: -1014424427989837082
+    second: War Strider Walk Set_159x187_66
+  - first:
+      213: -3010831200357133811
+    second: War Strider Walk Set_159x187_67
+  - first:
+      213: -4495447852780353944
+    second: War Strider Walk Set_159x187_68
+  - first:
+      213: 7539351933592663860
+    second: War Strider Walk Set_159x187_69
+  - first:
+      213: 4329293234071624214
+    second: War Strider Walk Set_159x187_70
+  - first:
+      213: -61994371033606361
+    second: War Strider Walk Set_159x187_71
+  - first:
+      213: -8097419423231968580
+    second: War Strider Walk Set_159x187_72
+  - first:
+      213: -4712918774522645895
+    second: War Strider Walk Set_159x187_73
+  - first:
+      213: -5336826733684369355
+    second: War Strider Walk Set_159x187_74
+  - first:
+      213: -6927804388531817667
+    second: War Strider Walk Set_159x187_75
+  - first:
+      213: -933996970955829522
+    second: War Strider Walk Set_159x187_76
+  - first:
+      213: -1191138633093136138
+    second: War Strider Walk Set_159x187_77
+  - first:
+      213: -7820423952343004790
+    second: War Strider Walk Set_159x187_78
+  - first:
+      213: 4365664271177883532
+    second: War Strider Walk Set_159x187_79
+  - first:
+      213: -4580365206037300427
+    second: War Strider Walk Set_159x187_80
+  - first:
+      213: 1579858164676169403
+    second: War Strider Walk Set_159x187_81
+  - first:
+      213: 1985344689773205787
+    second: War Strider Walk Set_159x187_82
+  - first:
+      213: -4511358696146787641
+    second: War Strider Walk Set_159x187_83
+  - first:
+      213: -7643180856476003907
+    second: War Strider Walk Set_159x187_84
+  - first:
+      213: -2205107430490154106
+    second: War Strider Walk Set_159x187_85
+  - first:
+      213: -3949071051170040776
+    second: War Strider Walk Set_159x187_86
+  - first:
+      213: 4365103657105611551
+    second: War Strider Walk Set_159x187_87
+  - first:
+      213: 1054573010070881356
+    second: War Strider Walk Set_159x187_88
+  - first:
+      213: 5141496020323525417
+    second: War Strider Walk Set_159x187_89
+  - first:
+      213: 7314614966891290422
+    second: War Strider Walk Set_159x187_90
+  - first:
+      213: 3501354855797413582
+    second: War Strider Walk Set_159x187_91
+  - first:
+      213: 168277405679507928
+    second: War Strider Walk Set_159x187_92
+  - first:
+      213: 7548369617029022651
+    second: War Strider Walk Set_159x187_93
+  - first:
+      213: -7734504413866393513
+    second: War Strider Walk Set_159x187_94
+  - first:
+      213: 8601952431510321677
+    second: War Strider Walk Set_159x187_95
+  - first:
+      213: -8263969000693752693
+    second: War Strider Walk Set_159x187_96
+  - first:
+      213: 6338106497128358934
+    second: War Strider Walk Set_159x187_97
+  - first:
+      213: 4030117836891936520
+    second: War Strider Walk Set_159x187_98
+  - first:
+      213: -5404716395328496382
+    second: War Strider Walk Set_159x187_99
+  - first:
+      213: 7843724671041654873
+    second: War Strider Walk Set_159x187_100
+  - first:
+      213: -700141778131155419
+    second: War Strider Walk Set_159x187_101
+  - first:
+      213: 3094944482266118306
+    second: War Strider Walk Set_159x187_102
+  - first:
+      213: -7755018870468741027
+    second: War Strider Walk Set_159x187_103
+  - first:
+      213: 2318569814766721101
+    second: War Strider Walk Set_159x187_104
+  - first:
+      213: -3474440463021852427
+    second: War Strider Walk Set_159x187_105
+  - first:
+      213: -6204395812385157365
+    second: War Strider Walk Set_159x187_106
+  - first:
+      213: 4157010951024338461
+    second: War Strider Walk Set_159x187_107
+  - first:
+      213: -3104682951466949945
+    second: War Strider Walk Set_159x187_108
+  - first:
+      213: -6929632482407292967
+    second: War Strider Walk Set_159x187_109
+  - first:
+      213: 1541580233900088963
+    second: War Strider Walk Set_159x187_110
+  - first:
+      213: -7298318543457202867
+    second: War Strider Walk Set_159x187_111
+  - first:
+      213: 7642283841495700943
+    second: War Strider Walk Set_159x187_112
+  - first:
+      213: -395745194367836864
+    second: War Strider Walk Set_159x187_113
+  - first:
+      213: -4761516000879790828
+    second: War Strider Walk Set_159x187_114
+  - first:
+      213: 887648491090022562
+    second: War Strider Walk Set_159x187_115
+  - first:
+      213: -5028392875413003954
+    second: War Strider Walk Set_159x187_116
+  - first:
+      213: -8094705220698780955
+    second: War Strider Walk Set_159x187_117
+  - first:
+      213: -5380906631752530805
+    second: War Strider Walk Set_159x187_118
+  - first:
+      213: 6390887522093376365
+    second: War Strider Walk Set_159x187_119
+  - first:
+      213: 1358992012911651862
+    second: War Strider Walk Set_159x187_120
+  - first:
+      213: 7279070847784486240
+    second: War Strider Walk Set_159x187_121
+  - first:
+      213: -5943033814892874215
+    second: War Strider Walk Set_159x187_122
+  - first:
+      213: 5716945588565403233
+    second: War Strider Walk Set_159x187_123
+  - first:
+      213: 2135354984675391565
+    second: War Strider Walk Set_159x187_124
+  - first:
+      213: -8258206296827088899
+    second: War Strider Walk Set_159x187_125
+  - first:
+      213: 8487028097853610520
+    second: War Strider Walk Set_159x187_126
+  - first:
+      213: 6392107375953380547
+    second: War Strider Walk Set_159x187_127
+  - first:
+      213: 968616067989189685
+    second: War Strider Walk Set_159x187_128
+  - first:
+      213: -9107507877183076630
+    second: War Strider Walk Set_159x187_129
+  - first:
+      213: 4464043040157824104
+    second: War Strider Walk Set_159x187_130
+  - first:
+      213: 1976484150164017420
+    second: War Strider Walk Set_159x187_131
+  - first:
+      213: -8912590973975073465
+    second: War Strider Walk Set_159x187_132
+  - first:
+      213: -5000062457841429943
+    second: War Strider Walk Set_159x187_133
+  - first:
+      213: -7168645513422206813
+    second: War Strider Walk Set_159x187_134
+  - first:
+      213: -5423969829056440093
+    second: War Strider Walk Set_159x187_135
+  - first:
+      213: -5352097947478834274
+    second: War Strider Walk Set_159x187_136
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 935
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004c7539188688f00800000000000000
+      internalID: 1119259413133640704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 935
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61d33c490294bc00800000000000000
+      internalID: 915517192893878634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_2
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 935
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06dd7703c10857300800000000000000
+      internalID: 249246212949532000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_3
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 935
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43b1aceee9f5ca90800000000000000
+      internalID: -7294149216889097393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_4
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 935
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd6959de87f8bc70800000000000000
+      internalID: 8987205249321758135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_5
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 935
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e47e89b626efb590800000000000000
+      internalID: -7656147787510287134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_6
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 935
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8decfd0e033850ad0800000000000000
+      internalID: -2736636952603275560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_7
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 935
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9341cf6c385e710800000000000000
+      internalID: 1721927323195029962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_8
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 935
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da141be7d48345fb0800000000000000
+      internalID: -4660037808932437587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_9
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 935
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60a2ae2cabddea60800000000000000
+      internalID: 7705056070064054380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_10
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 935
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0905410112ba37f0800000000000000
+      internalID: -631997011586643702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_11
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 935
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22df725a3376c8a0800000000000000
+      internalID: -6285209535619542481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_12
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 935
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492ec7ca216522e50800000000000000
+      internalID: 6783078626976653972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_13
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 935
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31df883ba29759530800000000000000
+      internalID: 3861125479847755027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_14
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 935
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701a74b5da5df2710800000000000000
+      internalID: 1670788927315222791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_15
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 935
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e391653c760af270800000000000000
+      internalID: 8284941595042747360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_16
+      rect:
+        serializedVersion: 2
+        x: 2544
+        y: 935
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bf93c34e97d7790800000000000000
+      internalID: -7530728980723664103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_17
+      rect:
+        serializedVersion: 2
+        x: 2703
+        y: 935
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d895aea231440d0800000000000000
+      internalID: -3439603140362924748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_18
+      rect:
+        serializedVersion: 2
+        x: 2862
+        y: 935
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d840aa20ffa094190800000000000000
+      internalID: -7977833174532488051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_19
+      rect:
+        serializedVersion: 2
+        x: 3021
+        y: 935
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfd1473c1dbe6090800000000000000
+      internalID: -8039280355925958718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_20
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 935
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba9bb8c2e067e4c0800000000000000
+      internalID: -4258328395508901194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_21
+      rect:
+        serializedVersion: 2
+        x: 3339
+        y: 935
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49627871b3aef550800000000000000
+      internalID: 6196570119933684047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_22
+      rect:
+        serializedVersion: 2
+        x: 3498
+        y: 935
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca7017a111a8d080800000000000000
+      internalID: -9162396344695883070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_23
+      rect:
+        serializedVersion: 2
+        x: 3657
+        y: 935
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea463c936d77f08c0800000000000000
+      internalID: -4030871379497491282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_24
+      rect:
+        serializedVersion: 2
+        x: 3816
+        y: 935
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63e840cbca7ad7e0800000000000000
+      internalID: -1739943290502323350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 748
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e8948c38d88b040800000000000000
+      internalID: 4663633011282644617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_26
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 748
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7cbae4ed0792050800000000000000
+      internalID: 5776272097184303045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_27
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 748
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926fb8fc563215200800000000000000
+      internalID: 166953581370144297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_28
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 748
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afec24664259d9b0800000000000000
+      internalID: -5054918644464816223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_29
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 748
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa301427b12419c20800000000000000
+      internalID: 3211420694940287914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_30
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 748
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9987bbbc94bed1530800000000000000
+      internalID: 3827473960517990553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_31
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 748
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35de4fec068595490800000000000000
+      internalID: -7757071710356705965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_32
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 748
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2eb9a1ab94ee6e70800000000000000
+      internalID: 9110470453300411947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_33
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 748
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986a31e99c7608ea0800000000000000
+      internalID: -5872579798452951415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_34
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 748
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f512d15bdeeaaa0800000000000000
+      internalID: -6147715079180558472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_35
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 748
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f11008bebf3fc5d0800000000000000
+      internalID: -3040141135088446983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_36
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 748
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fa9a0617e4dfd90800000000000000
+      internalID: -7062402391787065529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_37
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 748
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb50e373abc6245b0800000000000000
+      internalID: -5385622657335163461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_38
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 748
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1918bb47d6dcc4810800000000000000
+      internalID: 1751000225133855121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_39
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 748
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd3584a51e702560800000000000000
+      internalID: 7286962828505071041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_40
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 748
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4ad4bdf7e0582a0800000000000000
+      internalID: -6735961725359774475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_41
+      rect:
+        serializedVersion: 2
+        x: 2544
+        y: 748
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08385250db1246f20800000000000000
+      internalID: 3414891513172558720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_42
+      rect:
+        serializedVersion: 2
+        x: 2703
+        y: 748
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9ca39907b1a1560800000000000000
+      internalID: 7285165517646252451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_43
+      rect:
+        serializedVersion: 2
+        x: 2862
+        y: 748
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5218725bd86adc020800000000000000
+      internalID: 2363728506999243045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_44
+      rect:
+        serializedVersion: 2
+        x: 3021
+        y: 748
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2053cfcc8d4b85580800000000000000
+      internalID: -8838115425469582078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_45
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 748
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576ca15af14b41080800000000000000
+      internalID: -9217544489313581451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_46
+      rect:
+        serializedVersion: 2
+        x: 3339
+        y: 748
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67abc53be31966c70800000000000000
+      internalID: 8964011806810749558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_47
+      rect:
+        serializedVersion: 2
+        x: 3498
+        y: 748
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5c2b6bcd5a281c0800000000000000
+      internalID: -4502854310040517170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_48
+      rect:
+        serializedVersion: 2
+        x: 3657
+        y: 748
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1307bea6b7e5933a0800000000000000
+      internalID: -6685208287686987727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_49
+      rect:
+        serializedVersion: 2
+        x: 3816
+        y: 748
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b890baa5070206a20800000000000000
+      internalID: 3053476214286780811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 561
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a69f545bb6ba310800000000000000
+      internalID: 1417344934045379092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_51
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 561
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d442cd255681630a0800000000000000
+      internalID: -6902302555437783987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_52
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 561
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46e51ff37ee1b9f0800000000000000
+      internalID: -454319905419434418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_53
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 561
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a56fa12f2fa9e0e0800000000000000
+      internalID: -2240066722676644441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_54
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 561
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5ed56a4d9b289c0800000000000000
+      internalID: -3926371602138274338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_55
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 561
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed5ed63556dbd120800000000000000
+      internalID: 2439779284632362475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_56
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 561
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e93160569d622f10800000000000000
+      internalID: 2243476056744999400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_57
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 561
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a782d1e3c804e20800000000000000
+      internalID: 3332817922659219987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_58
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 561
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433ed1084a56bc370800000000000000
+      internalID: 8343874491832460084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_59
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 561
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff465e04925ac110800000000000000
+      internalID: 1281927839789502461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_60
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 561
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ee262a3b18b8060800000000000000
+      internalID: 6956796657927384607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_61
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 561
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f86420d56f3fa550800000000000000
+      internalID: 6174223320664533238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_62
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 561
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51974a0d1689fc00800000000000000
+      internalID: 934925856940724570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_63
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 561
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f50e76c1f72724e0800000000000000
+      internalID: -2006591189599517192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_64
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 561
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9780af57a360270800000000000000
+      internalID: 8216318848564492750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_65
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 561
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1346bcb2005b2db10800000000000000
+      internalID: 2004863796472669233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_66
+      rect:
+        serializedVersion: 2
+        x: 2544
+        y: 561
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eadf2e7b5a0ce1f0800000000000000
+      internalID: -1014424427989837082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_67
+      rect:
+        serializedVersion: 2
+        x: 2703
+        y: 561
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02dc00b9f06736d0800000000000000
+      internalID: -3010831200357133811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_68
+      rect:
+        serializedVersion: 2
+        x: 2862
+        y: 561
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8660cbceef5fc91c0800000000000000
+      internalID: -4495447852780353944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_69
+      rect:
+        serializedVersion: 2
+        x: 3021
+        y: 561
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437f17e63a821a860800000000000000
+      internalID: 7539351933592663860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_70
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 561
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a5751424db41c30800000000000000
+      internalID: 4329293234071624214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_71
+      rect:
+        serializedVersion: 2
+        x: 3339
+        y: 561
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727d770b270c32ff0800000000000000
+      internalID: -61994371033606361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_72
+      rect:
+        serializedVersion: 2
+        x: 3498
+        y: 561
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbaf8e0cfef20af80800000000000000
+      internalID: -8097419423231968580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_73
+      rect:
+        serializedVersion: 2
+        x: 3657
+        y: 561
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972fe4d3859589eb0800000000000000
+      internalID: -4712918774522645895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_74
+      rect:
+        serializedVersion: 2
+        x: 3816
+        y: 561
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5385fe68c58cfe5b0800000000000000
+      internalID: -5336826733684369355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 374
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d333b2c1d9e7bdf90800000000000000
+      internalID: -6927804388531817667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_76
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 374
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee03e414b6c903f0800000000000000
+      internalID: -933996970955829522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_77
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 374
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f04d3069b9387fe0800000000000000
+      internalID: -1191138633093136138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_78
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 374
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8983a789d5487390800000000000000
+      internalID: -7820423952343004790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_79
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 374
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f1c2c3684f59c30800000000000000
+      internalID: 4365664271177883532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_80
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 374
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b7698ec164f60c0800000000000000
+      internalID: -4580365206037300427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_81
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 374
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe060d51a8cce510800000000000000
+      internalID: 1579858164676169403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_82
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 374
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19d3aef97c5d8b10800000000000000
+      internalID: 1985344689773205787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_83
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 374
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c22dc50b2f6461c0800000000000000
+      internalID: -4511358696146787641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_84
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 374
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db19eaf9187fde590800000000000000
+      internalID: -7643180856476003907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_85
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 374
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b5f02a972e561e0800000000000000
+      internalID: -2205107430490154106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_86
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 374
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8343b325dc41239c0800000000000000
+      internalID: -3949071051170040776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_87
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 374
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bd98916a6f39c30800000000000000
+      internalID: 4365103657105611551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_88
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 374
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c444df6b09892ae00800000000000000
+      internalID: 1054573010070881356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_89
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 374
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923e771c3634a5740800000000000000
+      internalID: 5141496020323525417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_90
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 374
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f9f42de8bb28560800000000000000
+      internalID: 7314614966891290422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_91
+      rect:
+        serializedVersion: 2
+        x: 2544
+        y: 374
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6d46cb0bf479030800000000000000
+      internalID: 3501354855797413582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_92
+      rect:
+        serializedVersion: 2
+        x: 2703
+        y: 374
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9504da867d55200800000000000000
+      internalID: 168277405679507928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_93
+      rect:
+        serializedVersion: 2
+        x: 2862
+        y: 374
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3cd587c2231c860800000000000000
+      internalID: 7548369617029022651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_94
+      rect:
+        serializedVersion: 2
+        x: 3021
+        y: 374
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7508dc9f63589a490800000000000000
+      internalID: -7734504413866393513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_95
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 374
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0afafe4926406770800000000000000
+      internalID: 8601952431510321677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_96
+      rect:
+        serializedVersion: 2
+        x: 3339
+        y: 374
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c1fce6afb705d80800000000000000
+      internalID: -8263969000693752693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_97
+      rect:
+        serializedVersion: 2
+        x: 3498
+        y: 374
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6146ee5474a75f750800000000000000
+      internalID: 6338106497128358934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_98
+      rect:
+        serializedVersion: 2
+        x: 3657
+        y: 374
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807d8e6f1dadde730800000000000000
+      internalID: 4030117836891936520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_99
+      rect:
+        serializedVersion: 2
+        x: 3816
+        y: 374
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d17b8e2179ef4b0800000000000000
+      internalID: -5404716395328496382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 187
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950d76dc7028adc60800000000000000
+      internalID: 7843724671041654873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_101
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 187
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526051623c89846f0800000000000000
+      internalID: -700141778131155419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_102
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 187
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8f601eb9373fa20800000000000000
+      internalID: 3094944482266118306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_103
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 187
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d587247dc63a06490800000000000000
+      internalID: -7755018870468741027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_104
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 187
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d481d1456f63d2020800000000000000
+      internalID: 2318569814766721101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_105
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 187
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8b658aece48cfc0800000000000000
+      internalID: -3474440463021852427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_106
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 187
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f8cd481ee85e9a0800000000000000
+      internalID: -6204395812385157365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_107
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 187
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16e6376f6ba0b930800000000000000
+      internalID: 4157010951024338461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_108
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 187
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2e9911e43f9e4d0800000000000000
+      internalID: -3104682951466949945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_109
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 187
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfda16d8fff4df90800000000000000
+      internalID: -6929632482407292967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_110
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 187
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ed06a1e0bc46510800000000000000
+      internalID: 1541580233900088963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_111
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 187
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d469fe3f927ba90800000000000000
+      internalID: -7298318543457202867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_112
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 187
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc51f0dc9a8de0a60800000000000000
+      internalID: 7642283841495700943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_113
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 187
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d132ca7d7028af0800000000000000
+      internalID: -395745194367836864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_114
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 187
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415b83fbc62bbedb0800000000000000
+      internalID: -4761516000879790828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_115
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 187
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a015d4899f815c00800000000000000
+      internalID: 887648491090022562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_116
+      rect:
+        serializedVersion: 2
+        x: 2544
+        y: 187
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4127e5425f873ab0800000000000000
+      internalID: -5028392875413003954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_117
+      rect:
+        serializedVersion: 2
+        x: 2703
+        y: 187
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eacfb64d74d9af80800000000000000
+      internalID: -8094705220698780955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_118
+      rect:
+        serializedVersion: 2
+        x: 2862
+        y: 187
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84c8dc7ded2355b0800000000000000
+      internalID: -5380906631752530805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_119
+      rect:
+        serializedVersion: 2
+        x: 3021
+        y: 187
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d632ad9475ef0b850800000000000000
+      internalID: 6390887522093376365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_120
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 187
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c2136190c1cd210800000000000000
+      internalID: 1358992012911651862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_121
+      rect:
+        serializedVersion: 2
+        x: 3339
+        y: 187
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0658811be54740560800000000000000
+      internalID: 7279070847784486240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_122
+      rect:
+        serializedVersion: 2
+        x: 3498
+        y: 187
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916fc2f9b3a168da0800000000000000
+      internalID: -5943033814892874215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_123
+      rect:
+        serializedVersion: 2
+        x: 3657
+        y: 187
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1666dae19bba65f40800000000000000
+      internalID: 5716945588565403233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_124
+      rect:
+        serializedVersion: 2
+        x: 3816
+        y: 187
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48bfe28b0e42ad10800000000000000
+      internalID: 2135354984675391565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff2abb7025f46d80800000000000000
+      internalID: -8258206296827088899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_126
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ad25bb61bf7c570800000000000000
+      internalID: 8487028097853610520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_127
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 0
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c40bd5aac355b850800000000000000
+      internalID: 6392107375953380547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_128
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 0
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5343b309e27317d00800000000000000
+      internalID: 968616067989189685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_129
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 0
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae64e6fd6d1ab9180800000000000000
+      internalID: -9107507877183076630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_130
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 0
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86479a65e7773fd30800000000000000
+      internalID: 4464043040157824104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_131
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 0
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0157badcd1ed6b10800000000000000
+      internalID: 1976484150164017420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_132
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 0
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74decd7eabd105480800000000000000
+      internalID: -8912590973975073465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_133
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 0
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9425891afa53c9ab0800000000000000
+      internalID: -5000062457841429943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_134
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 0
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a885cbf2ead38c90800000000000000
+      internalID: -7168645513422206813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_135
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 0
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e897aa8d203ab4b0800000000000000
+      internalID: -5423969829056440093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Walk Set_159x187_136
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 0
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e934d6df54789b5b0800000000000000
+      internalID: -5352097947478834274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3588 @@
+fileFormatVersion: 2
+guid: bafd7747d38e5e54882781626b982e13
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6805459539060951714
+    second: War Strider Gun Set_179x185_0
+  - first:
+      213: -1435541018340809009
+    second: War Strider Gun Set_179x185_1
+  - first:
+      213: -795412639590955515
+    second: War Strider Gun Set_179x185_2
+  - first:
+      213: -7915335744536605332
+    second: War Strider Gun Set_179x185_3
+  - first:
+      213: 6624067645493795102
+    second: War Strider Gun Set_179x185_4
+  - first:
+      213: 7946577484209364342
+    second: War Strider Gun Set_179x185_5
+  - first:
+      213: -7560065227253535632
+    second: War Strider Gun Set_179x185_6
+  - first:
+      213: -7089622691913271132
+    second: War Strider Gun Set_179x185_7
+  - first:
+      213: 2520178005411930463
+    second: War Strider Gun Set_179x185_8
+  - first:
+      213: 8109609273740282406
+    second: War Strider Gun Set_179x185_9
+  - first:
+      213: -1480413519562993276
+    second: War Strider Gun Set_179x185_10
+  - first:
+      213: 7530358692266980421
+    second: War Strider Gun Set_179x185_11
+  - first:
+      213: 668710510608339437
+    second: War Strider Gun Set_179x185_12
+  - first:
+      213: -4160942645142276285
+    second: War Strider Gun Set_179x185_13
+  - first:
+      213: -4830795869646620691
+    second: War Strider Gun Set_179x185_14
+  - first:
+      213: 4809302049294604580
+    second: War Strider Gun Set_179x185_15
+  - first:
+      213: 7117637493307973063
+    second: War Strider Gun Set_179x185_16
+  - first:
+      213: -287185332736835311
+    second: War Strider Gun Set_179x185_17
+  - first:
+      213: -2107814607928115585
+    second: War Strider Gun Set_179x185_18
+  - first:
+      213: 8414248701922160471
+    second: War Strider Gun Set_179x185_19
+  - first:
+      213: 9018288025923192896
+    second: War Strider Gun Set_179x185_20
+  - first:
+      213: -5251671367070047093
+    second: War Strider Gun Set_179x185_21
+  - first:
+      213: 5034232114863193707
+    second: War Strider Gun Set_179x185_22
+  - first:
+      213: -1335033902461719674
+    second: War Strider Gun Set_179x185_23
+  - first:
+      213: -6196612929663657110
+    second: War Strider Gun Set_179x185_24
+  - first:
+      213: -5806259246290636770
+    second: War Strider Gun Set_179x185_25
+  - first:
+      213: 3645570321533496232
+    second: War Strider Gun Set_179x185_26
+  - first:
+      213: -3389299058321849085
+    second: War Strider Gun Set_179x185_27
+  - first:
+      213: -6194692777953618263
+    second: War Strider Gun Set_179x185_28
+  - first:
+      213: -546200524547923675
+    second: War Strider Gun Set_179x185_29
+  - first:
+      213: 6718066770926325024
+    second: War Strider Gun Set_179x185_30
+  - first:
+      213: 3486014019868819410
+    second: War Strider Gun Set_179x185_31
+  - first:
+      213: -5954257496507162410
+    second: War Strider Gun Set_179x185_32
+  - first:
+      213: 2796296370096398093
+    second: War Strider Gun Set_179x185_33
+  - first:
+      213: 6279558301442352612
+    second: War Strider Gun Set_179x185_34
+  - first:
+      213: 2694706079764420743
+    second: War Strider Gun Set_179x185_35
+  - first:
+      213: 2679338679345558998
+    second: War Strider Gun Set_179x185_36
+  - first:
+      213: -7821209359818175586
+    second: War Strider Gun Set_179x185_37
+  - first:
+      213: -4178241997340235129
+    second: War Strider Gun Set_179x185_38
+  - first:
+      213: -1745517087339124268
+    second: War Strider Gun Set_179x185_39
+  - first:
+      213: 938608061361384594
+    second: War Strider Gun Set_179x185_40
+  - first:
+      213: -985431108780873159
+    second: War Strider Gun Set_179x185_41
+  - first:
+      213: 1426687553230545893
+    second: War Strider Gun Set_179x185_42
+  - first:
+      213: -2357471954802252890
+    second: War Strider Gun Set_179x185_43
+  - first:
+      213: -5413313612297528280
+    second: War Strider Gun Set_179x185_44
+  - first:
+      213: 4941603900460669786
+    second: War Strider Gun Set_179x185_45
+  - first:
+      213: -1980506114045282653
+    second: War Strider Gun Set_179x185_46
+  - first:
+      213: -2550077605364187000
+    second: War Strider Gun Set_179x185_47
+  - first:
+      213: 9033772090855350887
+    second: War Strider Gun Set_179x185_48
+  - first:
+      213: -5548572645068742754
+    second: War Strider Gun Set_179x185_49
+  - first:
+      213: 3096000472995177934
+    second: War Strider Gun Set_179x185_50
+  - first:
+      213: -3050298002096826897
+    second: War Strider Gun Set_179x185_51
+  - first:
+      213: 1207609850288186547
+    second: War Strider Gun Set_179x185_52
+  - first:
+      213: 1901426302111661811
+    second: War Strider Gun Set_179x185_53
+  - first:
+      213: 113482167748196271
+    second: War Strider Gun Set_179x185_54
+  - first:
+      213: 8568871453827008445
+    second: War Strider Gun Set_179x185_55
+  - first:
+      213: -6008976272464439824
+    second: War Strider Gun Set_179x185_56
+  - first:
+      213: 3601002932350878832
+    second: War Strider Gun Set_179x185_57
+  - first:
+      213: 739039585801339953
+    second: War Strider Gun Set_179x185_58
+  - first:
+      213: 4519618589028051019
+    second: War Strider Gun Set_179x185_59
+  - first:
+      213: -5447268116821900079
+    second: War Strider Gun Set_179x185_60
+  - first:
+      213: 7128421916996522296
+    second: War Strider Gun Set_179x185_61
+  - first:
+      213: -3835313007724488650
+    second: War Strider Gun Set_179x185_62
+  - first:
+      213: -6434779078337680140
+    second: War Strider Gun Set_179x185_63
+  - first:
+      213: -6041832811011937715
+    second: War Strider Gun Set_179x185_64
+  - first:
+      213: 3399926851799253921
+    second: War Strider Gun Set_179x185_65
+  - first:
+      213: 441596560377774734
+    second: War Strider Gun Set_179x185_66
+  - first:
+      213: 7472014650221042981
+    second: War Strider Gun Set_179x185_67
+  - first:
+      213: -6273111909656590900
+    second: War Strider Gun Set_179x185_68
+  - first:
+      213: -5549069639054310688
+    second: War Strider Gun Set_179x185_69
+  - first:
+      213: 7143429243813031474
+    second: War Strider Gun Set_179x185_70
+  - first:
+      213: -9203620553966317875
+    second: War Strider Gun Set_179x185_71
+  - first:
+      213: -8015735475780663079
+    second: War Strider Gun Set_179x185_72
+  - first:
+      213: 4121864290364293526
+    second: War Strider Gun Set_179x185_73
+  - first:
+      213: -401261383034319009
+    second: War Strider Gun Set_179x185_74
+  - first:
+      213: 8909401266511464963
+    second: War Strider Gun Set_179x185_75
+  - first:
+      213: 226606890869614821
+    second: War Strider Gun Set_179x185_76
+  - first:
+      213: -6514574501134179629
+    second: War Strider Gun Set_179x185_77
+  - first:
+      213: 7134434993927970042
+    second: War Strider Gun Set_179x185_78
+  - first:
+      213: -7281587607430030466
+    second: War Strider Gun Set_179x185_79
+  - first:
+      213: 2472015564775028615
+    second: War Strider Gun Set_179x185_80
+  - first:
+      213: 4364768721509402794
+    second: War Strider Gun Set_179x185_81
+  - first:
+      213: -3757515571599511122
+    second: War Strider Gun Set_179x185_82
+  - first:
+      213: -9079933619713688508
+    second: War Strider Gun Set_179x185_83
+  - first:
+      213: -670305231047065311
+    second: War Strider Gun Set_179x185_84
+  - first:
+      213: 232344459611378079
+    second: War Strider Gun Set_179x185_85
+  - first:
+      213: -783452971443925453
+    second: War Strider Gun Set_179x185_86
+  - first:
+      213: 4457153846228465388
+    second: War Strider Gun Set_179x185_87
+  - first:
+      213: -6131022044282977605
+    second: War Strider Gun Set_179x185_88
+  - first:
+      213: -3892044005632101145
+    second: War Strider Gun Set_179x185_89
+  - first:
+      213: -2650950123530411870
+    second: War Strider Gun Set_179x185_90
+  - first:
+      213: -5177910788559328859
+    second: War Strider Gun Set_179x185_91
+  - first:
+      213: 512516529304854852
+    second: War Strider Gun Set_179x185_92
+  - first:
+      213: -926531675421192864
+    second: War Strider Gun Set_179x185_93
+  - first:
+      213: -7081450797068394924
+    second: War Strider Gun Set_179x185_94
+  - first:
+      213: -8600514623110546216
+    second: War Strider Gun Set_179x185_95
+  - first:
+      213: 7622329626949346383
+    second: War Strider Gun Set_179x185_96
+  - first:
+      213: 4935464404295110796
+    second: War Strider Gun Set_179x185_97
+  - first:
+      213: -4474589183611466314
+    second: War Strider Gun Set_179x185_98
+  - first:
+      213: 6566373193006244131
+    second: War Strider Gun Set_179x185_99
+  - first:
+      213: -1086546931164276219
+    second: War Strider Gun Set_179x185_100
+  - first:
+      213: 5253895031329427074
+    second: War Strider Gun Set_179x185_101
+  - first:
+      213: 680930434755963309
+    second: War Strider Gun Set_179x185_102
+  - first:
+      213: -3536281310405152476
+    second: War Strider Gun Set_179x185_103
+  - first:
+      213: -6706383617510706365
+    second: War Strider Gun Set_179x185_104
+  - first:
+      213: -1749458642248988797
+    second: War Strider Gun Set_179x185_105
+  - first:
+      213: -7918977457293308586
+    second: War Strider Gun Set_179x185_106
+  - first:
+      213: 8722735535454529948
+    second: War Strider Gun Set_179x185_107
+  - first:
+      213: 8967509730286258373
+    second: War Strider Gun Set_179x185_108
+  - first:
+      213: -6161968662590343851
+    second: War Strider Gun Set_179x185_109
+  - first:
+      213: -2649092123920593448
+    second: War Strider Gun Set_179x185_110
+  - first:
+      213: 4220777470586770605
+    second: War Strider Gun Set_179x185_111
+  - first:
+      213: 1341377276386144384
+    second: War Strider Gun Set_179x185_112
+  - first:
+      213: -6122047302474083255
+    second: War Strider Gun Set_179x185_113
+  - first:
+      213: -8984576274712182850
+    second: War Strider Gun Set_179x185_114
+  - first:
+      213: 8073588189002882082
+    second: War Strider Gun Set_179x185_115
+  - first:
+      213: 246035413101741075
+    second: War Strider Gun Set_179x185_116
+  - first:
+      213: -6998625577994456869
+    second: War Strider Gun Set_179x185_117
+  - first:
+      213: -5710600866843888752
+    second: War Strider Gun Set_179x185_118
+  - first:
+      213: 6975962788658381449
+    second: War Strider Gun Set_179x185_119
+  - first:
+      213: 6818722585195883377
+    second: War Strider Gun Set_179x185_120
+  - first:
+      213: -3950236846734927029
+    second: War Strider Gun Set_179x185_121
+  - first:
+      213: 4475382216607766210
+    second: War Strider Gun Set_179x185_122
+  - first:
+      213: 6261617337911826796
+    second: War Strider Gun Set_179x185_123
+  - first:
+      213: -1389402561114157782
+    second: War Strider Gun Set_179x185_124
+  - first:
+      213: 357027755368722058
+    second: War Strider Gun Set_179x185_125
+  - first:
+      213: -3773795281797690545
+    second: War Strider Gun Set_179x185_126
+  - first:
+      213: -6292858566784530531
+    second: War Strider Gun Set_179x185_127
+  - first:
+      213: -8131826926097085958
+    second: War Strider Gun Set_179x185_128
+  - first:
+      213: 5534640618404021571
+    second: War Strider Gun Set_179x185_129
+  - first:
+      213: -1913033420809033249
+    second: War Strider Gun Set_179x185_130
+  - first:
+      213: 1642564506175882422
+    second: War Strider Gun Set_179x185_131
+  - first:
+      213: 3631896525252889023
+    second: War Strider Gun Set_179x185_132
+  - first:
+      213: -1324654174807929364
+    second: War Strider Gun Set_179x185_133
+  - first:
+      213: 5800835426593136223
+    second: War Strider Gun Set_179x185_134
+  - first:
+      213: 214384254301196514
+    second: War Strider Gun Set_179x185_135
+  - first:
+      213: 1032653398067170526
+    second: War Strider Gun Set_179x185_136
+  - first:
+      213: -981755475873318272
+    second: War Strider Gun Set_179x185_137
+  - first:
+      213: 2283516613999756185
+    second: War Strider Gun Set_179x185_138
+  - first:
+      213: 5514407513568794917
+    second: War Strider Gun Set_179x185_139
+  - first:
+      213: -4825023218147450037
+    second: War Strider Gun Set_179x185_140
+  - first:
+      213: 6624720663380253059
+    second: War Strider Gun Set_179x185_141
+  - first:
+      213: -4224084471063498740
+    second: War Strider Gun Set_179x185_142
+  - first:
+      213: -7204456241425634457
+    second: War Strider Gun Set_179x185_143
+  - first:
+      213: 8825132494628433487
+    second: War Strider Gun Set_179x185_144
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1110
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e557af82b962e81a0800000000000000
+      internalID: -6805459539060951714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_1
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1110
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc62b45bc0fe31ce0800000000000000
+      internalID: -1435541018340809009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_2
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1110
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50643572b6026f4f0800000000000000
+      internalID: -795412639590955515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_3
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1110
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d81fcd314172290800000000000000
+      internalID: -7915335744536605332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_4
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1110
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19d0d18d6a6deb50800000000000000
+      internalID: 6624067645493795102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_5
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1110
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d9a6e7e1ae74e60800000000000000
+      internalID: 7946577484209364342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_6
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1110
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c25c21bb0451790800000000000000
+      internalID: -7560065227253535632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_7
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 1110
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8f5f069b99c9d90800000000000000
+      internalID: -7089622691913271132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_8
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 1110
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51a45f1b8879f220800000000000000
+      internalID: 2520178005411930463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_9
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 1110
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ac08cfaae1b8070800000000000000
+      internalID: 8109609273740282406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_10
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 1110
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48113cd5fb3847be0800000000000000
+      internalID: -1480413519562993276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_11
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 1110
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54439d34555318860800000000000000
+      internalID: 7530358692266980421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_12
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 1110
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1516a9aacb74900800000000000000
+      internalID: 668710510608339437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_13
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 1110
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3473589b5bc5146c0800000000000000
+      internalID: -4160942645142276285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_14
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 1110
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7f94f40c095fcb0800000000000000
+      internalID: -4830795869646620691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_15
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 1110
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42953c9abb21eb240800000000000000
+      internalID: 4809302049294604580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_16
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 1110
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd9f9cd69de6c260800000000000000
+      internalID: 7117637493307973063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_17
+      rect:
+        serializedVersion: 2
+        x: 3043
+        y: 1110
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111c4812676b30cf0800000000000000
+      internalID: -287185332736835311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_18
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 1110
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7eb01228c98fb2e0800000000000000
+      internalID: -2107814607928115585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_19
+      rect:
+        serializedVersion: 2
+        x: 3401
+        y: 1110
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75facd12d9a65c470800000000000000
+      internalID: 8414248701922160471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_20
+      rect:
+        serializedVersion: 2
+        x: 3580
+        y: 1110
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0488f4bbd25672d70800000000000000
+      internalID: 9018288025923192896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_21
+      rect:
+        serializedVersion: 2
+        x: 3759
+        y: 1110
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8423b857b05e17b0800000000000000
+      internalID: -5251671367070047093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 925
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6eb84b9f6f2dd540800000000000000
+      internalID: 5034232114863193707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_23
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 925
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b6aa03db1097de0800000000000000
+      internalID: -1335033902461719674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_24
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 925
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b1ecc1f55310aa0800000000000000
+      internalID: -6196612929663657110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_25
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 925
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10f4077af50c6fa0800000000000000
+      internalID: -5806259246290636770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_26
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 925
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abe5b274eaa79230800000000000000
+      internalID: 3645570321533496232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_27
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 925
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3050927b67ac6f0d0800000000000000
+      internalID: -3389299058321849085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_28
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 925
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a695654db7080aa0800000000000000
+      internalID: -6194692777953618263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_29
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 925
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521603e44818b68f0800000000000000
+      internalID: -546200524547923675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_30
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 925
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d4b62622e5b3d50800000000000000
+      internalID: 6718066770926325024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_31
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 925
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfff48084fc06030800000000000000
+      internalID: 3486014019868819410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_32
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 925
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0eb7b9a5a3e5da0800000000000000
+      internalID: -5954257496507162410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_33
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 925
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f5f42bbb07ec620800000000000000
+      internalID: 2796296370096398093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_34
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 925
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5a3df2109752750800000000000000
+      internalID: 6279558301442352612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_35
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 925
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788917207e4856520800000000000000
+      internalID: 2694706079764420743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_36
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 925
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d53b57455cee2520800000000000000
+      internalID: 2679338679345558998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_37
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 925
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bc31a968b757390800000000000000
+      internalID: -7821209359818175586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_38
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 925
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78aaaea6a07e306c0800000000000000
+      internalID: -4178241997340235129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_39
+      rect:
+        serializedVersion: 2
+        x: 3043
+        y: 925
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9e6cb057da6c7e0800000000000000
+      internalID: -1745517087339124268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_40
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 925
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c63c01f0b960d00800000000000000
+      internalID: 938608061361384594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_41
+      rect:
+        serializedVersion: 2
+        x: 3401
+        y: 925
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a2f7aa0ab0352f0800000000000000
+      internalID: -985431108780873159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_42
+      rect:
+        serializedVersion: 2
+        x: 3580
+        y: 925
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e327cf45cc9cc310800000000000000
+      internalID: 1426687553230545893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_43
+      rect:
+        serializedVersion: 2
+        x: 3759
+        y: 925
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3e01e5fb3984fd0800000000000000
+      internalID: -2357471954802252890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 740
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c183953fb00e4b0800000000000000
+      internalID: -5413313612297528280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_45
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 740
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b94a3d09a149440800000000000000
+      internalID: 4941603900460669786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_46
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 740
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a677d4be24d384e0800000000000000
+      internalID: -1980506114045282653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_47
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 740
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880c696cded4c9cd0800000000000000
+      internalID: -2550077605364187000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_48
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 740
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76265498ad76e5d70800000000000000
+      internalID: 9033772090855350887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_49
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 740
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f5a30b3928ff2b0800000000000000
+      internalID: -5548572645068742754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_50
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 740
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5a151e60437fa20800000000000000
+      internalID: 3096000472995177934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_51
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 740
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe55fe5d02a2ba5d0800000000000000
+      internalID: -3050298002096826897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_52
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 740
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4a0b9b2ca42c010800000000000000
+      internalID: 1207609850288186547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_53
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 740
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe33f7c529336a10800000000000000
+      internalID: 1901426302111661811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_54
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 740
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7f8f82e6b239100800000000000000
+      internalID: 113482167748196271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_55
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 740
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7085bff2fbae670800000000000000
+      internalID: 8568871453827008445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_56
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 740
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f59108cae3db9ca0800000000000000
+      internalID: -6008976272464439824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_57
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 740
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0740ae9861559f130800000000000000
+      internalID: 3601002932350878832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_58
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 740
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13404a27698914a00800000000000000
+      internalID: 739039585801339953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_59
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 740
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48e4472929e8be30800000000000000
+      internalID: 4519618589028051019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_60
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 740
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d40584328a6764b0800000000000000
+      internalID: -5447268116821900079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_61
+      rect:
+        serializedVersion: 2
+        x: 3043
+        y: 740
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831dfab27fd3de260800000000000000
+      internalID: 7128421916996522296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_62
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 740
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638952cc32b36cac0800000000000000
+      internalID: -3835313007724488650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_63
+      rect:
+        serializedVersion: 2
+        x: 3401
+        y: 740
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc219b658213b6a0800000000000000
+      internalID: -6434779078337680140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_64
+      rect:
+        serializedVersion: 2
+        x: 3580
+        y: 740
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a6553c119172ca0800000000000000
+      internalID: -6041832811011937715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_65
+      rect:
+        serializedVersion: 2
+        x: 3759
+        y: 740
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a38ec74577fe2f20800000000000000
+      internalID: 3399926851799253921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 555
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e820a536bbdd02600800000000000000
+      internalID: 441596560377774734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_67
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 555
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d90f66cbde1b760800000000000000
+      internalID: 7472014650221042981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_68
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 555
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc585ac54fd61f8a0800000000000000
+      internalID: -6273111909656590900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_69
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 555
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e24342409ebdf2b0800000000000000
+      internalID: -5549069639054310688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_70
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 555
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23eec9bbc0f822360800000000000000
+      internalID: 7143429243813031474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_71
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 555
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce8a597edb264080800000000000000
+      internalID: -9203620553966317875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_72
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 555
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8c890dd0362c090800000000000000
+      internalID: -8015735475780663079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_73
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 555
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6910887cbbdc33930800000000000000
+      internalID: 4121864290364293526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_74
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 555
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f482ae5ee6e6af0800000000000000
+      internalID: -401261383034319009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_75
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 555
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ac4d37f3d84ab70800000000000000
+      internalID: 8909401266511464963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_76
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 555
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e860f144c1152300800000000000000
+      internalID: 226606890869614821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_77
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 555
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d26415c1059795a0800000000000000
+      internalID: -6514574501134179629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_78
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 555
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc513eb3da920360800000000000000
+      internalID: 7134434993927970042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_79
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 555
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b1f3a86aa92fa90800000000000000
+      internalID: -7281587607430030466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_80
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 555
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787f6a11f0d5e4220800000000000000
+      internalID: 2472015564775028615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_81
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 555
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8cd44d606c29c30800000000000000
+      internalID: 4364768721509402794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_82
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 555
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1ffccee7f9adbc0800000000000000
+      internalID: -3757515571599511122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_83
+      rect:
+        serializedVersion: 2
+        x: 3043
+        y: 555
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cb6dcfa789df180800000000000000
+      internalID: -9079933619713688508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_84
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 555
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1218a5c91f892b6f0800000000000000
+      internalID: -670305231047065311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_85
+      rect:
+        serializedVersion: 2
+        x: 3401
+        y: 555
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f919aa41e04793300800000000000000
+      internalID: 232344459611378079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_86
+      rect:
+        serializedVersion: 2
+        x: 3580
+        y: 555
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e4cd26cad9025f0800000000000000
+      internalID: -783452971443925453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_87
+      rect:
+        serializedVersion: 2
+        x: 3759
+        y: 555
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6b6b1eecdfadd30800000000000000
+      internalID: 4457153846228465388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 370
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb28c6c2feb3aeaa0800000000000000
+      internalID: -6131022044282977605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_89
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 370
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e43c1a099eacf9c0800000000000000
+      internalID: -3892044005632101145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_90
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 370
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a021b178eee53bd0800000000000000
+      internalID: -2650950123530411870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_91
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 370
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a92241529d5428b0800000000000000
+      internalID: -5177910788559328859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_92
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 370
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4416bb66113dc1700800000000000000
+      internalID: 512516529304854852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_93
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 370
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d4f55a95c4423f0800000000000000
+      internalID: -926531675421192864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_94
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 370
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ed45ae402a9bd90800000000000000
+      internalID: -7081450797068394924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_95
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 370
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc71fb8485d4a880800000000000000
+      internalID: -8600514623110546216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_96
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 370
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44604f2964f7c960800000000000000
+      internalID: 7622329626949346383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_97
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 370
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80589bf9ba4e7440800000000000000
+      internalID: 4935464404295110796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_98
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 370
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd880b48d017e1c0800000000000000
+      internalID: -4474589183611466314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_99
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 370
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321e8cff0a1702b50800000000000000
+      internalID: 6566373193006244131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_100
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 370
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a9928a25fcbe0f0800000000000000
+      internalID: -1086546931164276219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_101
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 370
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e8495d1b599e840800000000000000
+      internalID: 5253895031329427074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_102
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 370
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9a1686f96237900800000000000000
+      internalID: 680930434755963309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_103
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 370
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421b27b52ea9ceec0800000000000000
+      internalID: -3536281310405152476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_104
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 370
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34376ceb1a32ee2a0800000000000000
+      internalID: -6706383617510706365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_105
+      rect:
+        serializedVersion: 2
+        x: 3043
+        y: 370
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387038742aca8b7e0800000000000000
+      internalID: -1749458642248988797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_106
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 370
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65dc4b985f32a1290800000000000000
+      internalID: -7918977457293308586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_107
+      rect:
+        serializedVersion: 2
+        x: 3401
+        y: 370
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99a17421c16d0970800000000000000
+      internalID: 8722735535454529948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_108
+      rect:
+        serializedVersion: 2
+        x: 3580
+        y: 370
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c84299769ef27c70800000000000000
+      internalID: 8967509730286258373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_109
+      rect:
+        serializedVersion: 2
+        x: 3759
+        y: 370
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555b63d162a4c7aa0800000000000000
+      internalID: -6161968662590343851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 185
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd8d60bfb88c3bd0800000000000000
+      internalID: -2649092123920593448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_111
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 185
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4db423fb6339a30800000000000000
+      internalID: 4220777470586770605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_112
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 185
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080f6c4a6878d9210800000000000000
+      internalID: 1341377276386144384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_113
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 185
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944d4e51a6e1a0ba0800000000000000
+      internalID: -6122047302474083255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_114
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 185
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfb0600b7f505380800000000000000
+      internalID: -8984576274712182850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_115
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 185
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c5e44aea52b0070800000000000000
+      internalID: 8073588189002882082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_116
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 185
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314881897e71a6300800000000000000
+      internalID: 246035413101741075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_117
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 185
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd07dabfd13efde90800000000000000
+      internalID: -6998625577994456869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_118
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 185
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0937bb584cedfb0b0800000000000000
+      internalID: -5710600866843888752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_119
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 185
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982835032399fc060800000000000000
+      internalID: 6975962788658381449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_120
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 185
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ba8886018f0ae50800000000000000
+      internalID: 6818722585195883377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_121
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 185
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b94b36480fd29c0800000000000000
+      internalID: -3950236846734927029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_122
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 185
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c691071a60cb1e30800000000000000
+      internalID: 4475382216607766210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_123
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 185
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6959a91bcbb5e650800000000000000
+      internalID: 6261617337911826796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_124
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 185
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2dc5c66bb9d7bce0800000000000000
+      internalID: -1389402561114157782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_125
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 185
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e25b51ada64f400800000000000000
+      internalID: 357027755368722058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_126
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 185
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b47658f29c0abc0800000000000000
+      internalID: -3773795281797690545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_127
+      rect:
+        serializedVersion: 2
+        x: 3043
+        y: 185
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97c80979764ba8a0800000000000000
+      internalID: -6292858566784530531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_128
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 185
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9c607be72f52f80800000000000000
+      internalID: -8131826926097085958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_129
+      rect:
+        serializedVersion: 2
+        x: 3401
+        y: 185
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3458b63915efecc40800000000000000
+      internalID: 5534640618404021571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_130
+      rect:
+        serializedVersion: 2
+        x: 3580
+        y: 185
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd92a3d4d3a8375e0800000000000000
+      internalID: -1913033420809033249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_131
+      rect:
+        serializedVersion: 2
+        x: 3759
+        y: 185
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4474737bf8bc610800000000000000
+      internalID: 1642564506175882422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb98ca8a5a6176230800000000000000
+      internalID: 3631896525252889023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_133
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 0
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedc55cdb02ed9de0800000000000000
+      internalID: -1324654174807929364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_134
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 0
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ed59a1615b08050800000000000000
+      internalID: 5800835426593136223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_135
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 0
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e05f0be755a9f200800000000000000
+      internalID: 214384254301196514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_136
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 0
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcc4e75bc8b45e00800000000000000
+      internalID: 1032653398067170526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_137
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 0
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ab644a89a1062f0800000000000000
+      internalID: -981755475873318272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_138
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 0
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9938828034ea0bf10800000000000000
+      internalID: 2283516613999756185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_139
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 0
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5295301ca6c178c40800000000000000
+      internalID: 5514407513568794917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_140
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 0
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b432f4972f21a0db0800000000000000
+      internalID: -4825023218147450037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_141
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 0
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38958f4185cbfeb50800000000000000
+      internalID: 6624720663380253059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_142
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 0
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c003401cd890165c0800000000000000
+      internalID: -4224084471063498740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_143
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 0
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76baaf12831a40c90800000000000000
+      internalID: -7204456241425634457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Gun Set_179x185_144
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 0
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ea51e0f3b297a70800000000000000
+      internalID: 8825132494628433487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
