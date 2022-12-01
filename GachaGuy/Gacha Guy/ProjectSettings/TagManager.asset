@@ -17,6 +17,13 @@ TagManager:
   - Stomp
   - PickUp
   - IceBullet
+  - DeathLaser
+  - Important
+  - ExitA
+  - ExitB
+  - ExitC
+  - ExitD
+  - RoomManager
   layers:
   - Default
   - TransparentFX
@@ -30,7 +37,7 @@ TagManager:
   - Shooter
   - Obstacle
   - Player
-  - 
+  - Boss
   - 
   - 
   - 

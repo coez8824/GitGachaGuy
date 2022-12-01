@@ -137,6 +137,7 @@ MonoBehaviour:
   testY: 0
   rateRange: 0
   rateRange2: 0
+  col: {fileID: 0}
 --- !u!50 &4063214086044689020
 Rigidbody2D:
   serializedVersion: 4
@@ -256,7 +257,7 @@ SpriteRenderer:
   m_SortingLayerID: -1938043609
   m_SortingLayer: 5
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 2acee5957aefd724da377cfbef0a13a9, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 4d58e420d5a7d9c4c87a74a812c88bd6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -264,7 +265,7 @@ SpriteRenderer:
   m_Size: {x: 19.2, y: 10.8}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!61 &7686440457991198193
@@ -394,7 +395,6 @@ MonoBehaviour:
   - {fileID: -3273297348622817259}
   target: {fileID: 0}
   health: 5
-  enemyAnimations: {fileID: 0}
   collide: {fileID: 0}
   randomSound: 0
   testX: 0
@@ -454,6 +454,7 @@ MonoBehaviour:
   testY: 0
   rateRange: 1
   rateRange2: 3
+  col: {fileID: 7686440457991198197}
 --- !u!82 &407436760205176683
 AudioSource:
   m_ObjectHideFlags: 0

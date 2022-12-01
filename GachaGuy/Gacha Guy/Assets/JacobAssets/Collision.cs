@@ -23,7 +23,7 @@ public class Collision : MonoBehaviour
     public Transform target;
     private Animator enemyAnimator;
     public int health;
-    public Enemy1Animations enemyAnimations;
+    //public Enemy1Animations enemyAnimations;
     public Collider2D collide;
     public int randomSound;
     EnemyShooter shooter;

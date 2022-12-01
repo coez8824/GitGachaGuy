@@ -1,0 +1,1068 @@
+fileFormatVersion: 2
+guid: faaed8dd3914e61408cfdefce37e1fc4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4011900674185661574
+    second: Melee Die Set_125x130_0
+  - first:
+      213: -7049790928914255563
+    second: Melee Die Set_125x130_1
+  - first:
+      213: 2313330436845099979
+    second: Melee Die Set_125x130_2
+  - first:
+      213: 9051056659604976735
+    second: Melee Die Set_125x130_3
+  - first:
+      213: -8259646643094618229
+    second: Melee Die Set_125x130_4
+  - first:
+      213: -2434072707948498131
+    second: Melee Die Set_125x130_5
+  - first:
+      213: 4669570145914078575
+    second: Melee Die Set_125x130_6
+  - first:
+      213: 6286097795832872981
+    second: Melee Die Set_125x130_7
+  - first:
+      213: -6014275847501498457
+    second: Melee Die Set_125x130_8
+  - first:
+      213: 4124176419203052889
+    second: Melee Die Set_125x130_9
+  - first:
+      213: -7170444284546874213
+    second: Melee Die Set_125x130_10
+  - first:
+      213: 4781146131230984404
+    second: Melee Die Set_125x130_11
+  - first:
+      213: 1164213787219621772
+    second: Melee Die Set_125x130_12
+  - first:
+      213: -8579484581198517444
+    second: Melee Die Set_125x130_13
+  - first:
+      213: -2570692207737966895
+    second: Melee Die Set_125x130_14
+  - first:
+      213: 4665495776051648809
+    second: Melee Die Set_125x130_15
+  - first:
+      213: -7214197971410114376
+    second: Melee Die Set_125x130_16
+  - first:
+      213: 5021413085947886703
+    second: Melee Die Set_125x130_17
+  - first:
+      213: -1859206018909240613
+    second: Melee Die Set_125x130_18
+  - first:
+      213: 8382742026171264518
+    second: Melee Die Set_125x130_19
+  - first:
+      213: 5714958350704820967
+    second: Melee Die Set_125x130_20
+  - first:
+      213: -8298262499461349995
+    second: Melee Die Set_125x130_21
+  - first:
+      213: -226366543875132043
+    second: Melee Die Set_125x130_22
+  - first:
+      213: 1374741076619991057
+    second: Melee Die Set_125x130_23
+  - first:
+      213: -217755022997913973
+    second: Melee Die Set_125x130_24
+  - first:
+      213: 7337823651816585586
+    second: Melee Die Set_125x130_25
+  - first:
+      213: 4677876465726164489
+    second: Melee Die Set_125x130_26
+  - first:
+      213: -680304766721409428
+    second: Melee Die Set_125x130_27
+  - first:
+      213: -2406406044399585343
+    second: Melee Die Set_125x130_28
+  - first:
+      213: 3756647938418969334
+    second: Melee Die Set_125x130_29
+  - first:
+      213: -642298311493872614
+    second: Melee Die Set_125x130_30
+  - first:
+      213: -636518208036997548
+    second: Melee Die Set_125x130_31
+  - first:
+      213: 5295370809374501404
+    second: Melee Die Set_125x130_32
+  - first:
+      213: -947560313129489842
+    second: Melee Die Set_125x130_33
+  - first:
+      213: 1313951650028185315
+    second: Melee Die Set_125x130_34
+  - first:
+      213: -8589456400400263847
+    second: Melee Die Set_125x130_35
+  - first:
+      213: 3612059651498434598
+    second: Melee Die Set_125x130_36
+  - first:
+      213: 7837000731326330399
+    second: Melee Die Set_125x130_37
+  - first:
+      213: 7732173887542039269
+    second: Melee Die Set_125x130_38
+  - first:
+      213: 7803107721525770724
+    second: Melee Die Set_125x130_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Melee Die Set_125x130_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 520
+        width: 125
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a737301c79dd258c0800000000000000
+      internalID: -4011900674185661574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Die Set_125x130_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 520
+        width: 125
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5317b45608c1a2e90800000000000000
+      internalID: -7049790928914255563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Die Set_125x130_2
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 520
+        width: 125
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb504896c99a1020800000000000000
+      internalID: 2313330436845099979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Die Set_125x130_3
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 520
+        width: 125
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5430bdc310db9d70800000000000000
+      internalID: 9051056659604976735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Die Set_125x130_4
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 520
+        width: 125
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ff81cb327df5d80800000000000000
+      internalID: -8259646643094618229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Die Set_125x130_5
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 520
+        width: 125
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23b145b4cf683ed0800000000000000
+      internalID: -2434072707948498131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Die Set_125x130_6
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 520
+        width: 125
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f654af8ae45adc040800000000000000
+      internalID: 4669570145914078575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Die Set_125x130_7
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 520
+        width: 125
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5100cffd3a4bc3750800000000000000
+      internalID: 6286097795832872981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Die Set_125x130_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 390
+        width: 125
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a736705bfff88ca0800000000000000
+      internalID: -6014275847501498457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Die Set_125x130_9
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 390
+        width: 125
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955f3a93a940c3930800000000000000
+      internalID: 4124176419203052889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Die Set_125x130_10
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 390
+        width: 125
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b948ad1f9e67d7c90800000000000000
+      internalID: -7170444284546874213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Die Set_125x130_11
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 390
+        width: 125
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d88143231b0a5240800000000000000
+      internalID: 4781146131230984404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Die Set_125x130_12
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 390
+        width: 125
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8776dd654e182010800000000000000
+      internalID: 1164213787219621772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Die Set_125x130_13
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 390
+        width: 125
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ba8bdba3c8fe880800000000000000
+      internalID: -8579484581198517444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Die Set_125x130_14
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 390
+        width: 125
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dee9e2ae01135cd0800000000000000
+      internalID: -2570692207737966895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Die Set_125x130_15
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 390
+        width: 125
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929d4a080bb2fb040800000000000000
+      internalID: 4665495776051648809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Die Set_125x130_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 260
+        width: 125
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8a1ceda2502eb90800000000000000
+      internalID: -7214197971410114376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Die Set_125x130_17
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 260
+        width: 125
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cfb6ad894afa540800000000000000
+      internalID: 5021413085947886703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Die Set_125x130_18
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 260
+        width: 125
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd285aee9f5c236e0800000000000000
+      internalID: -1859206018909240613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Die Set_125x130_19
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 260
+        width: 125
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e2da9857b755470800000000000000
+      internalID: 8382742026171264518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Die Set_125x130_20
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 260
+        width: 125
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2c9ef375c9f4f40800000000000000
+      internalID: 5714958350704820967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Die Set_125x130_21
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 260
+        width: 125
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d39aa0936a6dc80800000000000000
+      internalID: -8298262499461349995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Die Set_125x130_22
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 260
+        width: 125
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5753a43e3d8cbdcf0800000000000000
+      internalID: -226366543875132043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Die Set_125x130_23
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 260
+        width: 125
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118921ab9bf041310800000000000000
+      internalID: 1374741076619991057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Die Set_125x130_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 125
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ef626d5f06afcf0800000000000000
+      internalID: -217755022997913973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Die Set_125x130_25
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 130
+        width: 125
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279bcfedbbf25d560800000000000000
+      internalID: 7337823651816585586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Die Set_125x130_26
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 130
+        width: 125
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e84c27cd72be040800000000000000
+      internalID: 4677876465726164489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Die Set_125x130_27
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 130
+        width: 125
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6eb0984b621f86f0800000000000000
+      internalID: -680304766721409428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Die Set_125x130_28
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 130
+        width: 125
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7b53ac37aba9ed0800000000000000
+      internalID: -2406406044399585343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Die Set_125x130_29
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 130
+        width: 125
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa8aab756b422430800000000000000
+      internalID: 3756647938418969334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Die Set_125x130_30
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 130
+        width: 125
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a141397b6191617f0800000000000000
+      internalID: -642298311493872614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Die Set_125x130_31
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 130
+        width: 125
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456f2ecef02aa27f0800000000000000
+      internalID: -636518208036997548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Die Set_125x130_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 125
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a6dbee1bfec7940800000000000000
+      internalID: 5295370809374501404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Die Set_125x130_33
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 0
+        width: 125
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4aa8a46ae699d2f0800000000000000
+      internalID: -947560313129489842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Die Set_125x130_34
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 125
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6e7f760181c3210800000000000000
+      internalID: 1313951650028185315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Die Set_125x130_35
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 0
+        width: 125
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955df68a9ee1cc880800000000000000
+      internalID: -8589456400400263847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Die Set_125x130_36
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 125
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620e5139d1d902230800000000000000
+      internalID: 3612059651498434598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Die Set_125x130_37
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 0
+        width: 125
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16be2794ae92cc60800000000000000
+      internalID: 7837000731326330399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Die Set_125x130_38
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 0
+        width: 125
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e29e741f233e4b60800000000000000
+      internalID: 7732173887542039269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee Die Set_125x130_39
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 0
+        width: 125
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9b6ad41253a4c60800000000000000
+      internalID: 7803107721525770724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

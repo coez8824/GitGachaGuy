@@ -19,7 +19,7 @@ public class EnemyShooter : MonoBehaviour
     public float testY;
     public float rateRange;
     public float rateRange2;
-    //public Collision col;
+    public Collision col;
     void Start()
     {
         target = GameObject.FindWithTag("Player").transform;
@@ -30,7 +30,7 @@ public class EnemyShooter : MonoBehaviour
     {
         
             yield return new WaitForSeconds(interval);
-        if ((target.position.x - transform.position.x) <= range && (target.position.y - transform.position.y) <= range && (target.position.x - transform.position.x) >= -range && (target.position.y - transform.position.y) >= -range /*&& col.health > 0*/)
+        if ((target.position.x - transform.position.x) <= range && (target.position.y - transform.position.y) <= range && (target.position.x - transform.position.x) >= -range && (target.position.y - transform.position.y) >= -range && col.health > 0)
         {
             bang.Play();
             spawnedProjectile = Instantiate(projectilePrefab, this.gameObject.transform.position, this.gameObject.transform.rotation);

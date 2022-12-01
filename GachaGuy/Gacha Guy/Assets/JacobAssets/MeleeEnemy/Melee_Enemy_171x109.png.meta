@@ -1,0 +1,1068 @@
+fileFormatVersion: 2
+guid: 144e7bae73212144a89935e436f6e6a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2192041111211044474
+    second: Melee_Enemy_171x109_0
+  - first:
+      213: -2112967827382155152
+    second: Melee_Enemy_171x109_1
+  - first:
+      213: -5245864035938089392
+    second: Melee_Enemy_171x109_2
+  - first:
+      213: 8176291705190787438
+    second: Melee_Enemy_171x109_3
+  - first:
+      213: 6235663195524093156
+    second: Melee_Enemy_171x109_4
+  - first:
+      213: -5813299952350403680
+    second: Melee_Enemy_171x109_5
+  - first:
+      213: -3198107831537955975
+    second: Melee_Enemy_171x109_6
+  - first:
+      213: 4706825138134094338
+    second: Melee_Enemy_171x109_7
+  - first:
+      213: -7379854335397888289
+    second: Melee_Enemy_171x109_8
+  - first:
+      213: 6090484730641720572
+    second: Melee_Enemy_171x109_9
+  - first:
+      213: 5386045577154796565
+    second: Melee_Enemy_171x109_10
+  - first:
+      213: -102849863948436405
+    second: Melee_Enemy_171x109_11
+  - first:
+      213: 9030298924738777209
+    second: Melee_Enemy_171x109_12
+  - first:
+      213: 4566032802984700574
+    second: Melee_Enemy_171x109_13
+  - first:
+      213: 1559651948242728599
+    second: Melee_Enemy_171x109_14
+  - first:
+      213: 5866657413934260445
+    second: Melee_Enemy_171x109_15
+  - first:
+      213: -7702991169282476663
+    second: Melee_Enemy_171x109_16
+  - first:
+      213: -110428022675419881
+    second: Melee_Enemy_171x109_17
+  - first:
+      213: -5951943439632673580
+    second: Melee_Enemy_171x109_18
+  - first:
+      213: 2803499100769179688
+    second: Melee_Enemy_171x109_19
+  - first:
+      213: 1520120161972059385
+    second: Melee_Enemy_171x109_20
+  - first:
+      213: 92683671356126710
+    second: Melee_Enemy_171x109_21
+  - first:
+      213: -8229577395276636577
+    second: Melee_Enemy_171x109_22
+  - first:
+      213: -2253214183543422617
+    second: Melee_Enemy_171x109_23
+  - first:
+      213: -2485230677144505053
+    second: Melee_Enemy_171x109_24
+  - first:
+      213: -6600716729133967069
+    second: Melee_Enemy_171x109_25
+  - first:
+      213: -7865362919952122568
+    second: Melee_Enemy_171x109_26
+  - first:
+      213: 8700156867948960712
+    second: Melee_Enemy_171x109_27
+  - first:
+      213: -6679592621684996968
+    second: Melee_Enemy_171x109_28
+  - first:
+      213: 5298173130933665228
+    second: Melee_Enemy_171x109_29
+  - first:
+      213: 3637997669056684188
+    second: Melee_Enemy_171x109_30
+  - first:
+      213: -8264937495341908478
+    second: Melee_Enemy_171x109_31
+  - first:
+      213: 7602366122795165732
+    second: Melee_Enemy_171x109_32
+  - first:
+      213: 7907497505825142197
+    second: Melee_Enemy_171x109_33
+  - first:
+      213: 6336197297415178078
+    second: Melee_Enemy_171x109_34
+  - first:
+      213: 7385604170034096180
+    second: Melee_Enemy_171x109_35
+  - first:
+      213: 9072893636187037221
+    second: Melee_Enemy_171x109_36
+  - first:
+      213: -7879080299283661372
+    second: Melee_Enemy_171x109_37
+  - first:
+      213: 8356892355171291663
+    second: Melee_Enemy_171x109_38
+  - first:
+      213: 4995746345454063657
+    second: Melee_Enemy_171x109_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Melee_Enemy_171x109_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 763
+        width: 171
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6819639293e4491e0800000000000000
+      internalID: -2192041111211044474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee_Enemy_171x109_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 763
+        width: 171
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078ce0bb4fa3da2e0800000000000000
+      internalID: -2112967827382155152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee_Enemy_171x109_2
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 763
+        width: 171
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056c9edf372f237b0800000000000000
+      internalID: -5245864035938089392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee_Enemy_171x109_3
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 763
+        width: 171
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69aedb6cf5087170800000000000000
+      internalID: 8176291705190787438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee_Enemy_171x109_4
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 763
+        width: 171
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4d03c63a6898650800000000000000
+      internalID: 6235663195524093156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee_Enemy_171x109_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 654
+        width: 171
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3eb575e72035fa0800000000000000
+      internalID: -5813299952350403680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee_Enemy_171x109_6
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 654
+        width: 171
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b09cb1fd90e93d0800000000000000
+      internalID: -3198107831537955975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee_Enemy_171x109_7
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 654
+        width: 171
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2029c5a7680025140800000000000000
+      internalID: 4706825138134094338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee_Enemy_171x109_8
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 654
+        width: 171
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde7b74059d759990800000000000000
+      internalID: -7379854335397888289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee_Enemy_171x109_9
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 654
+        width: 171
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf427dff79fb58450800000000000000
+      internalID: 6090484730641720572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee_Enemy_171x109_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 545
+        width: 171
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c106a7ae31fba40800000000000000
+      internalID: 5386045577154796565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee_Enemy_171x109_11
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 545
+        width: 171
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cf72af79a929ef0800000000000000
+      internalID: -102849863948436405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee_Enemy_171x109_12
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 545
+        width: 171
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97095a80701125d70800000000000000
+      internalID: 9030298924738777209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee_Enemy_171x109_13
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 545
+        width: 171
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a2fa674aecd5f30800000000000000
+      internalID: 4566032802984700574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee_Enemy_171x109_14
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 545
+        width: 171
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796f04cfe2ff4a510800000000000000
+      internalID: 1559651948242728599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee_Enemy_171x109_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 436
+        width: 171
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0a678c5dd8a6150800000000000000
+      internalID: 5866657413934260445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee_Enemy_171x109_16
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 436
+        width: 171
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98572fef75a791590800000000000000
+      internalID: -7702991169282476663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee_Enemy_171x109_17
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 436
+        width: 171
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71dce276c4ea77ef0800000000000000
+      internalID: -110428022675419881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee_Enemy_171x109_18
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 436
+        width: 171
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d45a75f9f2766da0800000000000000
+      internalID: -5951943439632673580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee_Enemy_171x109_19
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 436
+        width: 171
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828597d149708e620800000000000000
+      internalID: 2803499100769179688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee_Enemy_171x109_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 327
+        width: 171
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcf04ebb3d881510800000000000000
+      internalID: 1520120161972059385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee_Enemy_171x109_21
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 327
+        width: 171
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f539abde47494100800000000000000
+      internalID: 92683671356126710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee_Enemy_171x109_22
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 327
+        width: 171
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e93fe06faaacd80800000000000000
+      internalID: -8229577395276636577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee_Enemy_171x109_23
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 327
+        width: 171
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761c50b53a9fab0e0800000000000000
+      internalID: -2253214183543422617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee_Enemy_171x109_24
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 327
+        width: 171
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325f5efcddfa28dd0800000000000000
+      internalID: -2485230677144505053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee_Enemy_171x109_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 218
+        width: 171
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329ddf06b1b8564a0800000000000000
+      internalID: -6600716729133967069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee_Enemy_171x109_26
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 218
+        width: 171
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d79b6c81e98d290800000000000000
+      internalID: -7865362919952122568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee_Enemy_171x109_27
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 218
+        width: 171
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbd544739a2db870800000000000000
+      internalID: 8700156867948960712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee_Enemy_171x109_28
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 218
+        width: 171
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894452c86e15d43a0800000000000000
+      internalID: -6679592621684996968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee_Enemy_171x109_29
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 218
+        width: 171
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccdf1d34464e68940800000000000000
+      internalID: 5298173130933665228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee_Enemy_171x109_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 109
+        width: 171
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90a2d5ea93cc7230800000000000000
+      internalID: 3637997669056684188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee_Enemy_171x109_31
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 109
+        width: 171
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20eb653332b0d4d80800000000000000
+      internalID: -8264937495341908478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee_Enemy_171x109_32
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 109
+        width: 171
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4286ba9a5b7018960800000000000000
+      internalID: 7602366122795165732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee_Enemy_171x109_33
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 109
+        width: 171
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5bef8f5131dbd60800000000000000
+      internalID: 7907497505825142197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee_Enemy_171x109_34
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 109
+        width: 171
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57c8331fd1bee750800000000000000
+      internalID: 6336197297415178078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee_Enemy_171x109_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 171
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438a68eacdfee7660800000000000000
+      internalID: 7385604170034096180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee_Enemy_171x109_36
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 0
+        width: 171
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e94dd11b469ed70800000000000000
+      internalID: 9072893636187037221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee_Enemy_171x109_37
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 0
+        width: 171
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd3b648632e7a290800000000000000
+      internalID: -7879080299283661372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee_Enemy_171x109_38
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 0
+        width: 171
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0299200255a9f370800000000000000
+      internalID: 8356892355171291663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee_Enemy_171x109_39
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 0
+        width: 171
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920deb425d4745540800000000000000
+      internalID: 4995746345454063657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -18,6 +18,7 @@ public class Pickup : MonoBehaviour
     private bool canBuy;
 
     public GameObject door;
+    public GameObject exit;
 
     private GameObject p;
     private GameObject d;
@@ -131,6 +132,8 @@ public class Pickup : MonoBehaviour
             case "Door":
                 DoorScript ds = door.GetComponent<DoorScript>();
                 ds.open = true;
+                SceneChange sc = exit.GetComponent<SceneChange>();
+                sc.leave = true;
                 Destroy(door.GetComponent<Collider2D>());
                 break;
 

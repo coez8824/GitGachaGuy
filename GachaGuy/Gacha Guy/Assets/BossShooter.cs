@@ -16,18 +16,22 @@ public class BossShooter : MonoBehaviour
     public float interval = 3f;
     public float testX;
     public float testY;
+    public Boss1Script Boss1Script;
+    public Rigidbody2D rb;
+    public GameObject boss;
     //public Collision col;
     void Start()
     {
         target = GameObject.FindWithTag("Player").transform;
         StartCoroutine(fire(interval));
+        rb = this.GetComponent<Rigidbody2D>();
     }
 
     public IEnumerator fire(float interval)
     {
 
         yield return new WaitForSeconds(interval);
-        if ((target.position.x - transform.position.x) <= range && (target.position.y - transform.position.y) <= range && (target.position.x - transform.position.x) >= -range && (target.position.y - transform.position.y) >= -range /*&& col.health > 0*/)
+        if ((target.position.x - transform.position.x) <= range && (target.position.y - transform.position.y) <= range && (target.position.x - transform.position.x) >= -range && (target.position.y - transform.position.y) >= -range && Boss1Script.health > 0 && Boss1Script.SuperDeathLaserFiring == false)
         {
             //bang.Play();
             spawnedProjectile = Instantiate(projectilePrefab, this.gameObject.transform.position, this.gameObject.transform.rotation);
@@ -44,6 +48,10 @@ public class BossShooter : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        Vector3 direction = target.position - transform.position;
+        float angle = Mathf.Atan2(direction.y, direction.x)*Mathf.Rad2Deg;
+        rb.rotation = angle + 90;
+        rb.position = boss.transform.position;
         fire(interval);
         testX = target.position.x - transform.position.x;
         testY = target.position.y - transform.position.y;
