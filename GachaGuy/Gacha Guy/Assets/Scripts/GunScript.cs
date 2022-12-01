@@ -16,8 +16,7 @@ public class GunScript : MonoBehaviour
     public AudioSource bang;
     public AudioSource re;
     public AudioSource doneRe;
-    public AudioSource empt;
-    public LineRenderer tracer;
+    public AudioSource empty;
 
     //GUN STATS - Gun stats are set to a gun and are not modified by any other method
     [SerializeField]
@@ -32,6 +31,7 @@ public class GunScript : MonoBehaviour
     /*[SerializeField]
     private float shake; //How hard the recoil shake is*/ //Not actually sure if I want this
 
+    public TrailRenderer bulletTrail;
     
     public int curr; //Current ammo in clip
     public int curr1; //clip for gun1
@@ -126,8 +126,6 @@ public class GunScript : MonoBehaviour
 
             RaycastHit2D hit = Physics2D.Raycast(firePoint.transform.position, rayVec, 10f); //Actual raycast
 
-            //drawTracer();
-
             if(hit)
             {
                 if (hit.transform.tag == "HEX")
@@ -144,6 +142,7 @@ public class GunScript : MonoBehaviour
                             ps.currHTH = ps.getHTH();
                         }
                     }
+                    
                     gm.ps.aggro++;
                 }
                 if (hit.transform.tag == "Shooter")
@@ -160,6 +159,8 @@ public class GunScript : MonoBehaviour
                             ps.currHTH = ps.getHTH();
                         }
                     }
+                    //TrailRenderer trail = Instantiate(bulletTrail, firePoint.transform.position, Quaternion.identity);
+                    //StartCoroutine(drawTracer(trail, firePoint.transform.position, hit.transform.position));
                     gm.ps.aggro++;
                 }
                 if (hit.transform.tag == "Boomba")
@@ -469,4 +470,35 @@ public class GunScript : MonoBehaviour
         colorButtons.SetActive(false);
         regButtons.SetActive(true);
     }
+
+    /*private void drawTracer(Vector2 origin, Vector2 point, float mag)
+    {
+        GameObject myLine = Instantiate(tracer, firePoint.transform);
+        LineRenderer lr = myLine.GetComponent<LineRenderer>();
+        //myLine.transform.position = origin;
+        lr.SetPosition(0, origin);
+        lr.SetPosition(1, point);
+        GameObject.Destroy(myLine);
+
+        Debug.Log("Line");
+    }*/
+
+    /*private IEnumerator drawTracer(TrailRenderer myTrail, Vector2 origin, Vector2 point)
+    {
+        float timeMM = 0;
+
+        while (timeMM < 1)
+        {
+            myTrail.gameObject.transform.position = Vector2.Lerp(origin, point, 1.0f);
+            timeMM += Time.deltaTime / myTrail.time;
+
+            yield return null;
+        }
+
+        myTrail.gameObject.transform .position = point;
+
+        Destroy(myTrail.gameObject, myTrail.time);
+        Debug.Log("Line");
+        yield return null;
+    }*/
 }
