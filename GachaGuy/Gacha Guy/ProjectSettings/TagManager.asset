@@ -18,6 +18,12 @@ TagManager:
   - PickUp
   - IceBullet
   - DeathLaser
+  - Important
+  - ExitA
+  - ExitB
+  - ExitC
+  - ExitD
+  - RoomManager
   layers:
   - Default
   - TransparentFX

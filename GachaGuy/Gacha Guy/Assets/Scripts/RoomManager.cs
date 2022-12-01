@@ -9,9 +9,43 @@ public class RoomManager : MonoBehaviour
     [SerializeField]
     private string[] roomNames;
 
-    public SceneChange room1;
-    public SceneChange room2;
-    public SceneChange room3;
+    public SceneChange exit1;
+    public SceneChange exit2;
+    public SceneChange exit3;
+
+    public void exitDecider(SceneChange x)
+    {
+       if (x == GameObject.FindWithTag("ExitA").GetComponent<SceneChange>())
+       {
+            exit1 = GameObject.FindWithTag("ExitB").GetComponent<SceneChange>();
+            exit2 = GameObject.FindWithTag("ExitC").GetComponent<SceneChange>();
+            exit1 = GameObject.FindWithTag("ExitD").GetComponent<SceneChange>();
+            Debug.Log("Enter A");
+       }
+       else if (x == GameObject.FindWithTag("ExitB").GetComponent<SceneChange>())
+       {
+            exit1 = GameObject.FindWithTag("ExitA").GetComponent<SceneChange>();
+            exit2 = GameObject.FindWithTag("ExitC").GetComponent<SceneChange>();
+            exit1 = GameObject.FindWithTag("ExitD").GetComponent<SceneChange>();
+            Debug.Log("Enter B");
+        }
+       else if (x == GameObject.FindWithTag("ExitC").GetComponent<SceneChange>())
+       {
+            exit1 = GameObject.FindWithTag("ExitB").GetComponent<SceneChange>();
+            exit2 = GameObject.FindWithTag("ExitA").GetComponent<SceneChange>();
+            exit1 = GameObject.FindWithTag("ExitD").GetComponent<SceneChange>();
+            Debug.Log("Enter C");
+        }
+       else if (x == GameObject.FindWithTag("ExitD").GetComponent<SceneChange>())
+       {
+            exit1 = GameObject.FindWithTag("ExitB").GetComponent<SceneChange>();
+            exit2 = GameObject.FindWithTag("ExitC").GetComponent<SceneChange>();
+            exit1 = GameObject.FindWithTag("ExitA").GetComponent<SceneChange>();
+            Debug.Log("Enter D");
+        }
+
+        pickRooms();
+    }
 
     public void pickRooms()
     {
@@ -27,17 +61,17 @@ public class RoomManager : MonoBehaviour
                 {
                     if(i == 0)
                     {
-                        room1.sceneName = s;
+                        exit1.sceneName = s;
                         i = 1;
                     }
                     else if (i == 1)
                     {
-                        room2.sceneName = s;
+                        exit2.sceneName = s;
                         i = 2;
                     }
                     else if (i == 2)
                     {
-                        room3.sceneName = s;
+                        exit3.sceneName = s;
                         i = 3;
                     }
                 }

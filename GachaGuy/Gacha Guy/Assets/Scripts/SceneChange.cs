@@ -14,8 +14,20 @@ public class SceneChange : MonoBehaviour
     public float x;
     public float y;
 
+    public GameObject door;
+
+    public bool leave;
+    //public DoorScript ds;
+
+    public GameObject doorPickup;
+
+    public RoomManager rm;
+
     void Start()
     {
+        player = GameObject.FindWithTag("Player");
+        i = GameObject.FindWithTag("Important");
+        rm = GameObject.FindWithTag("RoomManager").GetComponent<RoomManager>();
         DontDestroyOnLoad(i);
     }
 
@@ -23,7 +35,20 @@ public class SceneChange : MonoBehaviour
     {
         if (collision.gameObject.tag == "Player")
         {
-            change();
+            if (leave)
+                change();
+            else
+            {
+                door.GetComponent<DoorScript>().open = true;
+                Destroy(door.GetComponent<Collider2D>());
+
+                rm.exitDecider(this);
+
+                if(doorPickup != null)
+                {
+                    Destroy(doorPickup);
+                }
+            }
         }
     }
 

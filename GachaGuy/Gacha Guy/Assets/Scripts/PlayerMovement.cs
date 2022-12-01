@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.EventSystems;
 
 public class PlayerMovement : MonoBehaviour
 {
@@ -29,6 +30,7 @@ public class PlayerMovement : MonoBehaviour
 
     public GameObject touchUI;
     public GameObject otherTouchUI;
+    public GameObject panelUI;
 
     private bool colorReloads;
 
@@ -38,6 +40,9 @@ public class PlayerMovement : MonoBehaviour
 
     Vector2 rightstick;
 
+    [SerializeField]
+    private bool mouseInCam;
+
     //Jacob's ice varible
     public bool ice;
 
@@ -46,10 +51,22 @@ public class PlayerMovement : MonoBehaviour
         ice = false;
         gm = FindObjectOfType<GameManager>();
         rb = GetComponent<Rigidbody2D>();
+
+        panelUI.SetActive(false);
+    }
+
+    public void mouseBoolOn()
+    {
+        mouseInCam = true;
+    }
+    public void mouseBoolOff()
+    {
+        mouseInCam = false;
     }
 
     private void FixedUpdate()
     {
+
         playerSpeed = gm.ps.SPD; //Player's speed = speed stat
 
         //newpos = rb.position;
@@ -87,6 +104,8 @@ public class PlayerMovement : MonoBehaviour
         }
         else if(!controller)
         {
+            panelUI.SetActive(true);
+
             touchUI.SetActive(false);
             otherTouchUI.SetActive(false);
 
@@ -146,7 +165,7 @@ public class PlayerMovement : MonoBehaviour
             transform.rotation = Quaternion.AngleAxis(angle, Vector3.forward);
 
             if (Input.GetMouseButton(0))
-                if (gm.gs.canShoot) //Shoot gun
+                if ((gm.gs.canShoot)&&(mouseInCam)) //Shoot gun
                     gm.gs.shoot();
         }
         else if(controller)
