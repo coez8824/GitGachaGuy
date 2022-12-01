@@ -17,7 +17,7 @@ GameObject:
   - component: {fileID: -7059186100625522864}
   - component: {fileID: 1608144398178472814}
   - component: {fileID: 4688640357967673825}
-  m_Layer: 6
+  m_Layer: 12
   m_Name: Boss1
   m_TagString: Boss1
   m_Icon: {fileID: 0}
@@ -33,7 +33,7 @@ Transform:
   m_GameObject: {fileID: 656476589332876436}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 8.1069, y: -1.63, z: 0}
-  m_LocalScale: {x: 3.0184658, y: 3.5935829, z: 1}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 5674383462544596121}
   - {fileID: 283403753104823593}
@@ -235,7 +235,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   stomp: {fileID: 7711764343825968483}
-  range: 20
+  spawnedLaser: {fileID: 0}
+  range: 5
+  testX: 0
+  testY: 0
+  bossAnimator: {fileID: 4688640357967673825}
+  health: 0
+  collide: {fileID: 6214938518964589341}
+  AIPathScript: {fileID: -7059186100625522864}
+  SuperDeathLaser: 0
+  SuperDeathLaserFiring: 0
+  actualDeathLaser: {fileID: 2532808850982536228, guid: 431298b0cf0b9b547ae7c7d930a84ecf, type: 3}
+  bossShooter: {fileID: 8692654817093631809}
 --- !u!95 &4688640357967673825
 Animator:
   serializedVersion: 3
@@ -265,7 +276,8 @@ GameObject:
   m_Component:
   - component: {fileID: 5674383462544596121}
   - component: {fileID: 8692654817093631809}
-  m_Layer: 6
+  - component: {fileID: 5800336810204897712}
+  m_Layer: 12
   m_Name: ShootingPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -280,7 +292,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2231157393762796435}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.49, y: 0.65, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 8358851347336278533}
@@ -303,6 +315,30 @@ MonoBehaviour:
   interval: 0.5
   testX: 0
   testY: 0
+  Boss1Script: {fileID: 1608144398178472814}
+  rb: {fileID: 5800336810204897712}
+  boss: {fileID: 656476589332876436}
+--- !u!50 &5800336810204897712
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2231157393762796435}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &7711764343825968483
 GameObject:
   m_ObjectHideFlags: 0
@@ -314,7 +350,7 @@ GameObject:
   - component: {fileID: 283403753104823593}
   - component: {fileID: 8761218524249071024}
   - component: {fileID: 8291143184417503131}
-  m_Layer: 6
+  m_Layer: 12
   m_Name: Stomp
   m_TagString: Stomp
   m_Icon: {fileID: 0}
