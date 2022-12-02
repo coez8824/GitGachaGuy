@@ -93,7 +93,7 @@ public class Boss1Script : MonoBehaviour
     {
         if ((target.position.x - transform.position.x) <= range && (target.position.y - transform.position.y) <= range && (target.position.x - transform.position.x) >= -range && (target.position.y - transform.position.y) >= -range)
         {
-            int randStomp = Random.Range(0, 10);
+            int randStomp = Random.Range(0, 20);
             if(randStomp == 3 && SuperDeathLaserFiring == false && health > 0 && stomping == false)
             {
                 stomping = true;
