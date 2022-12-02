@@ -17,6 +17,7 @@ GameObject:
   - component: {fileID: -7059186100625522864}
   - component: {fileID: 1608144398178472814}
   - component: {fileID: 4688640357967673825}
+  - component: {fileID: -6984765002139501491}
   m_Layer: 12
   m_Name: Boss1
   m_TagString: Boss1
@@ -245,8 +246,11 @@ MonoBehaviour:
   AIPathScript: {fileID: -7059186100625522864}
   SuperDeathLaser: 0
   SuperDeathLaserFiring: 0
-  actualDeathLaser: {fileID: 2532808850982536228, guid: 431298b0cf0b9b547ae7c7d930a84ecf, type: 3}
+  actualDeathLaser: {fileID: 5377050855621184557, guid: cfc57de6d38c5c644b0f2836eb33db8e, type: 3}
   bossShooter: {fileID: 8692654817093631809}
+  moveX: 0
+  moveY: 0
+  stomping: 0
 --- !u!95 &4688640357967673825
 Animator:
   serializedVersion: 3
@@ -266,6 +270,104 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!120 &-6984765002139501491
+LineRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 656476589332876436}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 0
+  m_LightProbeUsage: 0
+  m_ReflectionProbeUsage: 0
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Positions:
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 1}
+  m_Parameters:
+    serializedVersion: 3
+    widthMultiplier: 4.8780084
+    widthCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    colorGradient:
+      serializedVersion: 2
+      key0: {r: 0.011764707, g: 0.8352942, b: 0.9568628, a: 1}
+      key1: {r: 0.011764707, g: 0.8352942, b: 0.9568628, a: 1}
+      key2: {r: 0, g: 0, b: 0, a: 1}
+      key3: {r: 0, g: 0, b: 0, a: 0}
+      key4: {r: 0, g: 0, b: 0, a: 0}
+      key5: {r: 0, g: 0, b: 0, a: 0}
+      key6: {r: 0, g: 0, b: 0, a: 0}
+      key7: {r: 0, g: 0, b: 0, a: 0}
+      ctime0: 0
+      ctime1: 65535
+      ctime2: 0
+      ctime3: 0
+      ctime4: 0
+      ctime5: 0
+      ctime6: 0
+      ctime7: 0
+      atime0: 8096
+      atime1: 21395
+      atime2: 65535
+      atime3: 0
+      atime4: 0
+      atime5: 0
+      atime6: 0
+      atime7: 0
+      m_Mode: 1
+      m_NumColorKeys: 2
+      m_NumAlphaKeys: 3
+    numCornerVertices: 0
+    numCapVertices: 0
+    alignment: 0
+    textureMode: 0
+    shadowBias: 0.5
+    generateLightingData: 0
+  m_UseWorldSpace: 1
+  m_Loop: 0
 --- !u!1 &2231157393762796435
 GameObject:
   m_ObjectHideFlags: 0
@@ -318,6 +420,7 @@ MonoBehaviour:
   Boss1Script: {fileID: 1608144398178472814}
   rb: {fileID: 5800336810204897712}
   boss: {fileID: 656476589332876436}
+  angle: 0
 --- !u!50 &5800336810204897712
 Rigidbody2D:
   serializedVersion: 4

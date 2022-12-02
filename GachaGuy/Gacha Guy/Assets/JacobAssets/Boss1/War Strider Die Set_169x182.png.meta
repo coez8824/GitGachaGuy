@@ -1,7 +1,415 @@
 fileFormatVersion: 2
 guid: defadded8221aae448f2f8ff340a47ca
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -4220958873148566352
+    second: War Strider Die Set_169x182_0
+  - first:
+      213: -2860360860545823758
+    second: War Strider Die Set_169x182_1
+  - first:
+      213: 7640143118963558234
+    second: War Strider Die Set_169x182_2
+  - first:
+      213: -3989066019181872774
+    second: War Strider Die Set_169x182_3
+  - first:
+      213: 6589366604386082454
+    second: War Strider Die Set_169x182_4
+  - first:
+      213: 2719004020238571489
+    second: War Strider Die Set_169x182_5
+  - first:
+      213: -2302054047224144813
+    second: War Strider Die Set_169x182_6
+  - first:
+      213: -279776729808963318
+    second: War Strider Die Set_169x182_7
+  - first:
+      213: -4254879972602998001
+    second: War Strider Die Set_169x182_8
+  - first:
+      213: 305091713156375844
+    second: War Strider Die Set_169x182_9
+  - first:
+      213: -139976877069939819
+    second: War Strider Die Set_169x182_10
+  - first:
+      213: -4231335516939412942
+    second: War Strider Die Set_169x182_11
+  - first:
+      213: -4217679987516756398
+    second: War Strider Die Set_169x182_12
+  - first:
+      213: 6833102564874662282
+    second: War Strider Die Set_169x182_13
+  - first:
+      213: 4122930428861092379
+    second: War Strider Die Set_169x182_14
+  - first:
+      213: 8075877764706454101
+    second: War Strider Die Set_169x182_15
+  - first:
+      213: 8389783858438094963
+    second: War Strider Die Set_169x182_16
+  - first:
+      213: 4126109087179977665
+    second: War Strider Die Set_169x182_17
+  - first:
+      213: -4202642201350747677
+    second: War Strider Die Set_169x182_18
+  - first:
+      213: 5202946954704396419
+    second: War Strider Die Set_169x182_19
+  - first:
+      213: -5501133518174517475
+    second: War Strider Die Set_169x182_20
+  - first:
+      213: -8937517150875033977
+    second: War Strider Die Set_169x182_21
+  - first:
+      213: 1802713581993728062
+    second: War Strider Die Set_169x182_22
+  - first:
+      213: -4778237861577684642
+    second: War Strider Die Set_169x182_23
+  - first:
+      213: -260960098298576356
+    second: War Strider Die Set_169x182_24
+  - first:
+      213: -5528228661305527818
+    second: War Strider Die Set_169x182_25
+  - first:
+      213: 4471086010523141476
+    second: War Strider Die Set_169x182_26
+  - first:
+      213: 3128921525331066928
+    second: War Strider Die Set_169x182_27
+  - first:
+      213: -6015795150027262535
+    second: War Strider Die Set_169x182_28
+  - first:
+      213: -5897187604575674530
+    second: War Strider Die Set_169x182_29
+  - first:
+      213: -8496493604325602847
+    second: War Strider Die Set_169x182_30
+  - first:
+      213: 2145505269560440214
+    second: War Strider Die Set_169x182_31
+  - first:
+      213: 2092332173030074565
+    second: War Strider Die Set_169x182_32
+  - first:
+      213: -4563587157862862170
+    second: War Strider Die Set_169x182_33
+  - first:
+      213: 2880693737488464254
+    second: War Strider Die Set_169x182_34
+  - first:
+      213: -8911133321061437002
+    second: War Strider Die Set_169x182_35
+  - first:
+      213: 4708001208865378795
+    second: War Strider Die Set_169x182_36
+  - first:
+      213: -873371147734799393
+    second: War Strider Die Set_169x182_37
+  - first:
+      213: -2368834038145158550
+    second: War Strider Die Set_169x182_38
+  - first:
+      213: 6495116427688514797
+    second: War Strider Die Set_169x182_39
+  - first:
+      213: -3288164780239329268
+    second: War Strider Die Set_169x182_40
+  - first:
+      213: -6784063835467999446
+    second: War Strider Die Set_169x182_41
+  - first:
+      213: -1827835610537626557
+    second: War Strider Die Set_169x182_42
+  - first:
+      213: 8196206080794193272
+    second: War Strider Die Set_169x182_43
+  - first:
+      213: 7348768382398945367
+    second: War Strider Die Set_169x182_44
+  - first:
+      213: 2387699489885771545
+    second: War Strider Die Set_169x182_45
+  - first:
+      213: 842178689576511421
+    second: War Strider Die Set_169x182_46
+  - first:
+      213: 2647637756104740575
+    second: War Strider Die Set_169x182_47
+  - first:
+      213: 5072291784815248758
+    second: War Strider Die Set_169x182_48
+  - first:
+      213: -6060661138458717067
+    second: War Strider Die Set_169x182_49
+  - first:
+      213: 3162322821135608558
+    second: War Strider Die Set_169x182_50
+  - first:
+      213: -5295136127914018956
+    second: War Strider Die Set_169x182_51
+  - first:
+      213: -6931117999837115280
+    second: War Strider Die Set_169x182_52
+  - first:
+      213: 2506999005799087717
+    second: War Strider Die Set_169x182_53
+  - first:
+      213: -5349758924084252858
+    second: War Strider Die Set_169x182_54
+  - first:
+      213: 5075159496271853295
+    second: War Strider Die Set_169x182_55
+  - first:
+      213: 1649102176955450918
+    second: War Strider Die Set_169x182_56
+  - first:
+      213: 3835000974132346963
+    second: War Strider Die Set_169x182_57
+  - first:
+      213: 678525213425735303
+    second: War Strider Die Set_169x182_58
+  - first:
+      213: 4896670587061808494
+    second: War Strider Die Set_169x182_59
+  - first:
+      213: 7557383986942847607
+    second: War Strider Die Set_169x182_60
+  - first:
+      213: -5348294045199565647
+    second: War Strider Die Set_169x182_61
+  - first:
+      213: -8019461839192108372
+    second: War Strider Die Set_169x182_62
+  - first:
+      213: 4195601150682622936
+    second: War Strider Die Set_169x182_63
+  - first:
+      213: 359412332451043601
+    second: War Strider Die Set_169x182_64
+  - first:
+      213: 4340540606921746214
+    second: War Strider Die Set_169x182_65
+  - first:
+      213: 959101545373788838
+    second: War Strider Die Set_169x182_66
+  - first:
+      213: 5149357156441615047
+    second: War Strider Die Set_169x182_67
+  - first:
+      213: -4621071548447017539
+    second: War Strider Die Set_169x182_68
+  - first:
+      213: 7120818952188767702
+    second: War Strider Die Set_169x182_69
+  - first:
+      213: 7363252715336816264
+    second: War Strider Die Set_169x182_70
+  - first:
+      213: -5336232492951735859
+    second: War Strider Die Set_169x182_71
+  - first:
+      213: -7372641331148215110
+    second: War Strider Die Set_169x182_72
+  - first:
+      213: 8636840645004517523
+    second: War Strider Die Set_169x182_73
+  - first:
+      213: -7298474838448022764
+    second: War Strider Die Set_169x182_74
+  - first:
+      213: -4830703590311991752
+    second: War Strider Die Set_169x182_75
+  - first:
+      213: 3074885824409338494
+    second: War Strider Die Set_169x182_76
+  - first:
+      213: 8867087959822435416
+    second: War Strider Die Set_169x182_77
+  - first:
+      213: 7775150624536668222
+    second: War Strider Die Set_169x182_78
+  - first:
+      213: -5781607721348913190
+    second: War Strider Die Set_169x182_79
+  - first:
+      213: -1217959314150026231
+    second: War Strider Die Set_169x182_80
+  - first:
+      213: 6816008869567755723
+    second: War Strider Die Set_169x182_81
+  - first:
+      213: 8970523817749532712
+    second: War Strider Die Set_169x182_82
+  - first:
+      213: -5312576021132794915
+    second: War Strider Die Set_169x182_83
+  - first:
+      213: 7761558917297465156
+    second: War Strider Die Set_169x182_84
+  - first:
+      213: -4785390424621604090
+    second: War Strider Die Set_169x182_85
+  - first:
+      213: -5206277141322343962
+    second: War Strider Die Set_169x182_86
+  - first:
+      213: -9120515694167398296
+    second: War Strider Die Set_169x182_87
+  - first:
+      213: 4180173742603847873
+    second: War Strider Die Set_169x182_88
+  - first:
+      213: 4113140151065160359
+    second: War Strider Die Set_169x182_89
+  - first:
+      213: 8267518398187523020
+    second: War Strider Die Set_169x182_90
+  - first:
+      213: 8680007663242220202
+    second: War Strider Die Set_169x182_91
+  - first:
+      213: -180407101838731149
+    second: War Strider Die Set_169x182_92
+  - first:
+      213: -5846313194830830207
+    second: War Strider Die Set_169x182_93
+  - first:
+      213: 4139634553891573004
+    second: War Strider Die Set_169x182_94
+  - first:
+      213: 3941449285314437537
+    second: War Strider Die Set_169x182_95
+  - first:
+      213: -2961959553486773156
+    second: War Strider Die Set_169x182_96
+  - first:
+      213: 8642710700388622884
+    second: War Strider Die Set_169x182_97
+  - first:
+      213: 902399905760192890
+    second: War Strider Die Set_169x182_98
+  - first:
+      213: -7393311572824303250
+    second: War Strider Die Set_169x182_99
+  - first:
+      213: -3588962022193921067
+    second: War Strider Die Set_169x182_100
+  - first:
+      213: 69863622917885918
+    second: War Strider Die Set_169x182_101
+  - first:
+      213: 6495274488964396187
+    second: War Strider Die Set_169x182_102
+  - first:
+      213: -2160987118550491809
+    second: War Strider Die Set_169x182_103
+  - first:
+      213: 8368731892319315032
+    second: War Strider Die Set_169x182_104
+  - first:
+      213: 6351056261531594722
+    second: War Strider Die Set_169x182_105
+  - first:
+      213: -3432255236328698991
+    second: War Strider Die Set_169x182_106
+  - first:
+      213: -932136724909845560
+    second: War Strider Die Set_169x182_107
+  - first:
+      213: -760271956859535953
+    second: War Strider Die Set_169x182_108
+  - first:
+      213: -3426676742709660432
+    second: War Strider Die Set_169x182_109
+  - first:
+      213: 5932508865774134088
+    second: War Strider Die Set_169x182_110
+  - first:
+      213: 1834534985002075821
+    second: War Strider Die Set_169x182_111
+  - first:
+      213: -8482852693535750657
+    second: War Strider Die Set_169x182_112
+  - first:
+      213: 5961144924108811467
+    second: War Strider Die Set_169x182_113
+  - first:
+      213: 6129172159533249218
+    second: War Strider Die Set_169x182_114
+  - first:
+      213: -5865263158326835565
+    second: War Strider Die Set_169x182_115
+  - first:
+      213: -463351903775221396
+    second: War Strider Die Set_169x182_116
+  - first:
+      213: 3810082592151270199
+    second: War Strider Die Set_169x182_117
+  - first:
+      213: 4592728703248616366
+    second: War Strider Die Set_169x182_118
+  - first:
+      213: -8402349832875776718
+    second: War Strider Die Set_169x182_119
+  - first:
+      213: -6534112770097395369
+    second: War Strider Die Set_169x182_120
+  - first:
+      213: 7458625432146364071
+    second: War Strider Die Set_169x182_121
+  - first:
+      213: -4911256152814731475
+    second: War Strider Die Set_169x182_122
+  - first:
+      213: 3549342050432994249
+    second: War Strider Die Set_169x182_123
+  - first:
+      213: 150409586972419838
+    second: War Strider Die Set_169x182_124
+  - first:
+      213: -7567439354219567386
+    second: War Strider Die Set_169x182_125
+  - first:
+      213: 753985604349705701
+    second: War Strider Die Set_169x182_126
+  - first:
+      213: -2103594961262949925
+    second: War Strider Die Set_169x182_127
+  - first:
+      213: -7390011644951179916
+    second: War Strider Die Set_169x182_128
+  - first:
+      213: -815948007101068794
+    second: War Strider Die Set_169x182_129
+  - first:
+      213: -513617744744259293
+    second: War Strider Die Set_169x182_130
+  - first:
+      213: -8331688259061649040
+    second: War Strider Die Set_169x182_131
+  - first:
+      213: -7320945380930608465
+    second: War Strider Die Set_169x182_132
+  - first:
+      213: -5521059748355824048
+    second: War Strider Die Set_169x182_133
+  - first:
+      213: -1139267488185574655
+    second: War Strider Die Set_169x182_134
+  - first:
+      213: -6180959867049835608
+    second: War Strider Die Set_169x182_135
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -32,7 +440,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -41,12 +449,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -68,7 +476,19 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -77,7 +497,2863 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2002
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4527ab4442c65c0800000000000000
+      internalID: -4220958873148566352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_1
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 2002
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb4cb1c3f4fd48d0800000000000000
+      internalID: -2860360860545823758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_2
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 2002
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57c7feffad370a60800000000000000
+      internalID: 7640143118963558234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_3
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 2002
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79351d279df3a8c0800000000000000
+      internalID: -3989066019181872774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_4
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 2002
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e1145c302227b50800000000000000
+      internalID: 6589366604386082454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_5
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 2002
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7dd2120c7dbb520800000000000000
+      internalID: 2719004020238571489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_6
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 2002
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c54757a067d00e0800000000000000
+      internalID: -2302054047224144813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_7
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 2002
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09f05beb880e1cf0800000000000000
+      internalID: -279776729808963318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_8
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 2002
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03131f4531a3f4c0800000000000000
+      internalID: -4254879972602998001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_9
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 2002
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425e992fb47eb3400800000000000000
+      internalID: 305091713156375844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_10
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 2002
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b4a7d95c3be0ef0800000000000000
+      internalID: -139976877069939819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_11
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 2002
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a155314c64745c0800000000000000
+      internalID: -4231335516939412942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1820
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e2ac7c56ac775c0800000000000000
+      internalID: -4217679987516756398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_13
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1820
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a813a25549e04de50800000000000000
+      internalID: 6833102564874662282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_14
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1820
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b121aed7167973930800000000000000
+      internalID: 4122930428861092379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_15
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1820
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55acdc60a08431070800000000000000
+      internalID: 8075877764706454101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_16
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1820
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3704280e7ff7e6470800000000000000
+      internalID: 8389783858438094963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_17
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1820
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3bfdd8a52e24930800000000000000
+      internalID: 4126109087179977665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_18
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1820
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e94c663f273da5c0800000000000000
+      internalID: -4202642201350747677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_19
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1820
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3802b5c50b4943840800000000000000
+      internalID: 5202946954704396419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_20
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 1820
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d178633263c08a3b0800000000000000
+      internalID: -5501133518174517475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_21
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 1820
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ed128118f87f380800000000000000
+      internalID: -8937517150875033977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_22
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 1820
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38128e9376840910800000000000000
+      internalID: 1802713581993728062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_23
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 1820
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5907582bf940bdb0800000000000000
+      internalID: -4778237861577684642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1638
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12cc585c22e06cf0800000000000000
+      internalID: -260960098298576356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_25
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1638
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f130c58259c743b0800000000000000
+      internalID: -5528228661305527818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_26
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1638
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4654379a90d7c0e30800000000000000
+      internalID: 4471086010523141476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_27
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1638
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0308e6fac892c6b20800000000000000
+      internalID: 3128921525331066928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_28
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1638
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b57b112f2a938ca0800000000000000
+      internalID: -6015795150027262535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_29
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1638
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f1e674e1bf82ea0800000000000000
+      internalID: -5897187604575674530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_30
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1638
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e94bcd4514661a80800000000000000
+      internalID: -8496493604325602847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_31
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1638
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695f0efdcad56cd10800000000000000
+      internalID: 2145505269560440214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_32
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 1638
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c824959605790d10800000000000000
+      internalID: 2092332173030074565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_33
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 1638
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2bc0aa8a1eaa0c0800000000000000
+      internalID: -4563587157862862170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_34
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 1638
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7931b111b74af720800000000000000
+      internalID: 2880693737488464254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_35
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 1638
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b17cfb257b455480800000000000000
+      internalID: -8911133321061437002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1456
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1d788c72e265140800000000000000
+      internalID: 4708001208865378795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_37
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1456
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb2136819921e3f0800000000000000
+      internalID: -873371147734799393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_38
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1456
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62f0803ef5302fd0800000000000000
+      internalID: -2368834038145158550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_39
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1456
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de49d277af9432a50800000000000000
+      internalID: 6495116427688514797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_40
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1456
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0862e6cd871e52d0800000000000000
+      internalID: -3288164780239329268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_41
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1456
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a271b5992e92ad1a0800000000000000
+      internalID: -6784063835467999446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_42
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1456
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344781e423932a6e0800000000000000
+      internalID: -1827835610537626557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_43
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1456
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d62af4106ceb170800000000000000
+      internalID: 8196206080794193272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_44
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 1456
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758d28988e11cf560800000000000000
+      internalID: 7348768382398945367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_45
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 1456
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917d5051900d22120800000000000000
+      internalID: 2387699489885771545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_46
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 1456
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7ac9d5e0500bb00800000000000000
+      internalID: 842178689576511421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_47
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 1456
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde098ae28c4eb420800000000000000
+      internalID: 2647637756104740575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1274
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6758b0f0186646640800000000000000
+      internalID: 5072291784815248758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_49
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1274
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574572a2ec434eba0800000000000000
+      internalID: -6060661138458717067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_50
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1274
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea26e2e9d3d2eb20800000000000000
+      internalID: 3162322821135608558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_51
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1274
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477f85a1fb5e386b0800000000000000
+      internalID: -5295136127914018956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_52
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1274
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c846bd6e8bfcf90800000000000000
+      internalID: -6931117999837115280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_53
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1274
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e79e82056aac220800000000000000
+      internalID: 2506999005799087717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_54
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1274
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f6bff4a96d1c5b0800000000000000
+      internalID: -5349758924084252858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_55
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1274
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6fbb92ca69e6640800000000000000
+      internalID: 5075159496271853295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_56
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 1274
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626c0cf41b9c2e610800000000000000
+      internalID: 1649102176955450918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_57
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 1274
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3508f683119a83530800000000000000
+      internalID: 3835000974132346963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_58
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 1274
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786136d261b9a6900800000000000000
+      internalID: 678525213425735303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_59
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 1274
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d2ceb84f774f340800000000000000
+      internalID: 4896670587061808494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1092
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a24f402b831e860800000000000000
+      internalID: 7557383986942847607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_61
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1092
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bcfa8107ea07c5b0800000000000000
+      internalID: -5348294045199565647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_62
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1092
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2572932f525b090800000000000000
+      internalID: -8019461839192108372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_63
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1092
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db68ad6405c93a30800000000000000
+      internalID: 4195601150682622936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_64
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1092
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11993a3bc93ecf400800000000000000
+      internalID: 359412332451043601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_65
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1092
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627aab05fa2bc3c30800000000000000
+      internalID: 4340540606921746214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_66
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1092
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa688326c96f4d00800000000000000
+      internalID: 959101545373788838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_67
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1092
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca61532d01367740800000000000000
+      internalID: 5149357156441615047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_68
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 1092
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5b62109e7aedfb0800000000000000
+      internalID: -4621071548447017539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_69
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 1092
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dda41bfb1b32d260800000000000000
+      internalID: 7120818952188767702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_70
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 1092
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886d41915578f2660800000000000000
+      internalID: 7363252715336816264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_71
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 1092
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1f6baf1d4e1f5b0800000000000000
+      internalID: -5336232492951735859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 910
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc2c8075cd1fa990800000000000000
+      internalID: -7372641331148215110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_73
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 910
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39066238ec83cd770800000000000000
+      internalID: 8636840645004517523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_74
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 910
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bdd2cadcb96ba90800000000000000
+      internalID: -7298474838448022764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_75
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 910
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836ef34cda4e5fcb0800000000000000
+      internalID: -4830703590311991752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_76
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 910
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e728dc8ad503caa20800000000000000
+      internalID: 3074885824409338494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_77
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 910
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8540c5505893e0b70800000000000000
+      internalID: 8867087959822435416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_78
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 910
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e382aaa6c42e6eb60800000000000000
+      internalID: 7775150624536668222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_79
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 910
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7a752e86a93cfa0800000000000000
+      internalID: -5781607721348913190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_80
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 910
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9049531f470f81fe0800000000000000
+      internalID: -1217959314150026231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_81
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 910
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc57f7044f3579e50800000000000000
+      internalID: 6816008869567755723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_82
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 910
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820542662e3bd7c70800000000000000
+      internalID: 8970523817749532712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_83
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 910
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd32f1a8140f546b0800000000000000
+      internalID: -5312576021132794915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 728
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447e7c876b896bb60800000000000000
+      internalID: 7761558917297465156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_85
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 728
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603afdc43c0e69db0800000000000000
+      internalID: -4785390424621604090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_86
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 728
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9de3526869fb7b0800000000000000
+      internalID: -5206277141322343962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_87
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 728
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868e6c87c4b6d6180800000000000000
+      internalID: -9120515694167398296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_88
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 728
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c841531fd5f20a30800000000000000
+      internalID: 4180173742603847873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_89
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 728
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aaa2afcc2fc41930800000000000000
+      internalID: 4113140151065160359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_90
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 728
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb49f11e202cb270800000000000000
+      internalID: 8267518398187523020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_91
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 728
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa298372bf4957870800000000000000
+      internalID: 8680007663242220202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_92
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 728
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378d1fb52b01f7df0800000000000000
+      internalID: -180407101838731149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_93
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 728
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185ed68df19bddea0800000000000000
+      internalID: -5846313194830830207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_94
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 728
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0dc3aca1bfe27930800000000000000
+      internalID: 4139634553891573004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_95
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 728
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a162670e37d2b630800000000000000
+      internalID: 3941449285314437537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 546
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54a85faa7105e6d0800000000000000
+      internalID: -2961959553486773156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_97
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 546
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422a129479311f770800000000000000
+      internalID: 8642710700388622884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_98
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 546
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79ae24eee7f58c00800000000000000
+      internalID: 902399905760192890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_99
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 546
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69d504cb4ea56990800000000000000
+      internalID: -7393311572824303250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_100
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 546
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d383c25e02713ec0800000000000000
+      internalID: -3588962022193921067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_101
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 546
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf0eba489438f000800000000000000
+      internalID: 69863622917885918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_102
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 546
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b943169fbb9d32a50800000000000000
+      internalID: 6495274488964396187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_103
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 546
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d5a924aa1a202e0800000000000000
+      internalID: -2160987118550491809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_104
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 546
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854ec2e0155b32470800000000000000
+      internalID: 8368731892319315032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_105
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 546
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef6c11450c732850800000000000000
+      internalID: 6351056261531594722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_106
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 546
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b47242c0e2e50d0800000000000000
+      internalID: -3432255236328698991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_107
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 546
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c317ad56926013f0800000000000000
+      internalID: -932136724909845560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 364
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad32beeea8f275f0800000000000000
+      internalID: -760271956859535953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_109
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 364
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4b2b668aff170d0800000000000000
+      internalID: -3426676742709660432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_110
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 364
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843a253b161845250800000000000000
+      internalID: 5932508865774134088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_111
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 364
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6431d59d3957910800000000000000
+      internalID: 1834534985002075821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_112
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 364
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff506d75b6ad64a80800000000000000
+      internalID: -8482852693535750657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_113
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 364
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcce02899bd3ab250800000000000000
+      internalID: 5961144924108811467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_114
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 364
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c27138fa913f0550800000000000000
+      internalID: 6129172159533249218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_115
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 364
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3964eb5ab366a9ea0800000000000000
+      internalID: -5865263158326835565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_116
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 364
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c691a7106e7d199f0800000000000000
+      internalID: -463351903775221396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_117
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 364
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733731e4ee120e430800000000000000
+      internalID: 3810082592151270199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_118
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 364
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabcfda1c66acbf30800000000000000
+      internalID: 4592728703248616366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_119
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 364
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23560e4385bd46b80800000000000000
+      internalID: -8402349832875776718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75940080e0b2255a0800000000000000
+      internalID: -6534112770097395369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_121
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 182
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a647c3205c528760800000000000000
+      internalID: 7458625432146364071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_122
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 182
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fb68acc86b7dbb0800000000000000
+      internalID: -4911256152814731475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_123
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 182
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb4a662acbc14130800000000000000
+      internalID: 3549342050432994249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_124
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 182
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6ed42f8bc561200800000000000000
+      internalID: 150409586972419838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_125
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 182
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e66e68500e0bf690800000000000000
+      internalID: -7567439354219567386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_126
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 182
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edb50199e1b67a00800000000000000
+      internalID: 753985604349705701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_127
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 182
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9ce9e27878ec2e0800000000000000
+      internalID: -2103594961262949925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_128
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 182
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d4fa81097617990800000000000000
+      internalID: -7390011644951179916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_129
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 182
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a8d815c9b2da4f0800000000000000
+      internalID: -815948007101068794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_130
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 182
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3216e26e1634fd8f0800000000000000
+      internalID: -513617744744259293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_131
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 182
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071765beba5ef5c80800000000000000
+      internalID: -8331688259061649040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2289dc6f6c66a90800000000000000
+      internalID: -7320945380930608465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_133
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 0
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0562b8329614163b0800000000000000
+      internalID: -5521059748355824048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_134
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b1c8e61428030f0800000000000000
+      internalID: -1139267488185574655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Die Set_169x182_135
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 0
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a38c81cfb1d83aa0800000000000000
+      internalID: -6180959867049835608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

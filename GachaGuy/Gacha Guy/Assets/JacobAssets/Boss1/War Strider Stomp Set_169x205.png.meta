@@ -1,7 +1,415 @@
 fileFormatVersion: 2
 guid: 3c87445f4cf7c8d45ba3a5d1645f3a5c
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 3848088056441813705
+    second: War Strider Stomp Set_169x205_0
+  - first:
+      213: -5207506758752330287
+    second: War Strider Stomp Set_169x205_1
+  - first:
+      213: -8634828459099934776
+    second: War Strider Stomp Set_169x205_2
+  - first:
+      213: 2514894281767045485
+    second: War Strider Stomp Set_169x205_3
+  - first:
+      213: 5302747582189688371
+    second: War Strider Stomp Set_169x205_4
+  - first:
+      213: 2572516603940868882
+    second: War Strider Stomp Set_169x205_5
+  - first:
+      213: -1270728520502320032
+    second: War Strider Stomp Set_169x205_6
+  - first:
+      213: 6302004148827931224
+    second: War Strider Stomp Set_169x205_7
+  - first:
+      213: -4038402894062610905
+    second: War Strider Stomp Set_169x205_8
+  - first:
+      213: 8346947810465967091
+    second: War Strider Stomp Set_169x205_9
+  - first:
+      213: 4620892169287889674
+    second: War Strider Stomp Set_169x205_10
+  - first:
+      213: -9047485442626539849
+    second: War Strider Stomp Set_169x205_11
+  - first:
+      213: 5577502611591105827
+    second: War Strider Stomp Set_169x205_12
+  - first:
+      213: 2589909889167447744
+    second: War Strider Stomp Set_169x205_13
+  - first:
+      213: -8603464047672751948
+    second: War Strider Stomp Set_169x205_14
+  - first:
+      213: 5084405761724537580
+    second: War Strider Stomp Set_169x205_15
+  - first:
+      213: -1759819538186729575
+    second: War Strider Stomp Set_169x205_16
+  - first:
+      213: 171426042423270264
+    second: War Strider Stomp Set_169x205_17
+  - first:
+      213: 6862827839576099688
+    second: War Strider Stomp Set_169x205_18
+  - first:
+      213: -5970678410360727397
+    second: War Strider Stomp Set_169x205_19
+  - first:
+      213: -2561154959411594621
+    second: War Strider Stomp Set_169x205_20
+  - first:
+      213: 7647237574036416931
+    second: War Strider Stomp Set_169x205_21
+  - first:
+      213: -9206338520400184294
+    second: War Strider Stomp Set_169x205_22
+  - first:
+      213: -5894384243283164901
+    second: War Strider Stomp Set_169x205_23
+  - first:
+      213: -2075928453253165914
+    second: War Strider Stomp Set_169x205_24
+  - first:
+      213: -6663828705247596351
+    second: War Strider Stomp Set_169x205_25
+  - first:
+      213: 6507951086829128592
+    second: War Strider Stomp Set_169x205_26
+  - first:
+      213: 647111068831900856
+    second: War Strider Stomp Set_169x205_27
+  - first:
+      213: 3465400505453783750
+    second: War Strider Stomp Set_169x205_28
+  - first:
+      213: 229097921057483552
+    second: War Strider Stomp Set_169x205_29
+  - first:
+      213: 3944838983723841637
+    second: War Strider Stomp Set_169x205_30
+  - first:
+      213: 4425828550690720651
+    second: War Strider Stomp Set_169x205_31
+  - first:
+      213: -1817936431602007772
+    second: War Strider Stomp Set_169x205_32
+  - first:
+      213: 5654760835616436845
+    second: War Strider Stomp Set_169x205_33
+  - first:
+      213: 7721962754790749036
+    second: War Strider Stomp Set_169x205_34
+  - first:
+      213: -5057210004507629423
+    second: War Strider Stomp Set_169x205_35
+  - first:
+      213: -8261493084763389564
+    second: War Strider Stomp Set_169x205_36
+  - first:
+      213: -411974737272058968
+    second: War Strider Stomp Set_169x205_37
+  - first:
+      213: 9190361008355001826
+    second: War Strider Stomp Set_169x205_38
+  - first:
+      213: -8643063648798187058
+    second: War Strider Stomp Set_169x205_39
+  - first:
+      213: -4553835246753353016
+    second: War Strider Stomp Set_169x205_40
+  - first:
+      213: 3008432031331745371
+    second: War Strider Stomp Set_169x205_41
+  - first:
+      213: 3151836153058121850
+    second: War Strider Stomp Set_169x205_42
+  - first:
+      213: -1303871614624311536
+    second: War Strider Stomp Set_169x205_43
+  - first:
+      213: 6338497919119828763
+    second: War Strider Stomp Set_169x205_44
+  - first:
+      213: -2072231406371137405
+    second: War Strider Stomp Set_169x205_45
+  - first:
+      213: 1795637359505837406
+    second: War Strider Stomp Set_169x205_46
+  - first:
+      213: 5933790003243384171
+    second: War Strider Stomp Set_169x205_47
+  - first:
+      213: 6217723572997159881
+    second: War Strider Stomp Set_169x205_48
+  - first:
+      213: -7688817667006813351
+    second: War Strider Stomp Set_169x205_49
+  - first:
+      213: 3794649131517745353
+    second: War Strider Stomp Set_169x205_50
+  - first:
+      213: 6984027630935860762
+    second: War Strider Stomp Set_169x205_51
+  - first:
+      213: 2896998665657045458
+    second: War Strider Stomp Set_169x205_52
+  - first:
+      213: 8100785034186363246
+    second: War Strider Stomp Set_169x205_53
+  - first:
+      213: -176709497706162465
+    second: War Strider Stomp Set_169x205_54
+  - first:
+      213: -3768388627553009682
+    second: War Strider Stomp Set_169x205_55
+  - first:
+      213: 1424540989605665076
+    second: War Strider Stomp Set_169x205_56
+  - first:
+      213: 6989632202462295629
+    second: War Strider Stomp Set_169x205_57
+  - first:
+      213: -3567669483768004513
+    second: War Strider Stomp Set_169x205_58
+  - first:
+      213: -3369329091237583157
+    second: War Strider Stomp Set_169x205_59
+  - first:
+      213: -2243214860551841167
+    second: War Strider Stomp Set_169x205_60
+  - first:
+      213: 653982845587696262
+    second: War Strider Stomp Set_169x205_61
+  - first:
+      213: 2983885555937523242
+    second: War Strider Stomp Set_169x205_62
+  - first:
+      213: -2833714848981962915
+    second: War Strider Stomp Set_169x205_63
+  - first:
+      213: -693499529809923491
+    second: War Strider Stomp Set_169x205_64
+  - first:
+      213: 6020068252880105994
+    second: War Strider Stomp Set_169x205_65
+  - first:
+      213: -6665778490965177611
+    second: War Strider Stomp Set_169x205_66
+  - first:
+      213: 1444200232535013306
+    second: War Strider Stomp Set_169x205_67
+  - first:
+      213: -1072870513408372020
+    second: War Strider Stomp Set_169x205_68
+  - first:
+      213: 8439093875889702608
+    second: War Strider Stomp Set_169x205_69
+  - first:
+      213: -8301135972359959934
+    second: War Strider Stomp Set_169x205_70
+  - first:
+      213: -5887898470678813975
+    second: War Strider Stomp Set_169x205_71
+  - first:
+      213: 7151904228861907447
+    second: War Strider Stomp Set_169x205_72
+  - first:
+      213: 8145351674397846386
+    second: War Strider Stomp Set_169x205_73
+  - first:
+      213: 1545316606127455211
+    second: War Strider Stomp Set_169x205_74
+  - first:
+      213: -6345639713123798126
+    second: War Strider Stomp Set_169x205_75
+  - first:
+      213: 2541970447517803817
+    second: War Strider Stomp Set_169x205_76
+  - first:
+      213: 4841479155101152225
+    second: War Strider Stomp Set_169x205_77
+  - first:
+      213: -7244469803758264368
+    second: War Strider Stomp Set_169x205_78
+  - first:
+      213: 7180038450113458837
+    second: War Strider Stomp Set_169x205_79
+  - first:
+      213: 289702821153256822
+    second: War Strider Stomp Set_169x205_80
+  - first:
+      213: -3171425470802489053
+    second: War Strider Stomp Set_169x205_81
+  - first:
+      213: 2838928019906162389
+    second: War Strider Stomp Set_169x205_82
+  - first:
+      213: -7735940746678298414
+    second: War Strider Stomp Set_169x205_83
+  - first:
+      213: -5632426197439183688
+    second: War Strider Stomp Set_169x205_84
+  - first:
+      213: -867025871734932248
+    second: War Strider Stomp Set_169x205_85
+  - first:
+      213: 1062589296602083311
+    second: War Strider Stomp Set_169x205_86
+  - first:
+      213: 7379620045408036491
+    second: War Strider Stomp Set_169x205_87
+  - first:
+      213: 7315793459694727522
+    second: War Strider Stomp Set_169x205_88
+  - first:
+      213: 5803907898719547691
+    second: War Strider Stomp Set_169x205_89
+  - first:
+      213: 1897843671205215456
+    second: War Strider Stomp Set_169x205_90
+  - first:
+      213: 3798827562120527313
+    second: War Strider Stomp Set_169x205_91
+  - first:
+      213: 129681706577367012
+    second: War Strider Stomp Set_169x205_92
+  - first:
+      213: 2619504652373520473
+    second: War Strider Stomp Set_169x205_93
+  - first:
+      213: 3280328906863297505
+    second: War Strider Stomp Set_169x205_94
+  - first:
+      213: -4423097906986399188
+    second: War Strider Stomp Set_169x205_95
+  - first:
+      213: 1137955145731868972
+    second: War Strider Stomp Set_169x205_96
+  - first:
+      213: -8921048017985851802
+    second: War Strider Stomp Set_169x205_97
+  - first:
+      213: -4078422306235999917
+    second: War Strider Stomp Set_169x205_98
+  - first:
+      213: -6667328848387999586
+    second: War Strider Stomp Set_169x205_99
+  - first:
+      213: 8206829292446027223
+    second: War Strider Stomp Set_169x205_100
+  - first:
+      213: -3713098009781496360
+    second: War Strider Stomp Set_169x205_101
+  - first:
+      213: -1870684960541341161
+    second: War Strider Stomp Set_169x205_102
+  - first:
+      213: -5938906329357555232
+    second: War Strider Stomp Set_169x205_103
+  - first:
+      213: 7180484512940239975
+    second: War Strider Stomp Set_169x205_104
+  - first:
+      213: 8074439035068753114
+    second: War Strider Stomp Set_169x205_105
+  - first:
+      213: 7247385931123384616
+    second: War Strider Stomp Set_169x205_106
+  - first:
+      213: 7169497330124603932
+    second: War Strider Stomp Set_169x205_107
+  - first:
+      213: -8595399975364310340
+    second: War Strider Stomp Set_169x205_108
+  - first:
+      213: -6500649042956114874
+    second: War Strider Stomp Set_169x205_109
+  - first:
+      213: 3373914642094763350
+    second: War Strider Stomp Set_169x205_110
+  - first:
+      213: 7639106541738356146
+    second: War Strider Stomp Set_169x205_111
+  - first:
+      213: -2453263569778335451
+    second: War Strider Stomp Set_169x205_112
+  - first:
+      213: 2734303363483853883
+    second: War Strider Stomp Set_169x205_113
+  - first:
+      213: 735536081941738717
+    second: War Strider Stomp Set_169x205_114
+  - first:
+      213: 7804876541839515759
+    second: War Strider Stomp Set_169x205_115
+  - first:
+      213: 1645364065718954438
+    second: War Strider Stomp Set_169x205_116
+  - first:
+      213: -6860117093354034296
+    second: War Strider Stomp Set_169x205_117
+  - first:
+      213: -4704986486119812434
+    second: War Strider Stomp Set_169x205_118
+  - first:
+      213: 530183129428455684
+    second: War Strider Stomp Set_169x205_119
+  - first:
+      213: 6192195327784416965
+    second: War Strider Stomp Set_169x205_120
+  - first:
+      213: 8168725864632860110
+    second: War Strider Stomp Set_169x205_121
+  - first:
+      213: 7056045060300995580
+    second: War Strider Stomp Set_169x205_122
+  - first:
+      213: 6339208463413695396
+    second: War Strider Stomp Set_169x205_123
+  - first:
+      213: -4399901679151774812
+    second: War Strider Stomp Set_169x205_124
+  - first:
+      213: -1854646948323299165
+    second: War Strider Stomp Set_169x205_125
+  - first:
+      213: 8752169011777990277
+    second: War Strider Stomp Set_169x205_126
+  - first:
+      213: 8466714224069773491
+    second: War Strider Stomp Set_169x205_127
+  - first:
+      213: 6813564806923653215
+    second: War Strider Stomp Set_169x205_128
+  - first:
+      213: -8674760678457454303
+    second: War Strider Stomp Set_169x205_129
+  - first:
+      213: 1653653693473397177
+    second: War Strider Stomp Set_169x205_130
+  - first:
+      213: 1974234574798257892
+    second: War Strider Stomp Set_169x205_131
+  - first:
+      213: -4961325564417007278
+    second: War Strider Stomp Set_169x205_132
+  - first:
+      213: 2583870368012096203
+    second: War Strider Stomp Set_169x205_133
+  - first:
+      213: 5654736255020517384
+    second: War Strider Stomp Set_169x205_134
+  - first:
+      213: 9146839212285262495
+    second: War Strider Stomp Set_169x205_135
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -32,7 +440,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -41,12 +449,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -68,7 +476,19 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -77,7 +497,2863 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2255
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca33a403b7276530800000000000000
+      internalID: 3848088056441813705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_1
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 2255
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd1f1781383bb7b0800000000000000
+      internalID: -5207506758752330287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_2
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 2255
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf2ae6044dea2880800000000000000
+      internalID: -8634828459099934776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_3
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 2255
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69c2685603b6e220800000000000000
+      internalID: 2514894281767045485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_4
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 2255
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3365af1b4d4279940800000000000000
+      internalID: 5302747582189688371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_5
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 2255
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21390b4b83a63b320800000000000000
+      internalID: 2572516603940868882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_6
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 2255
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0646089a4277d5ee0800000000000000
+      internalID: -1270728520502320032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_7
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 2255
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8524de74267357750800000000000000
+      internalID: 6302004148827931224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_8
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 2255
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7261d77d6f5b4f7c0800000000000000
+      internalID: -4038402894062610905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_9
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 2255
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb6c814fc056d370800000000000000
+      internalID: 8346947810465967091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_10
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 2255
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03f9c702f4b02040800000000000000
+      internalID: 4620892169287889674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_11
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 2255
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be2ab1fcefd07280800000000000000
+      internalID: -9047485442626539849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2050
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d83b90315476d40800000000000000
+      internalID: 5577502611591105827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_13
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 2050
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6d810825531f320800000000000000
+      internalID: 2589909889167447744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_14
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 2050
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b80f90280b5a9880800000000000000
+      internalID: -8603464047672751948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_15
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 2050
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea5a891a107f8640800000000000000
+      internalID: 5084405761724537580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_16
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 2050
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9978695347dd397e0800000000000000
+      internalID: -1759819538186729575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_17
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 2050
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bd3ebc317016200800000000000000
+      internalID: 171426042423270264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_18
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 2050
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b489c2f89ad3f50800000000000000
+      internalID: 6862827839576099688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_19
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 2050
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98da5aae93e32da0800000000000000
+      internalID: -5970678410360727397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_20
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 2050
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38aba8d4223f47cd0800000000000000
+      internalID: -2561154959411594621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_21
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 2050
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9e5798e02702a60800000000000000
+      internalID: 7647237574036416931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_22
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 2050
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c3d8994e38c3080800000000000000
+      internalID: -9206338520400184294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_23
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 2050
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b118271b2c0f23ea0800000000000000
+      internalID: -5894384243283164901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1845
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac08bc0212d033e0800000000000000
+      internalID: -2075928453253165914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_25
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1845
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c07aab59135583a0800000000000000
+      internalID: -6663828705247596351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_26
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1845
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b411a6803e05a50800000000000000
+      internalID: 6507951086829128592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_27
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1845
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4e2fba6100bf800800000000000000
+      internalID: 647111068831900856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_28
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1845
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca28043663971030800000000000000
+      internalID: 3465400505453783750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_29
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1845
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b696b685bed2300800000000000000
+      internalID: 229097921057483552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_30
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1845
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568f8f0b722eeb630800000000000000
+      internalID: 3944838983723841637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_31
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1845
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8bc3b82e93bb6d30800000000000000
+      internalID: 4425828550690720651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_32
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 1845
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4210f12827465c6e0800000000000000
+      internalID: -1817936431602007772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_33
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 1845
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6275b0150fb97e40800000000000000
+      internalID: 5654760835616436845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_34
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 1845
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c637918763ce92b60800000000000000
+      internalID: 7721962754790749036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_35
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 1845
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19865ce8b4e21d9b0800000000000000
+      internalID: -5057210004507629423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1640
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48105588fc7495d80800000000000000
+      internalID: -8261493084763389564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_37
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1640
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abc670c82f584af0800000000000000
+      internalID: -411974737272058968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_38
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1640
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5c99cf4a8ba8f70800000000000000
+      internalID: 9190361008355001826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_39
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1640
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1ea42876bad0880800000000000000
+      internalID: -8643063648798187058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_40
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1640
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2fc9768f68dc0c0800000000000000
+      internalID: -4553835246753353016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_41
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1640
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e7f6e3ef810c920800000000000000
+      internalID: 3008432031331745371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_42
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1640
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78534538429dbb20800000000000000
+      internalID: 3151836153058121850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_43
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1640
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0175a99bca7b7ede0800000000000000
+      internalID: -1303871614624311536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_44
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 1640
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17a0be464ed6f750800000000000000
+      internalID: 6338497919119828763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_45
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 1640
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38817dad384fd33e0800000000000000
+      internalID: -2072231406371137405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_46
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 1640
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d04ce2aa26be810800000000000000
+      internalID: 1795637359505837406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_47
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 1640
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6df513c19e095250800000000000000
+      internalID: 5933790003243384171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1435
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb711095aac94650800000000000000
+      internalID: 6217723572997159881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_49
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1435
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95baf47a115db4590800000000000000
+      internalID: -7688817667006813351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_50
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1435
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c81c5bb74d49a430800000000000000
+      internalID: 3794649131517745353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_51
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1435
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16e17b90204ce060800000000000000
+      internalID: 6984027630935860762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_52
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1435
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1d44dffe4343820800000000000000
+      internalID: 2896998665657045458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_53
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1435
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e619a7c9115cb6070800000000000000
+      internalID: 8100785034186363246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_54
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1435
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd659c8e5a33c8df0800000000000000
+      internalID: -176709497706162465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_55
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1435
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefb41f428ef3bbc0800000000000000
+      internalID: -3768388627553009682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_56
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 1435
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439dd658b7cf4c310800000000000000
+      internalID: 1424540989605665076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_57
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 1435
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46756a9479200160800000000000000
+      internalID: 6989632202462295629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_58
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 1435
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50c100c1871d7ec0800000000000000
+      internalID: -3567669483768004513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_59
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 1435
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6e4610b0dbd31d0800000000000000
+      internalID: -3369329091237583157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1230
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a1ee928ff7ed0e0800000000000000
+      internalID: -2243214860551841167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_61
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1230
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a2470eee9631900800000000000000
+      internalID: 653982845587696262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_62
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1230
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2633149a14e86920800000000000000
+      internalID: 2983885555937523242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_63
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1230
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f2ea7cb5f9ca8d0800000000000000
+      internalID: -2833714848981962915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_64
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1230
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5277c91ad13066f0800000000000000
+      internalID: -693499529809923491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_65
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1230
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0276882e249b8350800000000000000
+      internalID: 6020068252880105994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_66
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1230
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fac49e77c56e73a0800000000000000
+      internalID: -6665778490965177611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_67
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1230
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab739c4b574da0410800000000000000
+      internalID: 1444200232535013306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_68
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 1230
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc29d4ec3f56c11f0800000000000000
+      internalID: -1072870513408372020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_69
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 1230
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6849afa2fad1570800000000000000
+      internalID: 8439093875889702608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_70
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 1230
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a844f70d07ccc80800000000000000
+      internalID: -8301135972359959934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_71
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 1230
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2af9d498bf94ea0800000000000000
+      internalID: -5887898470678813975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1025
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f19de4f00ba04360800000000000000
+      internalID: 7151904228861907447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_73
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1025
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bed13213a1a0170800000000000000
+      internalID: 8145351674397846386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_74
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1025
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb3dbd0441127510800000000000000
+      internalID: 1545316606127455211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_75
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1025
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293f4a23d42cfe7a0800000000000000
+      internalID: -6345639713123798126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_76
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1025
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925e6d177a4e64320800000000000000
+      internalID: 2541970447517803817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_77
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1025
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3334be3a3603340800000000000000
+      internalID: 4841479155101152225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_78
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1025
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfd1f8a819767b90800000000000000
+      internalID: -7244469803758264368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_79
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1025
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592b8accdee94a360800000000000000
+      internalID: 7180038450113458837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_80
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 1025
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675b4415e2b350400800000000000000
+      internalID: 289702821153256822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_81
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 1025
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32111355655dcf3d0800000000000000
+      internalID: -3171425470802489053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_82
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 1025
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dee8692ef5e56720800000000000000
+      internalID: 2838928019906162389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_83
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 1025
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d815cea0ea64a490800000000000000
+      internalID: -7735940746678298414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 820
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4880e173a95d1b0800000000000000
+      internalID: -5632426197439183688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_85
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 820
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec7a283094b7f3f0800000000000000
+      internalID: -867025871734932248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_86
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 820
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef691ed5531fbe00800000000000000
+      internalID: 1062589296602083311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_87
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 820
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86e5e7155da96660800000000000000
+      internalID: 7379620045408036491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_88
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 820
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261fa3f046be68560800000000000000
+      internalID: 7315793459694727522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_89
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 820
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b213344cb7f9b8050800000000000000
+      internalID: 5803907898719547691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_90
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 820
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecf86583ce765a10800000000000000
+      internalID: 1897843671205215456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_91
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 820
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd382b6a8528b430800000000000000
+      internalID: 3798827562120527313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_92
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 820
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef096633d8bcc100800000000000000
+      internalID: 129681706577367012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_93
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 820
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950f4344a995a5420800000000000000
+      internalID: 2619504652373520473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_94
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 820
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e34808c2c1168d20800000000000000
+      internalID: 3280328906863297505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_95
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 820
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a4d4f53effd92c0800000000000000
+      internalID: -4423097906986399188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 615
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c290da70d24dacf00800000000000000
+      internalID: 1137955145731868972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_97
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 615
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e20c7e712123480800000000000000
+      internalID: -8921048017985851802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_98
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 615
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35916c855888667c0800000000000000
+      internalID: -4078422306235999917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_99
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 615
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e987e17ccb3e873a0800000000000000
+      internalID: -6667328848387999586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_100
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 615
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd048482c384e170800000000000000
+      internalID: 8206829292446027223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_101
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 615
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d593ce680d687cc0800000000000000
+      internalID: -3713098009781496360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_102
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 615
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a844090fdf906e0800000000000000
+      internalID: -1870684960541341161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_103
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 615
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9e25cb824c49da0800000000000000
+      internalID: -5938906329357555232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_104
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 615
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c2ff4ee9436a360800000000000000
+      internalID: 7180484512940239975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_105
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 615
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad422dda58b2e0070800000000000000
+      internalID: 8074439035068753114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_106
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 615
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821e5c62b13e39460800000000000000
+      internalID: 7247385931123384616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_107
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 615
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12403c06db2f7360800000000000000
+      internalID: 7169497330124603932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 410
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba4206434107b880800000000000000
+      internalID: -8595399975364310340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_109
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 410
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6442e19232e09c5a0800000000000000
+      internalID: -6500649042956114874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_110
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 410
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d2c80cd7d82de20800000000000000
+      internalID: 3373914642094763350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_111
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 410
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd6dad0dee830a60800000000000000
+      internalID: 7639106541738356146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_112
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 410
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521a4fef7c144fdd0800000000000000
+      internalID: -2453263569778335451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_113
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 410
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b346c901c6232f520800000000000000
+      internalID: 2734303363483853883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_114
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 410
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4be936b26253a00800000000000000
+      internalID: 735536081941738717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_115
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 410
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60af10ecdd705c60800000000000000
+      internalID: 7804876541839515759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_116
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 410
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9ee5776e185d610800000000000000
+      internalID: 1645364065718954438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_117
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 410
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b2c0d99d7fbc0a0800000000000000
+      internalID: -6860117093354034296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_118
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 410
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2b0dd08b784beb0800000000000000
+      internalID: -4704986486119812434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_119
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 410
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401fc774fb69b5700800000000000000
+      internalID: 530183129428455684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 205
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c67c6cc7d81fe550800000000000000
+      internalID: 6192195327784416965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_121
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 205
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecdbcf4e4e42d5170800000000000000
+      internalID: 8168725864632860110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_122
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 205
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbf36a099b1ce160800000000000000
+      internalID: 7056045060300995580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_123
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 205
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a35ceac28469f750800000000000000
+      internalID: 6339208463413695396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_124
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 205
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a383870cb860f2c0800000000000000
+      internalID: -4399901679151774812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_125
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 205
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a07d654d68f246e0800000000000000
+      internalID: -1854646948323299165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_126
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 205
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e65316853f57970800000000000000
+      internalID: 8752169011777990277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_127
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 205
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b80d6c6abfcf7570800000000000000
+      internalID: 8466714224069773491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_128
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 205
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5099c29715ae8e50800000000000000
+      internalID: 6813564806923653215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_129
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 205
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1215401bf1f0d9780800000000000000
+      internalID: -8674760678457454303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_130
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 205
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b99ef4d545f2f610800000000000000
+      internalID: 1653653693473397177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_131
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 205
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eef426c2e3e56b10800000000000000
+      internalID: 1974234574798257892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2512cd57fa4d52bb0800000000000000
+      internalID: -4961325564417007278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_133
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 0
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2d407e860cbd320800000000000000
+      internalID: 2583870368012096203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_134
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8084503f9a8a97e40800000000000000
+      internalID: 5654736255020517384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Stomp Set_169x205_135
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 0
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a70e13dc910fe70800000000000000
+      internalID: 9146839212285262495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
