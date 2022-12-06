@@ -1,0 +1,540 @@
+fileFormatVersion: 2
+guid: 24d08e2bab0c59e468f975e452a175ba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3332362782297974223
+    second: Grelian_Intro_0
+  - first:
+      213: -3292223844232634880
+    second: Grelian_Intro_1
+  - first:
+      213: 8108332538884534818
+    second: Grelian_Intro_2
+  - first:
+      213: 4086934607069618446
+    second: Grelian_Intro_3
+  - first:
+      213: -2298305705295923663
+    second: Grelian_Intro_4
+  - first:
+      213: -8099755525747473409
+    second: Grelian_Intro_5
+  - first:
+      213: -3380190975754834760
+    second: Grelian_Intro_6
+  - first:
+      213: 8219090779923873717
+    second: Grelian_Intro_7
+  - first:
+      213: 965572252807579109
+    second: Grelian_Intro_8
+  - first:
+      213: -6557606431441006345
+    second: Grelian_Intro_9
+  - first:
+      213: 5191834799636196486
+    second: Grelian_Intro_10
+  - first:
+      213: 5505764895678324411
+    second: Grelian_Intro_11
+  - first:
+      213: -4321478243831460784
+    second: Grelian_Intro_12
+  - first:
+      213: -4159983661079174517
+    second: Grelian_Intro_13
+  - first:
+      213: -7481922008468291183
+    second: Grelian_Intro_14
+  - first:
+      213: -1000108066599333333
+    second: Grelian_Intro_15
+  - first:
+      213: 8423724078949517734
+    second: Grelian_Intro_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Grelian_Intro_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2896
+        width: 901
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc56a9d7b4eee3e20800000000000000
+      internalID: 3332362782297974223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grelian_Intro_1
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 2896
+        width: 901
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e517b4bdbaf42d0800000000000000
+      internalID: -3292223844232634880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grelian_Intro_2
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 2896
+        width: 901
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22234fcfb75968070800000000000000
+      internalID: 8108332538884534818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grelian_Intro_3
+      rect:
+        serializedVersion: 2
+        x: 2703
+        y: 2896
+        width: 901
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01a2a22f55b7b830800000000000000
+      internalID: 4086934607069618446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grelian_Intro_4
+      rect:
+        serializedVersion: 2
+        x: 3604
+        y: 2896
+        width: 901
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13635925327ca10e0800000000000000
+      internalID: -2298305705295923663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grelian_Intro_5
+      rect:
+        serializedVersion: 2
+        x: 4505
+        y: 2896
+        width: 901
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff380508343e79f80800000000000000
+      internalID: -8099755525747473409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grelian_Intro_6
+      rect:
+        serializedVersion: 2
+        x: 5406
+        y: 2896
+        width: 901
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bce62177362711d0800000000000000
+      internalID: -3380190975754834760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grelian_Intro_7
+      rect:
+        serializedVersion: 2
+        x: 6307
+        y: 2896
+        width: 901
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bffc0a8483101270800000000000000
+      internalID: 8219090779923873717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grelian_Intro_8
+      rect:
+        serializedVersion: 2
+        x: 7208
+        y: 2896
+        width: 901
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5c19d19d6666d00800000000000000
+      internalID: 965572252807579109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grelian_Intro_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1696
+        width: 901
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0542db1b3bef4a0800000000000000
+      internalID: -6557606431441006345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grelian_Intro_10
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1696
+        width: 901
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ca3d42e3a1d0840800000000000000
+      internalID: 5191834799636196486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grelian_Intro_11
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 1696
+        width: 901
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbed8b77008686c40800000000000000
+      internalID: 5505764895678324411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grelian_Intro_12
+      rect:
+        serializedVersion: 2
+        x: 2703
+        y: 1696
+        width: 901
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05cc8d3fe660704c0800000000000000
+      internalID: -4321478243831460784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grelian_Intro_13
+      rect:
+        serializedVersion: 2
+        x: 3604
+        y: 1696
+        width: 901
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8262f996e4c446c0800000000000000
+      internalID: -4159983661079174517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grelian_Intro_14
+      rect:
+        serializedVersion: 2
+        x: 4505
+        y: 1696
+        width: 901
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1910210039fda2890800000000000000
+      internalID: -7481922008468291183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grelian_Intro_15
+      rect:
+        serializedVersion: 2
+        x: 5406
+        y: 1696
+        width: 901
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2218512307ee12f0800000000000000
+      internalID: -1000108066599333333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grelian_Intro_16
+      rect:
+        serializedVersion: 2
+        x: 6307
+        y: 1696
+        width: 901
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9c0b34b6417e470800000000000000
+      internalID: 8423724078949517734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

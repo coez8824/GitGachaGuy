@@ -13,13 +13,32 @@ public class GachaList : MonoBehaviour
     public GachaCharacter slot2;
     public GachaCharacter slot3;
 
-    [SerializeField] public GameObject nosfieDracul;    //Adding all character prefabs for menus
+    [SerializeField] public GameObject nosfieDracul;    //Adding all character prefabs and splash assets for menus
+    [SerializeField] public Sprite nosfieSplash;
+    [SerializeField] public RuntimeAnimatorController nosfieAnim;
+
     [SerializeField] public GameObject maFaker;
+    [SerializeField] public Sprite maSplash;
+    [SerializeField] public RuntimeAnimatorController maAnim;
+
     [SerializeField] public GameObject aliceStudos;
+    [SerializeField] public Sprite aliceSplash;
+    [SerializeField] public RuntimeAnimatorController aliceAnim;
+
     [SerializeField] public GameObject fluorideSuninwind;
+    [SerializeField] public Sprite fluSplash;
+    [SerializeField] public RuntimeAnimatorController fluAnim;
+
     [SerializeField] public GameObject pennyPoe;
+    [SerializeField] public Sprite pennySplash;
+    [SerializeField] public RuntimeAnimatorController pennyAnim;
+
     [SerializeField] public GameObject grelian;
+    [SerializeField] public Sprite grelSplash;
+    [SerializeField] public RuntimeAnimatorController grelAnim;
+
     [SerializeField] public GameObject empty;
+    [SerializeField] public Sprite emptySprite;
 
     void Awake()
     {
@@ -29,13 +48,13 @@ public class GachaList : MonoBehaviour
 
     void buildGachaList()   //method to build listChar and assign slots to empty char
     {
-        listChar.Add(new GachaCharacter(0, "Empty", "...", 0, empty));  //empty char
-        listChar.Add(new GachaCharacter(1, "Nosfie Dracul", "Health Steal", 10, nosfieDracul));
-        listChar.Add(new GachaCharacter(2, "Ma Faker", "Income", 10, maFaker));
-        listChar.Add(new GachaCharacter(3, "Alice Studos", "Aggro Buff", 10, aliceStudos));
-        listChar.Add(new GachaCharacter(4, "Fluoride Suninwind", "Pre-Heal", 10, fluorideSuninwind));
-        listChar.Add(new GachaCharacter(5, "Penny Poe", "Thorns", 10, pennyPoe));
-        listChar.Add(new GachaCharacter(6, "Grelian", "Sheild Buff", 10, grelian));
+        listChar.Add(new GachaCharacter(0, "Empty", "...", 0, empty, emptySprite, null));  //empty char
+        listChar.Add(new GachaCharacter(1, "Nosfie Dracul", "Health Steal", 10, nosfieDracul, nosfieSplash, nosfieAnim));
+        listChar.Add(new GachaCharacter(2, "Ma Faker", "Income", 10, maFaker, maSplash, maAnim));
+        listChar.Add(new GachaCharacter(3, "Alice Studos", "Aggro Buff", 10, aliceStudos, aliceSplash, aliceAnim));
+        listChar.Add(new GachaCharacter(4, "Fluoride Suninwind", "Pre-Heal", 10, fluorideSuninwind, fluSplash, fluAnim));
+        listChar.Add(new GachaCharacter(5, "Penny Poe", "Thorns", 10, pennyPoe, pennySplash, pennyAnim));
+        listChar.Add(new GachaCharacter(6, "Grelian", "Sheild Buff", 10, grelian, grelSplash, grelAnim));
 
         slot1 = listChar[0];    //assigning slots to empty char
         slot2 = listChar[0];

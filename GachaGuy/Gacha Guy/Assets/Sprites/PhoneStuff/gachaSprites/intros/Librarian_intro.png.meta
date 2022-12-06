@@ -1,0 +1,540 @@
+fileFormatVersion: 2
+guid: 1c2fa2e82db19fd4ea13b39f273efb31
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3820315670250565153
+    second: Librarian_intro_0
+  - first:
+      213: -6153285942020732667
+    second: Librarian_intro_1
+  - first:
+      213: 1060719796207348792
+    second: Librarian_intro_2
+  - first:
+      213: -9083126002916891314
+    second: Librarian_intro_3
+  - first:
+      213: 3163958740553085428
+    second: Librarian_intro_4
+  - first:
+      213: -5065817134708383860
+    second: Librarian_intro_5
+  - first:
+      213: 3779294281969487188
+    second: Librarian_intro_6
+  - first:
+      213: -260592250215521510
+    second: Librarian_intro_7
+  - first:
+      213: -5536630058045207641
+    second: Librarian_intro_8
+  - first:
+      213: 393496952780134542
+    second: Librarian_intro_9
+  - first:
+      213: 7483964690044377974
+    second: Librarian_intro_10
+  - first:
+      213: -8665143930519294437
+    second: Librarian_intro_11
+  - first:
+      213: -4001780366336836771
+    second: Librarian_intro_12
+  - first:
+      213: 613229365106553761
+    second: Librarian_intro_13
+  - first:
+      213: -6855942179370134136
+    second: Librarian_intro_14
+  - first:
+      213: -2775816532256370658
+    second: Librarian_intro_15
+  - first:
+      213: 2672029000125875167
+    second: Librarian_intro_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Librarian_intro_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2896
+        width: 901
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ea4277cdc740530800000000000000
+      internalID: 3820315670250565153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarian_intro_1
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 2896
+        width: 901
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509037889032b9aa0800000000000000
+      internalID: -6153285942020732667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarian_intro_2
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 2896
+        width: 901
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ce923e80f68be00800000000000000
+      internalID: 1060719796207348792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarian_intro_3
+      rect:
+        serializedVersion: 2
+        x: 2703
+        y: 2896
+        width: 901
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45660a560142f180800000000000000
+      internalID: -9083126002916891314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarian_intro_4
+      rect:
+        serializedVersion: 2
+        x: 3604
+        y: 2896
+        width: 901
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1b8ae06b3a8eb20800000000000000
+      internalID: 3163958740553085428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarian_intro_5
+      rect:
+        serializedVersion: 2
+        x: 4505
+        y: 2896
+        width: 901
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f9e94e72a92b9b0800000000000000
+      internalID: -5065817134708383860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarian_intro_6
+      rect:
+        serializedVersion: 2
+        x: 5406
+        y: 2896
+        width: 901
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45dc47a3020c27430800000000000000
+      internalID: 3779294281969487188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarian_intro_7
+      rect:
+        serializedVersion: 2
+        x: 6307
+        y: 2896
+        width: 901
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a132fa6aab0326cf0800000000000000
+      internalID: -260592250215521510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarian_intro_8
+      rect:
+        serializedVersion: 2
+        x: 7208
+        y: 2896
+        width: 901
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab0779eb40f923b0800000000000000
+      internalID: -5536630058045207641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarian_intro_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1696
+        width: 901
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8898aac46bf57500800000000000000
+      internalID: 393496952780134542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarian_intro_10
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1696
+        width: 901
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b59addb326cd760800000000000000
+      internalID: 7483964690044377974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarian_intro_11
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 1696
+        width: 901
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ee3cd41893fb780800000000000000
+      internalID: -8665143930519294437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarian_intro_12
+      rect:
+        serializedVersion: 2
+        x: 2703
+        y: 1696
+        width: 901
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b3c5b85f1d678c0800000000000000
+      internalID: -4001780366336836771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarian_intro_13
+      rect:
+        serializedVersion: 2
+        x: 3604
+        y: 1696
+        width: 901
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3b309cbd0a28800800000000000000
+      internalID: 613229365106553761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarian_intro_14
+      rect:
+        serializedVersion: 2
+        x: 4505
+        y: 1696
+        width: 901
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885960689eccad0a0800000000000000
+      internalID: -6855942179370134136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarian_intro_15
+      rect:
+        serializedVersion: 2
+        x: 5406
+        y: 1696
+        width: 901
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10d33122915a79d0800000000000000
+      internalID: -2775816532256370658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarian_intro_16
+      rect:
+        serializedVersion: 2
+        x: 6307
+        y: 1696
+        width: 901
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd38b06f734f41520800000000000000
+      internalID: 2672029000125875167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

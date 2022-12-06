@@ -23,6 +23,7 @@ public class PhoneHandler : MonoBehaviour
     [SerializeField] public GameObject selectButton3;
     [SerializeField] public GameObject selectSlot1;     //Gameobjects of char buttons
     [SerializeField] public GameObject enemSlider;
+    [SerializeField] public GameObject introSlot;
     public TMP_Text slot1Level;
     [SerializeField] public GameObject selectSlot2;
     public TMP_Text slot2Level;
@@ -131,10 +132,20 @@ public class PhoneHandler : MonoBehaviour
     {
         disableMainMenu();
         GachaCharacter chosenChar = lh.roll();
-        GameObject temp = Instantiate(chosenChar.charObj, lootbox.transform);
         levelText.SetActive(true);
-        yield return new WaitForSeconds(3f);
-        temp.SetActive(false);
+        if (chosenChar.splashAnim)
+        {
+            introSlot.GetComponent<SpriteRenderer>().sprite = chosenChar.splashArt;
+            introSlot.GetComponent<Animator>().runtimeAnimatorController = chosenChar.splashAnim;
+            introSlot.SetActive(true);
+            yield return new WaitForSeconds(3f);
+            introSlot.SetActive(false);
+        }
+        else
+        {
+            GameObject temp = Instantiate(chosenChar.charObj, lootbox.transform);
+            yield return new WaitForSeconds(3f);
+        }
         levelText.SetActive(false);
         enableMainMenu();
     }
