@@ -10,7 +10,7 @@ public class Spawner : MonoBehaviour
     private GameManager gm;
     //-
 
-    public GameObject Enemy1, Boomba, Gunba, Sawba, Aciba, point1, point2, point3;
+    public GameObject Enemy1, Enemy2, Enemy3, IceShooter, Boomba, Gunba, Sawba, Aciba, point1, point2, point3;
     Vector3 location;
 
     private float enemyInterval = 5f;
@@ -113,16 +113,20 @@ public class Spawner : MonoBehaviour
 
         if(gm.dangerLevel < 500)
         {
+            i = 3;
+            enemyInterval = 5;
             i = 2;
+            enemyInterval = 3;
+        }
+        else if (gm.dangerLevel >= 500)
+        {
+            i = 5;
             enemyInterval = 3;
         }
         else if (gm.dangerLevel >= 1000)
         {
-            i = 5;
+            i = 8;
             enemyInterval = 1;
-        }
-        else if (gm.dangerLevel >= 500)
-        {
             i = 3;
             enemyInterval = 2;
         }
@@ -138,9 +142,15 @@ public class Spawner : MonoBehaviour
         else if (j == 2)
             StartCoroutine(spawnEnemy(enemyInterval, Gunba));
         else if (j == 3)
-            StartCoroutine(spawnEnemy(enemyInterval, Boomba));
+            StartCoroutine(spawnEnemy(enemyInterval, Enemy2));
         else if (j == 4)
+            StartCoroutine(spawnEnemy(enemyInterval, Boomba));
+        else if (j == 5)
+            StartCoroutine(spawnEnemy(enemyInterval, Enemy3));
+        else if (j == 6)
             StartCoroutine(spawnEnemy(enemyInterval, Aciba));
+        else if (j == 7)
+            StartCoroutine(spawnEnemy(enemyInterval, IceShooter));
     }
 
     IEnumerator off()

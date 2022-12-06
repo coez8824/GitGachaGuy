@@ -12,14 +12,18 @@ public class GachaCharacter
     public float upperRarity;
     public int level = 0;       //current level of character (changes)
     public GameObject charObj;      //Prefab of character sprite
+    public Sprite splashArt;
+    public RuntimeAnimatorController splashAnim;
 
-    public GachaCharacter(int charID, string charName, string passiveAbility, float charRarity, GameObject itsme)
+    public GachaCharacter(int charID, string charName, string passiveAbility, float charRarity, GameObject itsme, Sprite splash, RuntimeAnimatorController anim)
     {
         id = charID;        //Constructor
         name = charName;
         passive = passiveAbility;
         rarity = charRarity;
         charObj = itsme;
+        splashArt = splash;
+        splashAnim = anim;
     }
 
     public GachaCharacter(GachaCharacter character)
@@ -29,6 +33,8 @@ public class GachaCharacter
         passive = character.passive;
         rarity = character.rarity;
         charObj = character.charObj;
+        splashArt = character.splashArt;
+        splashAnim = character.splashAnim;
     }
 
     public void setLowerRarity(float newRarity)

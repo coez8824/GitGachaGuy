@@ -6,6 +6,9 @@ public class spriteSlider : MonoBehaviour
 {
     public PhoneHandler phn;
     public GachaList ls;
+    public PlayerStats ps;
+    public GameObject aggroSlider;
+    public Vector3 aggroStart;
 
     public Vector3 charLoc1;
     public Vector3 charLoc2;
@@ -36,6 +39,7 @@ public class spriteSlider : MonoBehaviour
         charLoc2 = phn.charSlot2.transform.position;
         charLoc3 = phn.charSlot3.transform.position;
         enemLoc = phn.enemySlot.transform.position;
+        aggroStart = aggroSlider.transform.position;
     }
 
     void Update()
@@ -126,6 +130,15 @@ public class spriteSlider : MonoBehaviour
                 time3 = 0.0f;
                 whack3 = true;
             }
+        }
+
+        if (ps.aggro <= 100)
+        {
+            float tempNum = (0.368f * ps.aggro);
+            Vector3 tempVec = aggroSlider.transform.position;
+
+            tempVec.x = aggroStart.x - tempNum;
+            aggroSlider.transform.position = tempVec;
         }
     }
 }
