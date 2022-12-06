@@ -245,8 +245,11 @@ MonoBehaviour:
   AIPathScript: {fileID: -7059186100625522864}
   SuperDeathLaser: 0
   SuperDeathLaserFiring: 0
-  actualDeathLaser: {fileID: 2532808850982536228, guid: 431298b0cf0b9b547ae7c7d930a84ecf, type: 3}
+  actualDeathLaser: {fileID: 5377050855621184557, guid: cfc57de6d38c5c644b0f2836eb33db8e, type: 3}
   bossShooter: {fileID: 8692654817093631809}
+  moveX: 0
+  moveY: 0
+  stomping: 0
 --- !u!95 &4688640357967673825
 Animator:
   serializedVersion: 3
@@ -318,6 +321,7 @@ MonoBehaviour:
   Boss1Script: {fileID: 1608144398178472814}
   rb: {fileID: 5800336810204897712}
   boss: {fileID: 656476589332876436}
+  angle: 0
 --- !u!50 &5800336810204897712
 Rigidbody2D:
   serializedVersion: 4
@@ -412,7 +416,7 @@ SpriteRenderer:
   m_SortingLayer: 5
   m_SortingOrder: 0
   m_Sprite: {fileID: -2413806693520163455, guid: ebe73ca9363db456bacf42c025bb4847, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.33962262, g: 0.33962262, b: 0.33962262, a: 0.7254902}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0

@@ -5,9 +5,11 @@ using UnityEngine;
 public class DeathLaserScript : MonoBehaviour
 {
     private GameManager gm;
+    public ShakeBehavior sb;
     // Start is called before the first frame update
     void Start()
     {
+        sb = FindObjectOfType<ShakeBehavior>();
         gm = FindObjectOfType<GameManager>();
         StartCoroutine(StopLasering());
     }
@@ -15,7 +17,7 @@ public class DeathLaserScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        sb.TriggerShake();
     }
 
     IEnumerator StopLasering()

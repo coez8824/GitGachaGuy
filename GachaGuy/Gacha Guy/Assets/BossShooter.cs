@@ -19,6 +19,7 @@ public class BossShooter : MonoBehaviour
     public Boss1Script Boss1Script;
     public Rigidbody2D rb;
     public GameObject boss;
+    public float angle;
     //public Collision col;
     void Start()
     {
@@ -31,7 +32,7 @@ public class BossShooter : MonoBehaviour
     {
 
         yield return new WaitForSeconds(interval);
-        if ((target.position.x - transform.position.x) <= range && (target.position.y - transform.position.y) <= range && (target.position.x - transform.position.x) >= -range && (target.position.y - transform.position.y) >= -range && Boss1Script.health > 0 && Boss1Script.SuperDeathLaserFiring == false)
+        if ((target.position.x - transform.position.x) <= range && (target.position.y - transform.position.y) <= range && (target.position.x - transform.position.x) >= -range && (target.position.y - transform.position.y) >= -range && Boss1Script.health > 0 && Boss1Script.SuperDeathLaserFiring == false && Boss1Script.stomping == false)
         {
             //bang.Play();
             spawnedProjectile = Instantiate(projectilePrefab, this.gameObject.transform.position, this.gameObject.transform.rotation);
@@ -49,8 +50,8 @@ public class BossShooter : MonoBehaviour
     void Update()
     {
         Vector3 direction = target.position - transform.position;
-        float angle = Mathf.Atan2(direction.y, direction.x)*Mathf.Rad2Deg;
-        rb.rotation = angle + 90;
+        angle = Mathf.Atan2(direction.y, direction.x)*Mathf.Rad2Deg;
+        rb.rotation = angle + 270;
         rb.position = boss.transform.position;
         fire(interval);
         testX = target.position.x - transform.position.x;

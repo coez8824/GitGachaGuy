@@ -1,7 +1,235 @@
 fileFormatVersion: 2
 guid: 47806865f04939343acdda1a69f2bc5a
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -1381058832633676730
+    second: War Strider Drop Set_107x199_0
+  - first:
+      213: -250478393780759477
+    second: War Strider Drop Set_107x199_1
+  - first:
+      213: 5741168328393293639
+    second: War Strider Drop Set_107x199_2
+  - first:
+      213: -1527231755346790076
+    second: War Strider Drop Set_107x199_3
+  - first:
+      213: 8492539019459867982
+    second: War Strider Drop Set_107x199_4
+  - first:
+      213: 1149603006571190808
+    second: War Strider Drop Set_107x199_5
+  - first:
+      213: 3701245242743119914
+    second: War Strider Drop Set_107x199_6
+  - first:
+      213: -7479095662234593114
+    second: War Strider Drop Set_107x199_7
+  - first:
+      213: -8752625964006847415
+    second: War Strider Drop Set_107x199_8
+  - first:
+      213: -8826332856004569972
+    second: War Strider Drop Set_107x199_9
+  - first:
+      213: 4966205612233876047
+    second: War Strider Drop Set_107x199_10
+  - first:
+      213: 1774801905672084360
+    second: War Strider Drop Set_107x199_11
+  - first:
+      213: -2392702735583142967
+    second: War Strider Drop Set_107x199_12
+  - first:
+      213: 8203916114528537732
+    second: War Strider Drop Set_107x199_13
+  - first:
+      213: 9015625132902159135
+    second: War Strider Drop Set_107x199_14
+  - first:
+      213: 4625608350053329321
+    second: War Strider Drop Set_107x199_15
+  - first:
+      213: -3451465217509292652
+    second: War Strider Drop Set_107x199_16
+  - first:
+      213: -5848850142203889973
+    second: War Strider Drop Set_107x199_17
+  - first:
+      213: 6998730697714169782
+    second: War Strider Drop Set_107x199_18
+  - first:
+      213: -1654461523286806976
+    second: War Strider Drop Set_107x199_19
+  - first:
+      213: -52031284497057191
+    second: War Strider Drop Set_107x199_20
+  - first:
+      213: 459010525206563891
+    second: War Strider Drop Set_107x199_21
+  - first:
+      213: 6620731908809697592
+    second: War Strider Drop Set_107x199_22
+  - first:
+      213: 6024677876416053057
+    second: War Strider Drop Set_107x199_23
+  - first:
+      213: -1066323607319312033
+    second: War Strider Drop Set_107x199_24
+  - first:
+      213: -45723011465048118
+    second: War Strider Drop Set_107x199_25
+  - first:
+      213: 530258181764289182
+    second: War Strider Drop Set_107x199_26
+  - first:
+      213: -4954622287650259746
+    second: War Strider Drop Set_107x199_27
+  - first:
+      213: -5764381598635369265
+    second: War Strider Drop Set_107x199_28
+  - first:
+      213: -2091048997067096437
+    second: War Strider Drop Set_107x199_29
+  - first:
+      213: 3803010324460826028
+    second: War Strider Drop Set_107x199_30
+  - first:
+      213: -3229135848428114901
+    second: War Strider Drop Set_107x199_31
+  - first:
+      213: -8162080528088974586
+    second: War Strider Drop Set_107x199_32
+  - first:
+      213: 6824312553266056395
+    second: War Strider Drop Set_107x199_33
+  - first:
+      213: -1877315205547538300
+    second: War Strider Drop Set_107x199_34
+  - first:
+      213: -8086890586665398858
+    second: War Strider Drop Set_107x199_35
+  - first:
+      213: -2174063100897939465
+    second: War Strider Drop Set_107x199_36
+  - first:
+      213: 1205706466780439650
+    second: War Strider Drop Set_107x199_37
+  - first:
+      213: 2992206743705526338
+    second: War Strider Drop Set_107x199_38
+  - first:
+      213: -4585844861348230316
+    second: War Strider Drop Set_107x199_39
+  - first:
+      213: 684351110524370187
+    second: War Strider Drop Set_107x199_40
+  - first:
+      213: -3076735470246765839
+    second: War Strider Drop Set_107x199_41
+  - first:
+      213: 6070347677491588025
+    second: War Strider Drop Set_107x199_42
+  - first:
+      213: -7859233582599938457
+    second: War Strider Drop Set_107x199_43
+  - first:
+      213: -295375862357481888
+    second: War Strider Drop Set_107x199_44
+  - first:
+      213: 1028549834318524541
+    second: War Strider Drop Set_107x199_45
+  - first:
+      213: -6159073040752765737
+    second: War Strider Drop Set_107x199_46
+  - first:
+      213: -3804257987112233071
+    second: War Strider Drop Set_107x199_47
+  - first:
+      213: -3682705538827328450
+    second: War Strider Drop Set_107x199_48
+  - first:
+      213: 1962129621616712405
+    second: War Strider Drop Set_107x199_49
+  - first:
+      213: 3786287801277552396
+    second: War Strider Drop Set_107x199_50
+  - first:
+      213: -1369497013593097673
+    second: War Strider Drop Set_107x199_51
+  - first:
+      213: -850445535462112967
+    second: War Strider Drop Set_107x199_52
+  - first:
+      213: 1553514688964443630
+    second: War Strider Drop Set_107x199_53
+  - first:
+      213: 1127105984182996135
+    second: War Strider Drop Set_107x199_54
+  - first:
+      213: -1688725611393570456
+    second: War Strider Drop Set_107x199_55
+  - first:
+      213: -7777711933751107630
+    second: War Strider Drop Set_107x199_56
+  - first:
+      213: 3247169835239564042
+    second: War Strider Drop Set_107x199_57
+  - first:
+      213: -5525600960915128319
+    second: War Strider Drop Set_107x199_58
+  - first:
+      213: 8207370261785845158
+    second: War Strider Drop Set_107x199_59
+  - first:
+      213: -189318069037887681
+    second: War Strider Drop Set_107x199_60
+  - first:
+      213: 3086783776753178009
+    second: War Strider Drop Set_107x199_61
+  - first:
+      213: -3456201263090503485
+    second: War Strider Drop Set_107x199_62
+  - first:
+      213: 1177241456483839023
+    second: War Strider Drop Set_107x199_63
+  - first:
+      213: 3987909986890861690
+    second: War Strider Drop Set_107x199_64
+  - first:
+      213: 427333933882595996
+    second: War Strider Drop Set_107x199_65
+  - first:
+      213: 565383741921522728
+    second: War Strider Drop Set_107x199_66
+  - first:
+      213: -1610014157263542047
+    second: War Strider Drop Set_107x199_67
+  - first:
+      213: -951001381847673131
+    second: War Strider Drop Set_107x199_68
+  - first:
+      213: -6875944226639679225
+    second: War Strider Drop Set_107x199_69
+  - first:
+      213: -9041262524772793058
+    second: War Strider Drop Set_107x199_70
+  - first:
+      213: -3640636221293084571
+    second: War Strider Drop Set_107x199_71
+  - first:
+      213: -5128500837346556391
+    second: War Strider Drop Set_107x199_72
+  - first:
+      213: -3481874308264341819
+    second: War Strider Drop Set_107x199_73
+  - first:
+      213: 4438017082092267972
+    second: War Strider Drop Set_107x199_74
+  - first:
+      213: 1527348430404820817
+    second: War Strider Drop Set_107x199_75
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -32,7 +260,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -41,12 +269,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -68,7 +296,19 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -77,7 +317,1603 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1592
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c34f21f4e75dce0800000000000000
+      internalID: -1381058832633676730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1592
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4499ca5a3f168cf0800000000000000
+      internalID: -250478393780759477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_2
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1592
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ffa993d2abcaf40800000000000000
+      internalID: 5741168328393293639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_3
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1592
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449bbd46fce2ecae0800000000000000
+      internalID: -1527231755346790076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_4
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1592
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45bc082e3f8bd570800000000000000
+      internalID: 8492539019459867982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_5
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1592
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a9567f7d534ff00800000000000000
+      internalID: 1149603006571190808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_6
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1592
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20ee4030f67d5330800000000000000
+      internalID: 3701245242743119914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_7
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1592
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a897530f1ae43890800000000000000
+      internalID: -7479095662234593114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_8
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1592
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cc2832f0d688680800000000000000
+      internalID: -8752625964006847415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1393
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c841d780801928580800000000000000
+      internalID: -8826332856004569972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_10
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1393
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4260c631b18be440800000000000000
+      internalID: 4966205612233876047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_11
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1393
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b554e0eec51a810800000000000000
+      internalID: 1774801905672084360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_12
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1393
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb16700a896bced0800000000000000
+      internalID: -2392702735583142967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_13
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1393
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c839d6d3a2ad170800000000000000
+      internalID: 8203916114528537732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_14
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1393
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1397b2aa4fed1d70800000000000000
+      internalID: 9015625132902159135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_15
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1393
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9620f6946713040800000000000000
+      internalID: 4625608350053329321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_16
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1393
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4950ebbdbaee910d0800000000000000
+      internalID: -3451465217509292652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_17
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1393
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6b171c8c5b4dea0800000000000000
+      internalID: -5848850142203889973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1194
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7ffdb1d7c702160800000000000000
+      internalID: 6998730697714169782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_19
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1194
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e20f1a20c2a09e0800000000000000
+      internalID: -1654461523286806976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_20
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1194
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a785a82d5274ff0800000000000000
+      internalID: -52031284497057191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_21
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1194
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c4a1704abbe5600800000000000000
+      internalID: 459010525206563891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_22
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1194
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83922b9c79091eb50800000000000000
+      internalID: 6620731908809697592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_23
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1194
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ffee5cb94fb9350800000000000000
+      internalID: 6024677876416053057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_24
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1194
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f598e1a2458a331f0800000000000000
+      internalID: -1066323607319312033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_25
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1194
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf809fc92f8d5ff0800000000000000
+      internalID: -45723011465048118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_26
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1194
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e921e43c10bdb5700800000000000000
+      internalID: 530258181764289182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 995
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc7f54b745ad3bb0800000000000000
+      internalID: -4954622287650259746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_28
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 995
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc5a8f1a7dc000b0800000000000000
+      internalID: -5764381598635369265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_29
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 995
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ef0e9140a1bf2e0800000000000000
+      internalID: -2091048997067096437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_30
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 995
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad61aaadb107c430800000000000000
+      internalID: 3803010324460826028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_31
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 995
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c66f6fd0ecf23d0800000000000000
+      internalID: -3229135848428114901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_32
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 995
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bbf1711077abe80800000000000000
+      internalID: -8162080528088974586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_33
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 995
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc89a54c14d4be50800000000000000
+      internalID: 6824312553266056395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_34
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 995
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48846e954cf62f5e0800000000000000
+      internalID: -1877315205547538300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_35
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 995
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bdcb5c8bd795cf80800000000000000
+      internalID: -8086890586665398858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 796
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffa1bfd02d24d1e0800000000000000
+      internalID: -2174063100897939465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_37
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 796
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264e6d7b4a78bb010800000000000000
+      internalID: 1205706466780439650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_38
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 796
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240a8151e24768920800000000000000
+      internalID: 2992206743705526338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_39
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 796
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45bc94c356ecb50c0800000000000000
+      internalID: -4585844861348230316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_40
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 796
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0df27c85bd4f7900800000000000000
+      internalID: 684351110524370187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_41
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 796
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fad81c146d3d45d0800000000000000
+      internalID: -3076735470246765839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_42
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 796
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbe004fc053e3450800000000000000
+      internalID: 6070347677491588025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_43
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 796
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e5f4652b46ee290800000000000000
+      internalID: -7859233582599938457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_44
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 796
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06625f8d73d96ebf0800000000000000
+      internalID: -295375862357481888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 597
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70b754ff94264e00800000000000000
+      internalID: 1028549834318524541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_46
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 597
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d41f3c93b3968aa0800000000000000
+      internalID: -6159073040752765737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_47
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 597
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1979b3c348f843bc0800000000000000
+      internalID: -3804257987112233071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_48
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 597
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3465d103d664ecc0800000000000000
+      internalID: -3682705538827328450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_49
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 597
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da5cbbbe72ea3b10800000000000000
+      internalID: 1962129621616712405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_50
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 597
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c071b84d1b89b8430800000000000000
+      internalID: 3786287801277552396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_51
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 597
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a33d7d8b19efce0800000000000000
+      internalID: -1369497013593097673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_52
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 597
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931c6f59a4c9234f0800000000000000
+      internalID: -850445535462112967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_53
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 597
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedb315f0613f8510800000000000000
+      internalID: 1553514688964443630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 398
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acc173cbe844af00800000000000000
+      internalID: 1127105984182996135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_55
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 398
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86928c1f0017098e0800000000000000
+      internalID: -1688725611393570456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_56
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 398
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfd27f4434001490800000000000000
+      internalID: -7777711933751107630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_57
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 398
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0361dac2c3401d20800000000000000
+      internalID: 3247169835239564042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_58
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 398
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100c812b33f1153b0800000000000000
+      internalID: -5525600960915128319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_59
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 398
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad99d1c4cf66e170800000000000000
+      internalID: 8207370261785845158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_60
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 398
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f0f6128386f5df0800000000000000
+      internalID: -189318069037887681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_61
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 398
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995dfcf8d7576da20800000000000000
+      internalID: 3086783776753178009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_62
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 398
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0fb31534b1900d0800000000000000
+      internalID: -3456201263090503485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 199
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c259c0ed6665010800000000000000
+      internalID: 1177241456483839023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_64
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 199
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cccd41107e75730800000000000000
+      internalID: 3987909986890861690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_65
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 199
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ada81e2f13ee500800000000000000
+      internalID: 427333933882595996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_66
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 199
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824730b8485a8d700800000000000000
+      internalID: 565383741921522728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_67
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 199
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8e4f877a418a9e0800000000000000
+      internalID: -1610014157263542047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_68
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 199
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d65016284d5dc2f0800000000000000
+      internalID: -951001381847673131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_69
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 199
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7017ebbf72db390a0800000000000000
+      internalID: -6875944226639679225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_70
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 199
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15cdd9e2abf68280800000000000000
+      internalID: -9041262524772793058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_71
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 199
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560c76945acd97dc0800000000000000
+      internalID: -3640636221293084571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9164aaf09a7e3d8b0800000000000000
+      internalID: -5128500837346556391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_73
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 0
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce485fa3c5edafc0800000000000000
+      internalID: -3481874308264341819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_74
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 0
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9a935c501079d30800000000000000
+      internalID: 4438017082092267972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Strider Drop Set_107x199_75
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 107
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f97822e4b323510800000000000000
+      internalID: 1527348430404820817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
