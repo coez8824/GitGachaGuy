@@ -1,6 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
-using UnityEditor.ShaderGraph.Internal;
+//using UnityEditor.ShaderGraph.Internal;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -8,7 +8,10 @@ public class SceneChange : MonoBehaviour
 {
     public string sceneName;
 
+    public Scene sceneToGoTo;
+
     public GameObject player;
+    public GameObject playerMove;
     public GameObject i;
 
     public float x;
@@ -23,19 +26,35 @@ public class SceneChange : MonoBehaviour
 
     public RoomManager rm;
 
+    public GameObject a;
+    public bool b;
+
+    public GameObject roomTXT;
+
     void Start()
     {
-        player = GameObject.FindWithTag("Player");
+        roomTXT = GameObject.Find("RoomNumText");
+
+        player = GameObject.FindWithTag("Collection");
+        playerMove = GameObject.FindWithTag("Player");
         i = GameObject.FindWithTag("Important");
         rm = GameObject.FindWithTag("RoomManager").GetComponent<RoomManager>();
         DontDestroyOnLoad(i);
+
+        door = doorPickup.GetComponent<Pickup>().door;
     }
 
-    private void OnCollisionEnter2D(Collision2D collision)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.tag == "Player")
         {
-            if (leave)
+            if(b)
+            {
+                
+                SceneManager.LoadScene(sceneName);
+                player.transform.position = a.transform.position;
+            }
+            else if (leave)
                 change();
             else
             {
@@ -54,8 +73,17 @@ public class SceneChange : MonoBehaviour
 
     public void change()
     {
+        //y += 5;
+        playerMove.transform.position = new Vector3(x, y, 0);
+
+        if(sceneName != "BossRoom")
+        {
+            roomTXT.SetActive(true);
+        }
         
+
         SceneManager.LoadScene(sceneName);
-        player.transform.position = new Vector3(x, y, 0);
+        //playerMove.transform.position = new Vector3(0, 0, 0);
+        //player.transform.position = new Vector3(x, y, 0);
     }
 }

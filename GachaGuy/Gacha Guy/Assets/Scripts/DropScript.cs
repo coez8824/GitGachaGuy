@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using static UnityEditor.FilePathAttribute;
+//using static UnityEditor.FilePathAttribute;
 
 public class DropScript : MonoBehaviour
 {
@@ -19,7 +19,7 @@ public class DropScript : MonoBehaviour
     {
         Debug.Log("AAAAAAAAA");
 
-        int i = Random.Range(0, 15);
+        int i = Random.Range(0, 8);
 
         switch (i)
         {

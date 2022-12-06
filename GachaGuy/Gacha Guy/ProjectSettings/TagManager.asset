@@ -24,6 +24,8 @@ TagManager:
   - ExitC
   - ExitD
   - RoomManager
+  - Collection
+  - Spawner
   layers:
   - Default
   - TransparentFX

@@ -114,7 +114,7 @@ public class Spawner : MonoBehaviour
         if(gm.dangerLevel < 500)
         {
             i = 2;
-            enemyInterval = 5;
+            enemyInterval = 3;
         }
         else if (gm.dangerLevel >= 1000)
         {
@@ -124,7 +124,7 @@ public class Spawner : MonoBehaviour
         else if (gm.dangerLevel >= 500)
         {
             i = 3;
-            enemyInterval = 3;
+            enemyInterval = 2;
         }
 
         int j = Random.Range(0, i);

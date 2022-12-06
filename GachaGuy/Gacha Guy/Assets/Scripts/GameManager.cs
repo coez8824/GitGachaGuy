@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Security.Cryptography;
-using UnityEditorInternal;
+//using UnityEditorInternal;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.XR;
@@ -20,6 +20,9 @@ public class GameManager : MonoBehaviour
 
     public Text clpTXT;
 
+    public Text statsText;
+    private int damage;
+
     private bool recharging;
 
     public int dangerLevel;
@@ -31,9 +34,19 @@ public class GameManager : MonoBehaviour
 
     public int scalingPrice;
 
+    public int roomNum;
+
+    public bool dead;
+    //public GameObject phoneBlocker;
+    public GameObject spawner;
+    public LineRenderer lr;
+    public AudioSource music;
+    public GameObject loseTXT;
+
     // Start is called before the first frame update
     void Start()
     {
+        spawner = GameObject.FindWithTag("Spawner");
      //   testDEF();
     }
 
@@ -54,7 +67,7 @@ public class GameManager : MonoBehaviour
         ps.currHTH = ps.getHTH();
         ps.currSHD = ps.getSHD();
         ps.WAL = 999;
-        ps.AMM = 40;
+        ps.AMM = 999;
 
         ps.aggro = 0;
         ps.aggroBonus = 0;
@@ -77,8 +90,19 @@ public class GameManager : MonoBehaviour
 
         if(ps.currHTH <= 0)
         {
-            Destroy(GameObject.Find("Important"));
-            SceneManager.LoadScene("GameOver");
+            //Destroy(GameObject.Find("Important"));
+            //SceneManager.LoadScene("GameOver");
+            dead = true;
+            
+
+            if(spawner != null)
+            {
+                spawner.SetActive(false);
+            }
+
+            lr.enabled = false;
+            music.enabled = false;
+            loseTXT.SetActive(true);
         }
 
         /*if(recharging)
@@ -107,6 +131,19 @@ public class GameManager : MonoBehaviour
             moneyCount.text = "$" + ps.WAL.ToString();
         else
             moneyCount.text = "BROKE";
+
+        damage = ps.PAM + gs.DAM;
+
+        statsText.text =
+            "DAM: " + damage + "\n" +
+            "RAT: " + gs.RAT + "\n" +
+            "SPD: " + ps.SPD + "\n" +
+            "HND: " + ps.HND + "\n" +
+            "ACC: " + gs.ACC + "\n" +
+            "LCK: " + ps.PAM + "\n" +
+            "RCH: " + ps.PAM + "\n" +
+            "AGG: " + ps.aggro
+            ;
     }
 
     public void playerDamaged(int i)

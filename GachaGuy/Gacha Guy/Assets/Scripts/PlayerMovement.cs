@@ -46,6 +46,10 @@ public class PlayerMovement : MonoBehaviour
     //Jacob's ice varible
     public bool ice;
 
+    public Texture2D cursorTexture;
+    public CursorMode cursorMode = CursorMode.Auto;
+    public Vector2 hotSpot = Vector2.zero;
+
     private void Start()
     {
         ice = false;
@@ -66,179 +70,209 @@ public class PlayerMovement : MonoBehaviour
 
     private void FixedUpdate()
     {
-
-        playerSpeed = gm.ps.SPD; //Player's speed = speed stat
-
-        //newpos = rb.position;
-        //movement = (newpos - oldpos);
-
-
-        //if (Vector2.Dot(rb.transform.forward, movement) < 0 )
-        //{
-        //    Debug.Log("back");
-        //}
-
-        if((!mouse)&&(!controller))
+        if(!gm.dead)
         {
-            if (movementJoystick.joystickVec.y != 0) //If move joystick is moved
+            playerSpeed = gm.ps.SPD; //Player's speed = speed stat
+
+            if (Input.GetKeyDown(KeyCode.M))
             {
-                rb.velocity = new Vector2(movementJoystick.joystickVec.x * playerSpeed, movementJoystick.joystickVec.y * playerSpeed);
-                pv.moving = true;
-            }
-            else
-            {
-                rb.velocity = Vector2.zero;
-                pv.moving = false;
+                mouse = !mouse;
             }
 
-            if (lookJoystick.joystickVec.magnitude > 0f) //If look joystick is moved
+            //newpos = rb.position;
+            //movement = (newpos - oldpos);
+
+
+            //if (Vector2.Dot(rb.transform.forward, movement) < 0 )
+            //{
+            //    Debug.Log("back");
+            //}
+
+            if ((!mouse) && (!controller))
             {
-                Vector3 currRotation = Vector3.right * lookJoystick.joystickVec.x + Vector3.up * lookJoystick.joystickVec.y;
-                Quaternion playerRotation = Quaternion.LookRotation(currRotation, Vector3.forward);
+                Cursor.SetCursor(null, Vector2.zero, cursorMode);
 
-                rb.SetRotation(playerRotation); //Rotate player
+                panelUI.SetActive(false);
 
-                if (gm.gs.canShoot) //Shoot gun
-                    gm.gs.shoot();
+                touchUI.SetActive(true);
+                otherTouchUI.SetActive(true);
+
+                if (movementJoystick.joystickVec.y != 0) //If move joystick is moved
+                {
+                    rb.velocity = new Vector2(movementJoystick.joystickVec.x * playerSpeed, movementJoystick.joystickVec.y * playerSpeed);
+                    pv.moving = true;
+                }
+                else
+                {
+                    rb.velocity = Vector2.zero;
+                    pv.moving = false;
+                }
+
+                if (lookJoystick.joystickVec.magnitude > 0f) //If look joystick is moved
+                {
+                    Vector3 currRotation = Vector3.right * lookJoystick.joystickVec.x + Vector3.up * lookJoystick.joystickVec.y;
+                    Quaternion playerRotation = Quaternion.LookRotation(currRotation, Vector3.forward);
+
+                    rb.SetRotation(playerRotation); //Rotate player
+
+                    if (gm.gs.canShoot) //Shoot gun
+                        gm.gs.shoot();
+                }
+            }
+            else if (!controller)
+            {
+                Cursor.SetCursor(cursorTexture, hotSpot, cursorMode);
+
+                panelUI.SetActive(true);
+
+                touchUI.SetActive(false);
+                otherTouchUI.SetActive(false);
+
+                if (Input.GetKeyDown(KeyCode.R))
+                {
+                    gm.gs.reload();
+                    colorReloads = true;
+                }
+
+                if (Input.GetKeyDown(KeyCode.T))
+                {
+                    gm.tossGun();
+                }
+
+                if (Input.GetKeyDown(KeyCode.G))
+                {
+                    gm.swapGun();
+                }
+
+                if (colorReloads)
+                {
+                    if (Input.GetKeyDown(KeyCode.Alpha1))
+                    {
+                        gm.gs.reloadRed();
+                        colorReloads = false;
+                    }
+                    if (Input.GetKeyDown(KeyCode.Alpha2))
+                    {
+                        gm.gs.reloadBlue();
+                        colorReloads = false;
+                    }
+                    if (Input.GetKeyDown(KeyCode.Alpha3))
+                    {
+                        gm.gs.reloadPink();
+                        colorReloads = false;
+                    }
+                }
+
+                move.x = Input.GetAxisRaw("Horizontal");
+                move.y = Input.GetAxisRaw("Vertical");
+
+                rb.velocity = new Vector2(move.x * playerSpeed, move.y * playerSpeed);
+
+                if (rb.velocity != Vector2.zero)
+                {
+                    pv.moving = true;
+                }
+                else
+                {
+                    pv.moving = false;
+                }
+
+                //Credit robertbu on Unity Answers for mouse look
+                Vector3 pos = c.WorldToScreenPoint(transform.position);
+                Vector3 dir = Input.mousePosition - pos;
+                float angle = Mathf.Atan2(dir.y, dir.x) * Mathf.Rad2Deg + 90;
+                transform.rotation = Quaternion.AngleAxis(angle, Vector3.forward);
+
+                if (Input.GetMouseButton(0))
+                    if ((gm.gs.canShoot) && (mouseInCam)) //Shoot gun
+                        gm.gs.shoot();
+            }
+            else if (controller)
+            {
+                touchUI.SetActive(false);
+                otherTouchUI.SetActive(false);
+
+                if (Input.GetButton("Jump"))
+                {
+                    gm.gs.reload();
+                    colorReloads = true;
+                }
+
+                if (Input.GetButton("Debug Previous"))
+                {
+                    Debug.Log("Controller Toss");
+                    gm.tossGun();
+                }
+
+                if (Input.GetButton("Debug Next"))
+                {
+                    Debug.Log("Controller Swap");
+                    gm.swapGun();
+                }
+
+                if (colorReloads)
+                {
+                    if (Input.GetButton("Fire3"))
+                    {
+                        gm.gs.reloadRed();
+                        colorReloads = false;
+                    }
+                    if (Input.GetButton("Fire2"))
+                    {
+                        gm.gs.reloadBlue();
+                        colorReloads = false;
+                    }
+                    if (Input.GetButton("Fire1"))
+                    {
+                        gm.gs.reloadPink();
+                        colorReloads = false;
+                    }
+                }
+
+                //Debug.Log("c");
+                move.x = Input.GetAxisRaw("Horizontal");
+                move.y = Input.GetAxisRaw("Vertical");
+
+                rb.velocity = new Vector2(move.x * playerSpeed, move.y * playerSpeed);
+
+                if (rb.velocity != Vector2.zero)
+                {
+                    pv.moving = true;
+                }
+                else
+                {
+                    pv.moving = false;
+                }
+
+                rightstick = new Vector2(Input.GetAxis("R_Horizontal"), Input.GetAxis("R_Vertical"));
+
+                if (rightstick.magnitude >= 1f)
+                {
+                    //Debug.Log(rightstick.magnitude);
+                    Vector3 currRotation = Vector3.left * rightstick.x + Vector3.up * rightstick.y;
+                    Quaternion playerRotation = Quaternion.LookRotation(currRotation, Vector3.forward);
+
+                    rb.SetRotation(playerRotation);
+
+                    if (gm.gs.canShoot) //Shoot gun
+                        gm.gs.shoot();
+                }
             }
         }
-        else if(!controller)
+        else
         {
-            panelUI.SetActive(true);
+            Cursor.SetCursor(null, Vector2.zero, cursorMode);
+
+            panelUI.SetActive(false);
 
             touchUI.SetActive(false);
             otherTouchUI.SetActive(false);
+            pv.moving = false;
 
-            if(Input.GetKeyDown(KeyCode.R))
-            {
-                gm.gs.reload();
-                colorReloads = true;
-            }
-
-            if (Input.GetKeyDown(KeyCode.T))
-            {
-                gm.tossGun();
-            }
-
-            if (Input.GetKeyDown(KeyCode.G))
-            {
-                gm.swapGun();
-            }
-
-            if(colorReloads)
-            {
-                if (Input.GetKeyDown(KeyCode.Alpha1))
-                {
-                    gm.gs.reloadRed();
-                    colorReloads = false;
-                }
-                if (Input.GetKeyDown(KeyCode.Alpha2))
-                {
-                    gm.gs.reloadBlue();
-                    colorReloads = false;
-                }
-                if (Input.GetKeyDown(KeyCode.Alpha3))
-                {
-                    gm.gs.reloadPink();
-                    colorReloads = false;
-                }
-            }
-
-            move.x = Input.GetAxisRaw("Horizontal");
-            move.y = Input.GetAxisRaw("Vertical");
-
-            rb.velocity = new Vector2(move.x * playerSpeed, move.y * playerSpeed);
-
-            if(rb.velocity != Vector2.zero)
-            {
-                pv.moving = true;
-            }
-            else
-            {
-                pv.moving = false;
-            }
-
-            //Credit robertbu on Unity Answers for mouse look
-            Vector3 pos = c.WorldToScreenPoint(transform.position);
-            Vector3 dir = Input.mousePosition - pos;
-            float angle = Mathf.Atan2(dir.y, dir.x) * Mathf.Rad2Deg +90;
-            transform.rotation = Quaternion.AngleAxis(angle, Vector3.forward);
-
-            if (Input.GetMouseButton(0))
-                if ((gm.gs.canShoot)&&(mouseInCam)) //Shoot gun
-                    gm.gs.shoot();
+            rb.constraints = RigidbodyConstraints2D.FreezePosition;
         }
-        else if(controller)
-        {
-            touchUI.SetActive(false);
-            otherTouchUI.SetActive(false);
 
-            if (Input.GetButton("Jump"))
-            {
-                gm.gs.reload();
-                colorReloads = true;
-            }
-
-            if (Input.GetButton("Debug Previous"))
-            {
-                Debug.Log("Controller Toss");
-                gm.tossGun();
-            }
-
-            if (Input.GetButton("Debug Next"))
-            {
-                Debug.Log("Controller Swap");
-                gm.swapGun();
-            }
-
-            if (colorReloads)
-            {
-                if (Input.GetButton("Fire3"))
-                {
-                    gm.gs.reloadRed();
-                    colorReloads = false;
-                }
-                if (Input.GetButton("Fire2"))
-                {
-                    gm.gs.reloadBlue();
-                    colorReloads = false;
-                }
-                if (Input.GetButton("Fire1"))
-                {
-                    gm.gs.reloadPink();
-                    colorReloads = false;
-                }
-            }
-
-            //Debug.Log("c");
-            move.x = Input.GetAxisRaw("Horizontal");
-            move.y = Input.GetAxisRaw("Vertical");
-
-            rb.velocity = new Vector2(move.x * playerSpeed, move.y * playerSpeed);
-
-            if (rb.velocity != Vector2.zero)
-            {
-                pv.moving = true;
-            }
-            else
-            {
-                pv.moving = false;
-            }
-
-            rightstick = new Vector2(Input.GetAxis("R_Horizontal"), Input.GetAxis("R_Vertical"));
-
-            if (rightstick.magnitude >= 1f)
-            {
-                //Debug.Log(rightstick.magnitude);
-                Vector3 currRotation = Vector3.left * rightstick.x + Vector3.up * rightstick.y;
-                Quaternion playerRotation = Quaternion.LookRotation(currRotation, Vector3.forward);
-
-                rb.SetRotation(playerRotation);
-
-                if (gm.gs.canShoot) //Shoot gun
-                    gm.gs.shoot();
-            }
-        }
+        
     }
 
     //private void LateUpdate()

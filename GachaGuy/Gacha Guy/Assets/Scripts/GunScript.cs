@@ -21,13 +21,13 @@ public class GunScript : MonoBehaviour
 
     //GUN STATS - Gun stats are set to a gun and are not modified by any other method
     [SerializeField]
-    private int DAM; //Damage
+    public int DAM; //Damage
     [SerializeField]
-    private float RAT; //Fire rate
+    public float RAT; //Fire rate
     
     public int CLP; //Max ammo in clip
     [SerializeField]
-    private float ACC; //Gun accuracy
+    public float ACC; //Gun accuracy
 
     /*[SerializeField]
     private float shake; //How hard the recoil shake is*/ //Not actually sure if I want this
@@ -124,7 +124,7 @@ public class GunScript : MonoBehaviour
             Vector2 r = new Vector2(a, 0); //Turn deviation into Vector2
             Vector2 rayVec = -firePoint.up + (transform.rotation * new Vector3(r.x, r.y, 0)); //Apply deviation
 
-            RaycastHit2D hit = Physics2D.Raycast(firePoint.transform.position, rayVec, 10f); //Actual raycast
+            RaycastHit2D hit = Physics2D.Raycast(firePoint.transform.position, rayVec, 100f); //Actual raycast
 
             //drawTracer();
 
