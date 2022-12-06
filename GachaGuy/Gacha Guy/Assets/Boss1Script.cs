@@ -33,6 +33,7 @@ public class Boss1Script : MonoBehaviour
     //Vector3 laserMoveMaxX;
     //Vector3 laserMoveMaxY;
     public bool stomping;
+    public int randStomp;
     // Start is called before the first frame update
     void Start()
     {
@@ -42,7 +43,7 @@ public class Boss1Script : MonoBehaviour
         collide = GetComponent<Collider2D>();
         health = 100;
         target = GameObject.FindWithTag("Player").transform;
-        StartCoroutine(StompAttack());
+       
         stomping = false;
     }
 
@@ -50,6 +51,7 @@ public class Boss1Script : MonoBehaviour
     void Update()
     {
         SuperDeathLaser = Random.Range(0, 1000);
+        randStomp = Random.Range(0, 200);
         if (target != null && health > 0)
         {
             testX = target.position.x - transform.position.x;
@@ -68,7 +70,7 @@ public class Boss1Script : MonoBehaviour
                 bossAnimator.SetBool("isMoving", true);
             }
         }
-        if (SuperDeathLaser == key && SuperDeathLaserFiring == false && health > 0 && stomping == false)
+        if (SuperDeathLaser == key && SuperDeathLaserFiring == false && health > 0 && stomping == false && stomping == false)
         {
             Debug.Log("FIRE");
             StartCoroutine(FiringSuperDeathLaser());
@@ -81,6 +83,10 @@ public class Boss1Script : MonoBehaviour
         {
             bossAnimator.SetBool("hasFallen", true);
         }
+        if (testX <= range && testY <= range && testX >= -range && testY >= -range  && randStomp == 3 && SuperDeathLaserFiring == false && health > 0 && stomping == false)
+        {
+            StartCoroutine(StompAttack());
+        }
     }
 
     IEnumerator Stomp()
@@ -89,30 +95,13 @@ public class Boss1Script : MonoBehaviour
         yield return new WaitForSeconds(.1f);
         stomp.SetActive(false);
     }
-    public IEnumerator StompAttack()
+    IEnumerator StompAttack()
     {
-        if ((target.position.x - transform.position.x) <= range && (target.position.y - transform.position.y) <= range && (target.position.x - transform.position.x) >= -range && (target.position.y - transform.position.y) >= -range)
-        {
-            int randStomp = Random.Range(0, 20);
-            if(randStomp == 3 && SuperDeathLaserFiring == false && health > 0 && stomping == false)
-            {
-                stomping = true;
-                bossAnimator.SetBool("isStomping", true);
-                yield return new WaitForSeconds(.4f);
-                //StartCoroutine(Stomp());
-                bossAnimator.SetBool("isStomping", false);
-                stomping = false;
-                
-            }
-            else{
-                yield return new WaitForSeconds(1);
-            }
-        }
-        else
-        {
-            yield return new WaitForSeconds(1);
-        }
-        StartCoroutine(StompAttack());
+        stomping = true;
+        bossAnimator.SetBool("isStomping", true);
+        yield return new WaitForSeconds(2f);
+        bossAnimator.SetBool("isStomping", false);
+        stomping = false;
     }
 
     IEnumerator DelayedDeath()
@@ -129,7 +118,7 @@ public class Boss1Script : MonoBehaviour
             bossAnimator.SetFloat("MoveX", target.position.x - transform.position.x);
         }
 
-        yield return new WaitForSeconds(2f);//Delay for 1 seconds
+        yield return new WaitForSeconds(2f);//Delay for seconds
         //Destroy(gameObject);
 
     }
@@ -142,8 +131,8 @@ public class Boss1Script : MonoBehaviour
         bossAnimator.SetBool("isSetting", true);
         Quaternion fireRotation = bossShooter.gameObject.transform.rotation;
 
-        yield return new WaitForSeconds(2f);
-        spawnedLaser = Instantiate(actualDeathLaser, this.gameObject.transform.position, fireRotation);
+        yield return new WaitForSeconds(2.5f);
+        spawnedLaser = Instantiate(actualDeathLaser, bossShooter.gameObject.transform.position, fireRotation);
 
         StartCoroutine(FinishedFiringSuperDeathLaser());
 
