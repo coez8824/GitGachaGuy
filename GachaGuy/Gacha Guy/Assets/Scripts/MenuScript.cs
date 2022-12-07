@@ -13,6 +13,11 @@ public class MenuScript : MonoBehaviour
         SceneManager.LoadScene("Room1");
     }
 
+    public void quitGame()
+    {
+        Application.Quit();
+    }
+
     public void openControls()
     {
         notControls.SetActive(false);

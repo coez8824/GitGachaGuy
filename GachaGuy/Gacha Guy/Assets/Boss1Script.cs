@@ -6,8 +6,18 @@ using static UnityEngine.ParticleSystem;
 using Pathfinding;
 using System.Data;
 
+//Code quaratined with "//-" is code added by Zoom
 public class Boss1Script : MonoBehaviour
 {
+    //-
+    private GameManager gm;
+    private Color orig;
+    private SpriteRenderer sr;
+    public AudioSource ting;//firing sound
+    //public AudioSource ping;//death sound
+    public GameObject door;
+    //-
+
     public GameObject stomp;
     public GameObject spawnedLaser;
     private Transform target;
@@ -37,6 +47,12 @@ public class Boss1Script : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        //-
+        gm = FindObjectOfType<GameManager>();
+        sr = GetComponent<SpriteRenderer>();
+        orig = sr.color;
+        //-
+
         key = 69;
         SuperDeathLaserFiring = false;
         first = true;
@@ -118,6 +134,11 @@ public class Boss1Script : MonoBehaviour
             bossAnimator.SetFloat("MoveX", target.position.x - transform.position.x);
         }
 
+        //-
+        door.GetComponent<DoorScript>().open = true;
+        Destroy(door.GetComponent<Collider2D>());
+        //-
+
         yield return new WaitForSeconds(2f);//Delay for seconds
         //Destroy(gameObject);
 
@@ -144,4 +165,23 @@ public class Boss1Script : MonoBehaviour
             SuperDeathLaserFiring = false;
         }
     }
+
+    //-
+    //Credit webcam on Unity Answers for making enemies flash red when hit
+    public void playerShot(int i)
+    {
+
+
+        ting.Play();
+        health -= i;
+
+        sr.color = Color.red;
+        Invoke("ResetColor", .1f);
+    }
+
+    private void ResetColor()
+    {
+        sr.color = orig;
+    }
+    //-
 }

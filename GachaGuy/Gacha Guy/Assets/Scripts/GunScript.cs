@@ -163,6 +163,22 @@ public class GunScript : MonoBehaviour
                     //StartCoroutine(drawTracer(trail, firePoint.transform.position, hit.transform.position));
                     gm.ps.aggro++;
                 }
+                if (hit.transform.tag == "Boss1")
+                {
+                    hit.transform.GetComponent<Boss1Script>().playerShot(DAM + gm.ps.PAM + gm.ps.aggroBonus);
+                    if (gm.vampirismActive == true)
+                    {
+                        if (ps.currHTH + (1 * gm.vampirismLevel) <= ps.getHTH())
+                        {
+                            ps.currHTH += (1 * gm.vampirismLevel);
+                        }
+                        else
+                        {
+                            ps.currHTH = ps.getHTH();
+                        }
+                    }
+                    gm.ps.aggro++;
+                }
                 if (hit.transform.tag == "Boomba")
                 {
                     hit.transform.GetComponent<BoombaScript>().playerShot();

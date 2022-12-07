@@ -66,7 +66,7 @@ public class GameManager : MonoBehaviour
 
         ps.currHTH = ps.getHTH();
         ps.currSHD = ps.getSHD();
-        ps.WAL = 999;
+        ps.WAL = 100;
         ps.AMM = 999;
 
         ps.aggro = 0;
@@ -250,5 +250,11 @@ public class GameManager : MonoBehaviour
     public void vampirismOnKill()
     {
         ps.setHTH(ps.getHTH() + (1 * cl.listChar[1].level));
+    }
+
+    public void toMenu()
+    {
+        Destroy(GameObject.Find("Important"));
+        SceneManager.LoadScene("Menu");
     }
 }

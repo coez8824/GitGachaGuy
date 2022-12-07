@@ -74,9 +74,16 @@ public class SceneChange : MonoBehaviour
     public void change()
     {
         //y += 5;
+
+        //sceneName = "BossRoom"; //COMMENT/REMOVE AFTER TESTING
+        //x = -38;
+        //y = -12;
+
         playerMove.transform.position = new Vector3(x, y, 0);
 
-        if(sceneName != "BossRoom")
+        
+
+        if (sceneName != "BossRoom")
         {
             roomTXT.SetActive(true);
         }
