@@ -43,6 +43,8 @@ public class GameManager : MonoBehaviour
     public AudioSource music;
     public GameObject loseTXT;
 
+    //public GameObject statsButt;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -66,7 +68,7 @@ public class GameManager : MonoBehaviour
 
         ps.currHTH = ps.getHTH();
         ps.currSHD = ps.getSHD();
-        ps.WAL = 999;
+        ps.WAL = 100;
         ps.AMM = 999;
 
         ps.aggro = 0;
@@ -136,11 +138,11 @@ public class GameManager : MonoBehaviour
 
         statsText.text =
             "DAM: " + damage + "\n" +
-            "RAT: " + gs.RAT + "\n" +
+            "RAT:  " + gs.RAT + "\n" +
             "SPD: " + ps.SPD + "\n" +
             "HND: " + ps.HND + "\n" +
             "ACC: " + gs.ACC + "\n" +
-            "LCK: " + ps.PAM + "\n" +
+            "LCK:  " + ps.PAM + "\n" +
             "RCH: " + ps.PAM + "\n" +
             "AGG: " + ps.aggro
             ;
@@ -250,5 +252,23 @@ public class GameManager : MonoBehaviour
     public void vampirismOnKill()
     {
         ps.setHTH(ps.getHTH() + (1 * cl.listChar[1].level));
+    }
+
+    public void toMenu()
+    {
+        Destroy(GameObject.Find("Important"));
+        SceneManager.LoadScene("Menu");
+    }
+
+    public void statsButton()
+    {
+        if(statsText.IsActive())
+        {
+            statsText.enabled = false;
+        }
+        else
+        {
+            statsText.enabled = true;
+        }
     }
 }
