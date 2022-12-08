@@ -408,6 +408,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Boom
       objectReference: {fileID: 0}
+    - target: {fileID: 4817712543784085412, guid: 165a4cb4d9bec064284a39704fbc5462, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8761267651246204628, guid: 165a4cb4d9bec064284a39704fbc5462, type: 3}
       propertyPath: m_RootOrder
       value: 0

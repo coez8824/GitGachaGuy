@@ -32,8 +32,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 656476589332876436}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 8.1069, y: -1.63, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 0}
   m_Children:
   - {fileID: 5674383462544596121}
   - {fileID: 283403753104823593}
@@ -234,8 +234,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f2e1150b6a02b6940a1dff3c65394d5d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  fireRotation: {x: 0, y: 0, z: 0, w: 0}
+  ting: {fileID: 0}
+  door: {fileID: 0}
   stomp: {fileID: 7711764343825968483}
-  spawnedLaser: {fileID: 0}
   range: 5
   testX: 0
   testY: 0
@@ -245,7 +247,6 @@ MonoBehaviour:
   AIPathScript: {fileID: -7059186100625522864}
   SuperDeathLaser: 0
   SuperDeathLaserFiring: 0
-  actualDeathLaser: {fileID: 5377050855621184557, guid: cfc57de6d38c5c644b0f2836eb33db8e, type: 3}
   bossShooter: {fileID: 8692654817093631809}
   moveX: 0
   moveY: 0
@@ -296,8 +297,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2231157393762796435}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 0, y: 1.49, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 0}
   m_Children: []
   m_Father: {fileID: 8358851347336278533}
   m_RootOrder: 0
@@ -316,13 +317,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   projectilePrefab: {fileID: 4351893049233006214, guid: c657f820d07e02644abd5ecfc1112723, type: 3}
   range: 10
-  interval: 0.5
+  interval: 0.25
   testX: 0
   testY: 0
   Boss1Script: {fileID: 1608144398178472814}
   rb: {fileID: 5800336810204897712}
   boss: {fileID: 656476589332876436}
   angle: 0
+  boss1: {fileID: 1608144398178472814}
+  shootPoint: {fileID: 2231157393762796435}
+  actualDeathLaser: {fileID: 5377050855621184557, guid: cfc57de6d38c5c644b0f2836eb33db8e, type: 3}
 --- !u!50 &5800336810204897712
 Rigidbody2D:
   serializedVersion: 4

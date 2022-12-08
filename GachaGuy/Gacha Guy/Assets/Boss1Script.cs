@@ -9,6 +9,7 @@ using System.Data;
 //Code quaratined with "//-" is code added by Zoom
 public class Boss1Script : MonoBehaviour
 {
+   public Quaternion fireRotation;
     //-
     private GameManager gm;
     private Color orig;
@@ -19,7 +20,6 @@ public class Boss1Script : MonoBehaviour
     //-
 
     public GameObject stomp;
-    public GameObject spawnedLaser;
     private Transform target;
     public float range = 10f;
     public float testX;
@@ -32,7 +32,6 @@ public class Boss1Script : MonoBehaviour
     public float SuperDeathLaser;
     public bool SuperDeathLaserFiring;
     float key;
-    public GameObject actualDeathLaser;
     public BossShooter bossShooter;
     Vector3 laserMoveY;
     Vector3 laserMoveX;
@@ -150,21 +149,23 @@ public class Boss1Script : MonoBehaviour
         AIPathScript.canMove = false;
         SuperDeathLaserFiring = true;
         bossAnimator.SetBool("isSetting", true);
-        Quaternion fireRotation = bossShooter.gameObject.transform.rotation;
+        fireRotation = bossShooter.gameObject.transform.rotation;
 
-        yield return new WaitForSeconds(2.5f);
-        spawnedLaser = Instantiate(actualDeathLaser, bossShooter.gameObject.transform.position, fireRotation);
+        yield return new WaitForSeconds(3f);
+        bossShooter.SpawnLaser();
 
         StartCoroutine(FinishedFiringSuperDeathLaser());
-
-        IEnumerator FinishedFiringSuperDeathLaser()
-        {
-            yield return new WaitForSeconds(2f);
-            bossAnimator.SetBool("isSetting", false);
-            AIPathScript.canMove = true;
-            SuperDeathLaserFiring = false;
-        }
     }
+
+
+    IEnumerator FinishedFiringSuperDeathLaser()
+    {
+        yield return new WaitForSeconds(2f);
+        bossAnimator.SetBool("isSetting", false);
+        AIPathScript.canMove = true;
+        SuperDeathLaserFiring = false;
+    }
+
 
     //-
     //Credit webcam on Unity Answers for making enemies flash red when hit
