@@ -85,8 +85,9 @@ public class Boss1Script : MonoBehaviour
                 bossAnimator.SetBool("isMoving", true);
             }
         }
-        if (SuperDeathLaser == key && SuperDeathLaserFiring == false && health > 0 && stomping == false && stomping == false)
+        if (SuperDeathLaser == key && SuperDeathLaserFiring == false && health > 0 && stomping == false)
         {
+            SuperDeathLaserFiring = true;
             Debug.Log("FIRE");
             StartCoroutine(FiringSuperDeathLaser());
         }
@@ -100,19 +101,12 @@ public class Boss1Script : MonoBehaviour
         }
         if (testX <= range && testY <= range && testX >= -range && testY >= -range  && randStomp == 3 && SuperDeathLaserFiring == false && health > 0 && stomping == false)
         {
-            StartCoroutine(StompAttack());
+            stomping = true;
+            StartCoroutine(StompFrame());
         }
-    }
-
-    IEnumerator Stomp()
-    {
-        stomp.SetActive(true);
-        yield return new WaitForSeconds(.1f);
-        stomp.SetActive(false);
     }
     IEnumerator StompAttack()
     {
-        stomping = true;
         bossAnimator.SetBool("isStomping", true);
         yield return new WaitForSeconds(2f);
         bossAnimator.SetBool("isStomping", false);
@@ -147,7 +141,6 @@ public class Boss1Script : MonoBehaviour
     {
 
         AIPathScript.canMove = false;
-        SuperDeathLaserFiring = true;
         bossAnimator.SetBool("isSetting", true);
         fireRotation = bossShooter.gameObject.transform.rotation;
 
@@ -166,6 +159,12 @@ public class Boss1Script : MonoBehaviour
         SuperDeathLaserFiring = false;
     }
 
+    IEnumerator StompFrame()
+    {
+        yield return new WaitForEndOfFrame();
+        StartCoroutine(StompAttack());
+
+    }
 
     //-
     //Credit webcam on Unity Answers for making enemies flash red when hit
