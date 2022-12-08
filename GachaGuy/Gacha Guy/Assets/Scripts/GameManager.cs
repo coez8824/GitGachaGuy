@@ -49,6 +49,7 @@ public class GameManager : MonoBehaviour
     void Start()
     {
         spawner = GameObject.FindWithTag("Spawner");
+        StartCoroutine(aggroDecrease());
      //   testDEF();
     }
 
@@ -270,5 +271,15 @@ public class GameManager : MonoBehaviour
         {
             statsText.enabled = true;
         }
+    }
+
+    public IEnumerator aggroDecrease()
+    {
+        if (ps.aggro < 0) 
+        {
+            ps.aggro -= 1;
+        }
+        yield return new WaitForSeconds(1f);
+        StartCoroutine(aggroDecrease());
     }
 }

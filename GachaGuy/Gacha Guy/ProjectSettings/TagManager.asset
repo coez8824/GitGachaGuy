@@ -26,6 +26,7 @@ TagManager:
   - RoomManager
   - Collection
   - Spawner
+  - Jacub
   layers:
   - Default
   - TransparentFX

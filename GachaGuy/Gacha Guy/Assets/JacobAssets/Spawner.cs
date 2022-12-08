@@ -98,38 +98,22 @@ public class Spawner : MonoBehaviour
     {
         int i = 0;
 
-       /* if(enemyInterval <= 1)
+        if (gm.dangerLevel >= 1000)
         {
-            i = 4;
-        }
-        else if (enemyInterval <= 3)
-        {
-            i = 3;
-        }
-        else
-        {
-            i = 2;
-        } */
-
-        if(gm.dangerLevel < 500)
-        {
-            i = 3;
-            enemyInterval = 5;
-            i = 2;
-            enemyInterval = 3;
+            i = 8;
+            enemyInterval = 2;
         }
         else if (gm.dangerLevel >= 500)
         {
             i = 5;
             enemyInterval = 3;
         }
-        else if (gm.dangerLevel >= 1000)
+        else if(gm.dangerLevel < 500)
         {
-            i = 8;
-            enemyInterval = 1;
             i = 3;
-            enemyInterval = 2;
+            enemyInterval = 5;
         }
+
 
         int j = Random.Range(0, i);
 
@@ -153,12 +137,11 @@ public class Spawner : MonoBehaviour
             StartCoroutine(spawnEnemy(enemyInterval, IceShooter));
     }
 
-    IEnumerator off()
+    /*IEnumerator off()
     {
         yield return new WaitForSeconds(.5f);
         point1.SetActive(false);
         point2.SetActive(false);
         point3.SetActive(false);
-    }
-    //-
+    }*/
 }
