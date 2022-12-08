@@ -73,8 +73,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -884439023
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_Sprite: {fileID: -8471766767480163567, guid: ebbdd74876b53aa4d841e3b272c99e11, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -150,6 +150,7 @@ MonoBehaviour:
   gun: 
   num: 1
   door: {fileID: 0}
+  exit: {fileID: 0}
   des: Speed +1
   scaling: 1
   aud: {fileID: -3031648600083449296}

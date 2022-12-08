@@ -69,7 +69,6 @@ public class GunScript : MonoBehaviour
         canReloadLock = false;
     }
 
-
     private void Update()
     {
         if(curr == CLP)
@@ -124,7 +123,8 @@ public class GunScript : MonoBehaviour
 
             RaycastHit2D hit = Physics2D.Raycast(firePoint.transform.position, rayVec, 100f); //Actual raycast
 
-            if(hit)
+
+            if (hit)
             {
                 if (hit.transform.tag == "HEX")
                 {
