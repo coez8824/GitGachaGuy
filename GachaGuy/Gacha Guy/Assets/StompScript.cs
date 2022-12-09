@@ -31,7 +31,7 @@ public class StompScript : MonoBehaviour
     {
         if (collision.gameObject.tag == "Player")
         {
-            gm.playerDamaged(10);
+            gm.playerDamaged(20);
         }
     }
 }

@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Reflection;
+using System.Linq;
 using UnityEngine;
 using UnityEngine.XR;
 
@@ -113,6 +114,8 @@ public class GunScript : MonoBehaviour
 
     public void shoot()
     {
+        bool hitStop = false;
+
         if(curr != 0) //If there are still bullets in the clip
         {
             bang.Play();
@@ -121,15 +124,19 @@ public class GunScript : MonoBehaviour
             Vector2 r = new Vector2(a, 0); //Turn deviation into Vector2
             Vector2 rayVec = -firePoint.up + (transform.rotation * new Vector3(r.x, r.y, 0)); //Apply deviation
 
-            RaycastHit2D hit = Physics2D.Raycast(firePoint.transform.position, rayVec, 100f); //Actual raycast
+            RaycastHit2D[] hits = Physics2D.RaycastAll(firePoint.transform.position, rayVec, 100f).OrderBy(h=>h.distance).ToArray();
 
-
-            if (hit)
+            for (int i = 0; i < hits.Length; i++)
             {
-                if (hit.transform.tag == "HEX")
+                if(hits[i].transform.tag == "Wall")
                 {
-                    hit.transform.GetComponent<EvilHexagon>().rip();
-                    if(gm.vampirismActive == true)
+                    hitStop = true;
+                }
+
+                if((hits[i].transform.tag == "Shooter" || hits[i].transform.tag == "Melee") && hitStop == false)
+                {
+                    hits[i].transform.GetComponent<Collision>().playerShot(DAM + gm.ps.PAM + gm.ps.aggroBonus);
+                    if (gm.vampirismActive == true)
                     {
                         if (ps.currHTH + (1 * gm.vampirismLevel) <= ps.getHTH())
                         {
@@ -140,9 +147,85 @@ public class GunScript : MonoBehaviour
                             ps.currHTH = ps.getHTH();
                         }
                     }
-                    
                     gm.ps.aggro++;
                 }
+
+                if (hits[i].transform.tag == "Boss1" && hitStop == false)
+                {
+                    hits[i].transform.GetComponent<Boss1Script>().playerShot(DAM + gm.ps.PAM + gm.ps.aggroBonus);
+                    if (gm.vampirismActive == true)
+                    {
+                        if (ps.currHTH + (1 * gm.vampirismLevel) <= ps.getHTH())
+                        {
+                            ps.currHTH += (1 * gm.vampirismLevel);
+                        }
+                        else
+                        {
+                            ps.currHTH = ps.getHTH();
+                        }
+                    }
+                    gm.ps.aggro++;
+                }
+
+                if (hits[i].transform.tag == "Sawba" && hitStop == false)
+                {
+                    hits[i].transform.GetComponent<RoombaMovement>().health--;
+                    if (gm.vampirismActive == true)
+                    {
+                        if (ps.currHTH + (1 * gm.vampirismLevel) <= ps.getHTH())
+                        {
+                            ps.currHTH += (1 * gm.vampirismLevel);
+                        }
+                        else
+                        {
+                            ps.currHTH = ps.getHTH();
+                        }
+                    }
+                    gm.ps.aggro++;
+                }
+
+                if (hits[i].transform.tag == "Gunba" && hitStop == false)
+                {
+                    hits[i].transform.GetComponent<GunbaMovement>().health--;
+                    if (gm.vampirismActive == true)
+                    {
+                        if (ps.currHTH + (1 * gm.vampirismLevel) <= ps.getHTH())
+                        {
+                            ps.currHTH += (1 * gm.vampirismLevel);
+                        }
+                        else
+                        {
+                            ps.currHTH = ps.getHTH();
+                        }
+                    }
+                    gm.ps.aggro++;
+                }
+                if (hits[i].transform.tag == "Boomba" && hitStop == false)
+                {
+                    hits[i].transform.GetComponent<BoombaScript>().playerShot();
+                    if (gm.vampirismActive == true)
+                    {
+                        if (ps.currHTH + (1 * gm.vampirismLevel) <= ps.getHTH())
+                        {
+                            ps.currHTH += (1 * gm.vampirismLevel);
+                        }
+                        else
+                        {
+                            ps.currHTH = ps.getHTH();
+                        }
+                    }
+                    gm.ps.aggro++;
+                }
+                if((ps.using1 == true && ps.gun1 == "Rifle") || (ps.using1 == true && ps.gun1 == "Pistol"))
+                {
+                    hitStop = true;
+                }
+            }
+
+            /*RaycastHit2D hit = Physics2D.Raycast(firePoint.transform.position, rayVec, 100f); //Actual raycast
+
+            if (hit)
+            {
                 if (hit.transform.tag == "Shooter")
                 {
                     hit.transform.GetComponent<Collision>().playerShot(DAM + gm.ps.PAM + gm.ps.aggroBonus);
@@ -240,8 +323,9 @@ public class GunScript : MonoBehaviour
                     }
                     gm.ps.aggro++;
                 }
+
                 //!
-            }
+            }*/
 
             sb.TriggerShake(); //Shakes camera
             Debug.DrawRay(firePoint.transform.position, rayVec * 10f, Color.red); //Debug raycast

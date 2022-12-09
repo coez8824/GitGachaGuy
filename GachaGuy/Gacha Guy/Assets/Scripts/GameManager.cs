@@ -273,9 +273,9 @@ public class GameManager : MonoBehaviour
         }
     }
 
-    public IEnumerator aggroDecrease()
+    IEnumerator aggroDecrease()
     {
-        if (ps.aggro < 0) 
+        if (ps.aggro > 0) 
         {
             ps.aggro -= 1;
         }
