@@ -10,7 +10,7 @@ public class Spawner : MonoBehaviour
     private GameManager gm;
     //-
 
-    public GameObject Enemy1, Enemy2, Enemy3, IceShooter, Boomba, Gunba, Sawba, Aciba, point1, point2, point3;
+    public GameObject Enemy1, Enemy2, Enemy3, IceShooter, Boomba, Gunba, Sawba, Aciba, melee, point1, point2, point3, jacub, aJL, Creeon, raccaine, opossam;
     Vector3 location;
 
     private float enemyInterval = 5f;
@@ -100,7 +100,7 @@ public class Spawner : MonoBehaviour
 
         if (gm.dangerLevel >= 1000)
         {
-            i = 8;
+            i = 9;
             enemyInterval = 2;
         }
         else if (gm.dangerLevel >= 500)
@@ -116,25 +116,53 @@ public class Spawner : MonoBehaviour
 
 
         int j = Random.Range(0, i);
-
+        int shiny = Random.Range(0, 10000);
         //StartCoroutine(off());
 
         if (j == 0)
-            StartCoroutine(spawnEnemy(enemyInterval, Enemy1));
+        {
+            if (shiny == 420)
+                StartCoroutine(spawnEnemy(enemyInterval, opossam));
+            else
+                StartCoroutine(spawnEnemy(enemyInterval, Enemy1));
+        }
         else if (j == 1)
-            StartCoroutine(spawnEnemy(enemyInterval, Sawba));
+        {
+            if (shiny == 420)
+                StartCoroutine(spawnEnemy(enemyInterval, Creeon));
+            else
+                StartCoroutine(spawnEnemy(enemyInterval, Sawba));
+
+        }
         else if (j == 2)
             StartCoroutine(spawnEnemy(enemyInterval, Gunba));
         else if (j == 3)
             StartCoroutine(spawnEnemy(enemyInterval, Enemy2));
         else if (j == 4)
-            StartCoroutine(spawnEnemy(enemyInterval, Boomba));
+        {
+            if (shiny == 420)
+                StartCoroutine(spawnEnemy(enemyInterval, jacub));
+            else
+                StartCoroutine(spawnEnemy(enemyInterval, Boomba));
+        }
         else if (j == 5)
             StartCoroutine(spawnEnemy(enemyInterval, Enemy3));
         else if (j == 6)
-            StartCoroutine(spawnEnemy(enemyInterval, Aciba));
+        {
+            if (shiny == 420)
+                StartCoroutine(spawnEnemy(enemyInterval, jacub));
+            else
+                StartCoroutine(spawnEnemy(enemyInterval, Aciba));
+        }
         else if (j == 7)
             StartCoroutine(spawnEnemy(enemyInterval, IceShooter));
+        else if (j == 8)
+        {
+            if (shiny == 420)
+                StartCoroutine(spawnEnemy(enemyInterval, aJL));
+            else
+                StartCoroutine(spawnEnemy(enemyInterval, melee));
+        }
     }
 
     /*IEnumerator off()
