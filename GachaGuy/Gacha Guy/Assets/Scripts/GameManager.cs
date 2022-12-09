@@ -43,7 +43,7 @@ public class GameManager : MonoBehaviour
     public AudioSource music;
     public GameObject loseTXT;
 
-    //public GameObject statsButt;
+    public GameObject stats;
 
     // Start is called before the first frame update
     void Start()
@@ -69,7 +69,7 @@ public class GameManager : MonoBehaviour
 
         ps.currHTH = ps.getHTH();
         ps.currSHD = ps.getSHD();
-        ps.WAL = 100;
+        ps.WAL = 999;
         ps.AMM = 999;
 
         ps.aggro = 0;
@@ -138,14 +138,14 @@ public class GameManager : MonoBehaviour
         damage = ps.PAM + gs.DAM;
 
         statsText.text =
-            "DAM: " + damage + "\n" +
-            "RAT:  " + gs.RAT + "\n" +
-            "SPD: " + ps.SPD + "\n" +
-            "HND: " + ps.HND + "\n" +
-            "ACC: " + gs.ACC + "\n" +
-            "LCK:  " + ps.PAM + "\n" +
-            "RCH: " + ps.PAM + "\n" +
-            "AGG: " + ps.aggro
+            "DAM       " + damage + "\n" +
+            "RAT        " + gs.RAT + "\n" +
+            "SPD        " + ps.SPD + "\n" +
+            "HND        " + ps.HND + "\n" +
+            "ACC        " + gs.ACC + "\n" +
+            "LCK         " + ps.PAM + "\n" +
+            "RCH        " + ps.PAM + "\n" +
+            "AGG        " + ps.aggro
             ;
     }
 
@@ -265,11 +265,11 @@ public class GameManager : MonoBehaviour
     {
         if(statsText.IsActive())
         {
-            statsText.enabled = false;
+            stats.SetActive(false);
         }
         else
         {
-            statsText.enabled = true;
+            stats.SetActive(true);
         }
     }
 

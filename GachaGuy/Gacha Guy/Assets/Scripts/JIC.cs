@@ -8,6 +8,7 @@ public class JIC : MonoBehaviour
 
     void Start()
     {
+        if(gm != null)
         gm.testDEF();
     }
 }

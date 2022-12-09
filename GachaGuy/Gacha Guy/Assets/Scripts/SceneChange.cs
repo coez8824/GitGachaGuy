@@ -59,6 +59,7 @@ public class SceneChange : MonoBehaviour
             else
             {
                 door.GetComponent<DoorScript>().open = true;
+                door.GetComponent<DoorScript>().byeLock();
                 Destroy(door.GetComponent<Collider2D>());
 
                 rm.exitDecider(this);
@@ -69,6 +70,11 @@ public class SceneChange : MonoBehaviour
                 }
             }
         }
+    }
+
+    public void bossDoor()
+    {
+        door.GetComponent<DoorScript>().makeBoss();
     }
 
     public void change()

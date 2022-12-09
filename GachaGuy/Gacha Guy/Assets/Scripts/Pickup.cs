@@ -132,6 +132,7 @@ public class Pickup : MonoBehaviour
             case "Door":
                 DoorScript ds = door.GetComponent<DoorScript>();
                 ds.open = true;
+                ds.lockOpen();
                 SceneChange sc = exit.GetComponent<SceneChange>();
                 sc.leave = true;
                 Destroy(door.GetComponent<Collider2D>());

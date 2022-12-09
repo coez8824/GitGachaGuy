@@ -74,10 +74,10 @@ public class PlayerMovement : MonoBehaviour
         {
             playerSpeed = gm.ps.SPD; //Player's speed = speed stat
 
-            if (Input.GetKeyDown(KeyCode.M))
-            {
-                mouse = !mouse;
-            }
+            //if (Input.GetKeyDown(KeyCode.M))
+            //{
+            //    mouse = !mouse;
+            //}
 
             //newpos = rb.position;
             //movement = (newpos - oldpos);
@@ -128,40 +128,40 @@ public class PlayerMovement : MonoBehaviour
                 touchUI.SetActive(false);
                 otherTouchUI.SetActive(false);
 
-                if (Input.GetKeyDown(KeyCode.R))
-                {
-                    gm.gs.reload();
-                    colorReloads = true;
-                }
+                //if (Input.GetKeyDown(KeyCode.R))
+                //{
+                //    gm.gs.reload();
+                //    colorReloads = true;
+                //}
 
-                if (Input.GetKeyDown(KeyCode.T))
-                {
-                    gm.tossGun();
-                }
+                //if (Input.GetKeyDown(KeyCode.T))
+                //{
+                //    gm.tossGun();
+                //}
 
-                if (Input.GetKeyDown(KeyCode.G))
-                {
-                    gm.swapGun();
-                }
+                //if (Input.GetKeyDown(KeyCode.G))
+                //{
+                //    gm.swapGun();
+                //}
 
-                if (colorReloads)
-                {
-                    if (Input.GetKeyDown(KeyCode.Alpha1))
-                    {
-                        gm.gs.reloadRed();
-                        colorReloads = false;
-                    }
-                    if (Input.GetKeyDown(KeyCode.Alpha2))
-                    {
-                        gm.gs.reloadBlue();
-                        colorReloads = false;
-                    }
-                    if (Input.GetKeyDown(KeyCode.Alpha3))
-                    {
-                        gm.gs.reloadPink();
-                        colorReloads = false;
-                    }
-                }
+                //if (colorReloads)
+                //{
+                //    if (Input.GetKeyDown(KeyCode.Alpha1))
+                //    {
+                //        gm.gs.reloadRed();
+                //        colorReloads = false;
+                //    }
+                //    if (Input.GetKeyDown(KeyCode.Alpha2))
+                //    {
+                //        gm.gs.reloadBlue();
+                //        colorReloads = false;
+                //    }
+                //    if (Input.GetKeyDown(KeyCode.Alpha3))
+                //    {
+                //        gm.gs.reloadPink();
+                //        colorReloads = false;
+                //    }
+                //}
 
                 move.x = Input.GetAxisRaw("Horizontal");
                 move.y = Input.GetAxisRaw("Vertical");
@@ -270,6 +270,57 @@ public class PlayerMovement : MonoBehaviour
             pv.moving = false;
 
             rb.constraints = RigidbodyConstraints2D.FreezePosition;
+        }
+
+        
+    }
+
+    private void Update()
+    {
+        if (!gm.dead)
+        {
+            if (Input.GetKeyDown(KeyCode.M))
+            {
+                mouse = !mouse;
+            }
+
+            if (!controller)
+            {
+                if (Input.GetKeyDown(KeyCode.R))
+                {
+                    gm.gs.reload();
+                    colorReloads = true;
+                }
+
+                if (Input.GetKeyDown(KeyCode.T))
+                {
+                    gm.tossGun();
+                }
+
+                if (Input.GetKeyDown(KeyCode.G))
+                {
+                    gm.swapGun();
+                }
+
+                if (colorReloads)
+                {
+                    if (Input.GetKeyDown(KeyCode.Alpha1))
+                    {
+                        gm.gs.reloadRed();
+                        colorReloads = false;
+                    }
+                    if (Input.GetKeyDown(KeyCode.Alpha2))
+                    {
+                        gm.gs.reloadBlue();
+                        colorReloads = false;
+                    }
+                    if (Input.GetKeyDown(KeyCode.Alpha3))
+                    {
+                        gm.gs.reloadPink();
+                        colorReloads = false;
+                    }
+                }
+            }
         }
 
         

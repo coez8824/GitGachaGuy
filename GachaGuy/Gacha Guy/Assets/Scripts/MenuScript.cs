@@ -7,9 +7,12 @@ public class MenuScript : MonoBehaviour
 {
     public GameObject controls;
     public GameObject notControls;
+    public GameObject loading;
 
     public void beginGame()
     {
+        notControls.SetActive(false);
+        loading.SetActive(true);
         SceneManager.LoadScene("Room1");
     }
 

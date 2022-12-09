@@ -358,6 +358,7 @@ public class RoomManager : MonoBehaviour
             }
             else if (k == 9)
             {
+                exit3.bossDoor();
                 exit3.x = -38;
                 exit3.y = -12;
             }
