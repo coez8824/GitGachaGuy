@@ -139,14 +139,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 89dddd9a9582d424ab614ae82241b8cf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  gunba: 1
   bang: {fileID: -5253568138796691288}
   projectilePrefab: {fileID: 4351893049233006214, guid: c657f820d07e02644abd5ecfc1112723, type: 3}
   range: 10
+  target: {fileID: 0}
   interval: 3
   testX: 0
   testY: 0
   rateRange: 1
   rateRange2: 3
+  col: {fileID: 0}
 --- !u!114 &1011635536868184966
 MonoBehaviour:
   m_ObjectHideFlags: 0

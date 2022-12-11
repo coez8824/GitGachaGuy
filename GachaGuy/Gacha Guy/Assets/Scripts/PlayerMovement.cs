@@ -70,7 +70,10 @@ public class PlayerMovement : MonoBehaviour
 
     private void FixedUpdate()
     {
-        if(!gm.dead)
+
+        hotSpot = new Vector2(15, 15);
+
+        if (!gm.dead)
         {
             playerSpeed = gm.ps.SPD; //Player's speed = speed stat
 

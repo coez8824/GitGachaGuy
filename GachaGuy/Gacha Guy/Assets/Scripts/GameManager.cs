@@ -197,8 +197,25 @@ public class GameManager : MonoBehaviour
 
     public void swapGun()
     {
-        if((ps.gun1 != "") || (ps.gun2 != ""))
+        if((ps.gun1 == "") || (ps.gun2 == ""))
         {
+            Debug.Log("Nah");
+            //if (ps.using1)
+            //{
+            //    ps.using1 = false;
+            //    //gs.currSetter(2);
+            //    gSetter.gunSetter(ps.gun2, 2);
+            //}
+            //else
+            //{
+            //    ps.using1 = true;
+            //    //gs.currSetter(1);
+            //    gSetter.gunSetter(ps.gun1, 1);
+            //}
+        }
+        else
+        {
+            Debug.Log("Swap");
             if (ps.using1)
             {
                 ps.using1 = false;
@@ -211,10 +228,6 @@ public class GameManager : MonoBehaviour
                 //gs.currSetter(1);
                 gSetter.gunSetter(ps.gun1, 1);
             }
-        }
-        else
-        {
-            Debug.Log("Nah");
         }
     }
 
