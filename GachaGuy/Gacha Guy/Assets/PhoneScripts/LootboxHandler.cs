@@ -19,8 +19,8 @@ public class LootboxHandler : MonoBehaviour
             ls.listChar[i].setUpperRarity(currRarity - 0.1f);
         }
 
-        float chosenValue = Random.Range(0.0f, currRarity - 0.1f); //gets and stores randomized value
-        int chosenInt = 0;                              //value to be used to get the index of chosen char
+        float chosenValue = Random.Range(0.1f, currRarity - 0.1f); //gets and stores randomized value
+        int chosenInt = 1;                              //value to be used to get the index of chosen char
 
         for (int i = 1; i < ls.listChar.Count; i++)     //searches through listChar to find the rolled char
         {

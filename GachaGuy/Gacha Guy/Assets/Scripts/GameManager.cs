@@ -69,7 +69,7 @@ public class GameManager : MonoBehaviour
 
         ps.currHTH = ps.getHTH();
         ps.currSHD = ps.getSHD();
-        ps.WAL = 999;
+        ps.WAL = 100;
         ps.AMM = 999;
 
         ps.aggro = 0;
