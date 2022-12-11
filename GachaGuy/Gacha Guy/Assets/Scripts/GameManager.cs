@@ -279,7 +279,7 @@ public class GameManager : MonoBehaviour
         {
             ps.aggro -= 1;
         }
-        yield return new WaitForSeconds(1f);
+        yield return new WaitForSeconds(3f);
         StartCoroutine(aggroDecrease());
     }
 }
