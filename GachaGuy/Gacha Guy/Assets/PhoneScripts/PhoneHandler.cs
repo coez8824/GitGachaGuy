@@ -116,10 +116,13 @@ public class PhoneHandler : MonoBehaviour
 
     public void lootboxExecuter()       //in-script method to execute coroutine to avoid errors (called from lootboxButton object)
     {
-        if ((true)&&(gm.ps.WAL >= 25)) //if can afford
+        if ((true)&&(gm.ps.WAL >= gm.scalingGacha)) //if can afford
         {
             kaching.Play();
-            gm.ps.WAL -= 25;
+            gm.ps.WAL -= gm.scalingGacha;
+
+            gm.scalingGacha += 25;
+
             StartCoroutine(lootboxButtonPressed());
         }
         else      //else cant afford

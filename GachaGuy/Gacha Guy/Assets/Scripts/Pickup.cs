@@ -35,6 +35,8 @@ public class Pickup : MonoBehaviour
 
         if (scaling)
             price += gm.scalingPrice;
+        if (effect == "Door")
+            price += gm.scalingDoor;
 
         p = GameObject.Find("Price");
         d = GameObject.Find("Description");
@@ -89,6 +91,8 @@ public class Pickup : MonoBehaviour
 
             if (scaling)
                 gm.scalingPrice += 5;
+            if (effect == "Door")
+                gm.scalingDoor += 25;
 
             Destroy(gameObject); //Destroy pickup
         }

@@ -33,6 +33,10 @@ public class GameManager : MonoBehaviour
     public int vampirismLevel = 0;
 
     public int scalingPrice;
+    public int scalingDoor;
+    public int scalingGacha;
+
+    public Text gachaPriceText;
 
     public int roomNum;
 
@@ -56,6 +60,8 @@ public class GameManager : MonoBehaviour
     public void testDEF() //Default stats set up for testing
     {
         scalingPrice = 0;
+        scalingDoor = 0;
+        scalingGacha = 25;
         dangerLevel = 0;
 
         ps.setHTH(100);
@@ -91,7 +97,11 @@ public class GameManager : MonoBehaviour
             SceneManager.LoadScene("YouWin");
         }*/
 
-        if(ps.currHTH <= 0)
+        //gachaPriceText.GetComponent<TextMeshPro>().text = "$" + scalingGacha.ToString();
+
+        gachaPriceText.text = "$"+scalingGacha.ToString();
+
+        if (ps.currHTH <= 0)
         {
             //Destroy(GameObject.Find("Important"));
             //SceneManager.LoadScene("GameOver");
