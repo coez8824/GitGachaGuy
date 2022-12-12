@@ -27,6 +27,8 @@ TagManager:
   - Collection
   - Spawner
   - Jacub
+  - Tracker
+  - TrackerB
   layers:
   - Default
   - TransparentFX

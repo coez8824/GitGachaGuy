@@ -31,6 +31,9 @@ public class SceneChange : MonoBehaviour
 
     public GameObject roomTXT;
 
+    public CanvasGroup ui;
+    public CanvasGroup hide;
+
     void Start()
     {
         roomTXT = GameObject.Find("RoomNumText");
@@ -40,6 +43,9 @@ public class SceneChange : MonoBehaviour
         i = GameObject.FindWithTag("Important");
         rm = GameObject.FindWithTag("RoomManager").GetComponent<RoomManager>();
         DontDestroyOnLoad(i);
+
+        ui = GameObject.Find("Canvas Variant").GetComponent<CanvasGroup>();
+        hide = GameObject.Find("HIDE").GetComponent<CanvasGroup>();
 
         door = doorPickup.GetComponent<Pickup>().door;
     }
@@ -87,7 +93,9 @@ public class SceneChange : MonoBehaviour
 
         playerMove.transform.position = new Vector3(x, y, 0);
 
-        
+        ui.alpha = 0;
+        ui.blocksRaycasts = false;
+        hide.alpha = 1;
 
         if (sceneName != "BossRoom")
         {

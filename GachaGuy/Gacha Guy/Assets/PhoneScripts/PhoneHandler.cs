@@ -122,6 +122,8 @@ public class PhoneHandler : MonoBehaviour
             gm.ps.WAL -= gm.scalingGacha;
 
             gm.scalingGacha += 25;
+            gm.track.gachasRolled++;
+            gm.track.moneySpent += gm.scalingGacha;
 
             StartCoroutine(lootboxButtonPressed());
         }

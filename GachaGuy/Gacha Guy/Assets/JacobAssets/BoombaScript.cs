@@ -73,6 +73,9 @@ public class BoombaScript : MonoBehaviour
     {
         caution = true;
         gm.ps.WAL += (25 + (2 * Random.Range(0, gm.ps.LCK))); //Pays a base 25 cash + bonus based on luck
+
+        gm.track.robotsDestroyed++;
+
         StartCoroutine(DelayedDeath());
     }
     //-
