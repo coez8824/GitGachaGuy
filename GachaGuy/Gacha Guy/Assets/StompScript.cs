@@ -12,19 +12,13 @@ public class StompScript : MonoBehaviour
     {
         gm = FindObjectOfType<GameManager>();
         Boss1 = FindObjectOfType<Boss1Script>();
+        StartCoroutine(destroyStomp());
     }
 
     // Update is called once per frame
     void Update()
     {
-        if(this.enabled == true)
-        {
-            stompAnimator.SetBool("stomp", true);
-        }
-        else
-        {
-            stompAnimator.SetBool("stomp", false);
-        }
+
     }
 
     private void OnTriggerStay2D(Collider2D collision)
@@ -33,5 +27,11 @@ public class StompScript : MonoBehaviour
         {
             gm.playerDamaged(20);
         }
+    }
+
+    public IEnumerator destroyStomp()
+    {
+        yield return new WaitForSeconds(.45f);
+        Destroy(gameObject);
     }
 }
