@@ -130,7 +130,7 @@ public class Boss1Script : MonoBehaviour
         //-
         door.GetComponent<DoorScript>().open = true;
         Destroy(door.GetComponent<Collider2D>());
-        gm.track.robotsDestroyed++;
+        //gm.track.robotsDestroyed++;
         //-
 
         yield return new WaitForSeconds(2f);//Delay for seconds
