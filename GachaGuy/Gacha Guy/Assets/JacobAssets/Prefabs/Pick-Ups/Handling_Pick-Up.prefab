@@ -144,7 +144,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 41ec18755ba70a14eb3de91340070f8c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  price: 50
+  price: 10
   buyButton: {fileID: 0}
   effect: Handling
   gun: 

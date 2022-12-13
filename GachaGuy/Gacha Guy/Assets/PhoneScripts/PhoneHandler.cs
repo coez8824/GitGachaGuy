@@ -121,7 +121,7 @@ public class PhoneHandler : MonoBehaviour
             kaching.Play();
             gm.ps.WAL -= gm.scalingGacha;
 
-            gm.scalingGacha += 25;
+            gm.scalingGacha += 10;
             gm.track.gachasRolled++;
             gm.track.moneySpent += gm.scalingGacha;
 

@@ -308,7 +308,7 @@ public class RoomManager : MonoBehaviour
         {
             k = Random.Range(0, roomNames.Length);
 
-            k = 9;
+            //k = 9;
         }
         else
         {

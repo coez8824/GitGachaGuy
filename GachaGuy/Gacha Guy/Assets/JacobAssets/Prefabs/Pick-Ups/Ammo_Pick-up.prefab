@@ -144,12 +144,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 41ec18755ba70a14eb3de91340070f8c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  price: 25
+  price: 10
   buyButton: {fileID: 0}
   effect: Ammo
   gun: 
-  num: 25
+  num: 100
   door: {fileID: 0}
+  exit: {fileID: 0}
   des: Get 25 Bullets
   scaling: 0
   aud: {fileID: 6961241843033226407}

@@ -58,7 +58,7 @@ public class Boss1Script : MonoBehaviour
         SuperDeathLaserFiring = false;
         first = true;
         collide = GetComponent<Collider2D>();
-        health = 100;
+        health = 1000;
         target = GameObject.FindWithTag("Player").transform;
        
         stomping = false;

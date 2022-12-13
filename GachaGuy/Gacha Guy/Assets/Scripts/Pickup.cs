@@ -92,7 +92,7 @@ public class Pickup : MonoBehaviour
             if (scaling)
                 gm.scalingPrice += 5;
             if (effect == "Door")
-                gm.scalingDoor += 25;
+                gm.scalingDoor += 10;
 
             gm.track.thingsBought++;
             gm.track.moneySpent += price;
@@ -116,7 +116,11 @@ public class Pickup : MonoBehaviour
         switch (effect)
         {
             case "newGun":
-                if (gm.ps.gun2 == "")
+                if((gm.ps.gun1 == gun)||(gm.ps.gun2 == gun))
+                {
+                    gm.ps.AMM += 400;
+                }
+                else if (gm.ps.gun2 == "")
                 {
                     gm.gs.curr1 = gm.gs.curr;
                     gm.ps.using1 = false;

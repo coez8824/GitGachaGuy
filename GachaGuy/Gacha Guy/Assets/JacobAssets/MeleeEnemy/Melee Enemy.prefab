@@ -70,6 +70,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e97b464b97b483340aa76a6f1d4b2467, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  col: {fileID: 0}
 --- !u!1 &791874787997564921
 GameObject:
   m_ObjectHideFlags: 0
@@ -311,7 +312,7 @@ MonoBehaviour:
   - {fileID: -5819605308060347044}
   - {fileID: 5103309688858789391}
   target: {fileID: 0}
-  health: 3
+  health: 10
   collide: {fileID: 0}
   randomSound: 0
   testX: 0
