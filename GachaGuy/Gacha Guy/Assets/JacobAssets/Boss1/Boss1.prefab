@@ -252,6 +252,8 @@ MonoBehaviour:
   moveY: 0
   stomping: 0
   randStomp: 0
+  stompObject: {fileID: 3423423946590419477, guid: da9596a6170492841a8452e883a26e48, type: 3}
+  spawnedStomp: {fileID: 0}
 --- !u!95 &4688640357967673825
 Animator:
   serializedVersion: 3

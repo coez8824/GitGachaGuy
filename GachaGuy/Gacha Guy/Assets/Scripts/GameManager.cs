@@ -15,6 +15,8 @@ public class GameManager : MonoBehaviour
     public GunSetter gSetter;
     public GachaList cl;
 
+    public Tracker track;
+
     public TMP_Text moneyCount;
     public GameObject player;
 
@@ -33,6 +35,10 @@ public class GameManager : MonoBehaviour
     public int vampirismLevel = 0;
 
     public int scalingPrice;
+    public int scalingDoor;
+    public int scalingGacha;
+
+    public Text gachaPriceText;
 
     public int roomNum;
 
@@ -56,6 +62,8 @@ public class GameManager : MonoBehaviour
     public void testDEF() //Default stats set up for testing
     {
         scalingPrice = 0;
+        scalingDoor = 0;
+        scalingGacha = 25;
         dangerLevel = 0;
 
         ps.setHTH(100);
@@ -69,7 +77,7 @@ public class GameManager : MonoBehaviour
 
         ps.currHTH = ps.getHTH();
         ps.currSHD = ps.getSHD();
-        ps.WAL = 100;
+        ps.WAL = 999999;
         ps.AMM = 999;
 
         ps.aggro = 0;
@@ -91,7 +99,11 @@ public class GameManager : MonoBehaviour
             SceneManager.LoadScene("YouWin");
         }*/
 
-        if(ps.currHTH <= 0)
+        //gachaPriceText.GetComponent<TextMeshPro>().text = "$" + scalingGacha.ToString();
+
+        gachaPriceText.text = "$"+scalingGacha.ToString();
+
+        if (ps.currHTH <= 0)
         {
             //Destroy(GameObject.Find("Important"));
             //SceneManager.LoadScene("GameOver");
@@ -201,8 +213,25 @@ public class GameManager : MonoBehaviour
 
     public void swapGun()
     {
-        if((ps.gun1 != "") || (ps.gun2 != ""))
+        if((ps.gun1 == "") || (ps.gun2 == ""))
         {
+            Debug.Log("Nah");
+            //if (ps.using1)
+            //{
+            //    ps.using1 = false;
+            //    //gs.currSetter(2);
+            //    gSetter.gunSetter(ps.gun2, 2);
+            //}
+            //else
+            //{
+            //    ps.using1 = true;
+            //    //gs.currSetter(1);
+            //    gSetter.gunSetter(ps.gun1, 1);
+            //}
+        }
+        else
+        {
+            Debug.Log("Swap");
             if (ps.using1)
             {
                 ps.using1 = false;
@@ -215,10 +244,6 @@ public class GameManager : MonoBehaviour
                 //gs.currSetter(1);
                 gSetter.gunSetter(ps.gun1, 1);
             }
-        }
-        else
-        {
-            Debug.Log("Nah");
         }
     }
 

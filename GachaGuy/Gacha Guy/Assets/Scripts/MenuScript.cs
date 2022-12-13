@@ -7,6 +7,7 @@ public class MenuScript : MonoBehaviour
 {
     public GameObject controls;
     public GameObject notControls;
+    public GameObject help;
     public GameObject loading;
 
     public void beginGame()
@@ -27,9 +28,21 @@ public class MenuScript : MonoBehaviour
         controls.SetActive(true);
     }
 
+    public void openHelp()
+    {
+        notControls.SetActive(false);
+        help.SetActive(true);
+    }
+
     public void closeControls()
     {
         controls.SetActive(false);
+        notControls.SetActive(true);
+    }
+
+    public void closeHelp()
+    {
+        help.SetActive(false);
         notControls.SetActive(true);
     }
 }

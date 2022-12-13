@@ -103,6 +103,8 @@ public class Collision : MonoBehaviour
         //ping.Play();
         gm.ps.WAL += (5 + (2 * Random.Range(0, (gm.ps.LCK + 1)))); //Pays a base 5 cash + bonus based on luck
 
+        gm.track.robotsDestroyed++;
+
         drop.yell();
         //-
         Destroy(gameObject);

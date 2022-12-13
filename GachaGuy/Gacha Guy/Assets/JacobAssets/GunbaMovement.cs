@@ -65,6 +65,9 @@ public class GunbaMovement : MonoBehaviour
         {
             ping.Play();
             gm.ps.WAL += (1 + (2 * Random.Range(0, (gm.ps.LCK + 1)))); //Pays a base 1 cash + bonus based on luck
+
+            gm.track.robotsDestroyed++;
+
             Destroy(gameObject);
         }
     }

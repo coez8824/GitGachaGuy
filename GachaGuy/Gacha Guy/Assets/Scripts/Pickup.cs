@@ -35,6 +35,8 @@ public class Pickup : MonoBehaviour
 
         if (scaling)
             price += gm.scalingPrice;
+        if (effect == "Door")
+            price += gm.scalingDoor;
 
         p = GameObject.Find("Price");
         d = GameObject.Find("Description");
@@ -89,9 +91,24 @@ public class Pickup : MonoBehaviour
 
             if (scaling)
                 gm.scalingPrice += 5;
+            if (effect == "Door")
+                gm.scalingDoor += 25;
 
-            Destroy(gameObject); //Destroy pickup
+            gm.track.thingsBought++;
+            gm.track.moneySpent += price;
+
+            Destroy(this.gameObject.GetComponent<Collider2D>());
+            Destroy(this.gameObject.GetComponent<SpriteRenderer>());
+
+            StartCoroutine(holdon());
+            //Destroy(gameObject); //Destroy pickup
         }
+    }
+
+    IEnumerator holdon()
+    {
+        yield return new WaitForSeconds(1);
+        Destroy(gameObject);
     }
 
     private void doEffect()

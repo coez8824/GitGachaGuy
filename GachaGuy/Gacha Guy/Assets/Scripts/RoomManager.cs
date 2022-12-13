@@ -22,18 +22,27 @@ public class RoomManager : MonoBehaviour
 
     private bool canBoss;
 
+    public CanvasGroup ui;
+    public CanvasGroup hide;
+
     private void Awake()
     {
         gm = FindObjectOfType<GameManager>();
 
         gm.roomNum++;
-
+        gm.track.roomsTraversed = gm.roomNum;
         
 
         roomTXT = GameObject.Find("RoomNumText");
 
         roomTXT.GetComponent<Text>().text = "ROOM " + gm.roomNum;
 
+        ui = GameObject.Find("Canvas Variant").GetComponent<CanvasGroup>();
+        hide = GameObject.Find("HIDE").GetComponent<CanvasGroup>();
+
+        ui.alpha = 1;
+        ui.blocksRaycasts = true;
+        hide.alpha = 0;
 
         StartCoroutine(turnOff());
     }

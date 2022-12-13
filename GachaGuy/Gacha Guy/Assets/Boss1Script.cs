@@ -44,6 +44,8 @@ public class Boss1Script : MonoBehaviour
     public bool stomping;
     public int randStomp;
     // Start is called before the first frame update
+    public GameObject stompObject;
+    public GameObject spawnedStomp;
     void Start()
     {
         //-
@@ -108,7 +110,8 @@ public class Boss1Script : MonoBehaviour
     IEnumerator StompAttack()
     {
         bossAnimator.SetBool("isStomping", true);
-        yield return new WaitForSeconds(2f);
+        yield return new WaitForSeconds(1f);
+        spawnedStomp = Instantiate(stompObject, this.gameObject.transform.position, this.gameObject.transform.rotation);
         bossAnimator.SetBool("isStomping", false);
         stomping = false;
     }
@@ -130,6 +133,7 @@ public class Boss1Script : MonoBehaviour
         //-
         door.GetComponent<DoorScript>().open = true;
         Destroy(door.GetComponent<Collider2D>());
+        //gm.track.robotsDestroyed++;
         //-
 
         yield return new WaitForSeconds(2f);//Delay for seconds

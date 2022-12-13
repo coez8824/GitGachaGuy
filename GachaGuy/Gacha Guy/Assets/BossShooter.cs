@@ -55,13 +55,27 @@ public class BossShooter : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Vector3 direction = target.position - transform.position;
-        angle = Mathf.Atan2(direction.y, direction.x)*Mathf.Rad2Deg;
-        rb.rotation = angle + 270;
-        rb.position = boss.transform.position;
-        //StartCoroutine(fire(interval));
-        testX = target.position.x - transform.position.x;
-        testY = target.position.y - transform.position.y;
+
+        Vector3 direction = new Vector3(0,0,0);
+        if (target != null)
+        {
+            direction = target.position - transform.position;
+            angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
+            rb.rotation = angle + 270;
+            rb.position = boss.transform.position;
+            //StartCoroutine(fire(interval));
+            testX = target.position.x - transform.position.x;
+            testY = target.position.y - transform.position.y;
+        }
+
+
+        //direction = target.position - transform.position;
+        //angle = Mathf.Atan2(direction.y, direction.x)*Mathf.Rad2Deg;
+        //rb.rotation = angle + 270;
+        //rb.position = boss.transform.position;
+        ////StartCoroutine(fire(interval));
+        //testX = target.position.x - transform.position.x;
+        //testY = target.position.y - transform.position.y;
     }
 
     public void SpawnLaser()
