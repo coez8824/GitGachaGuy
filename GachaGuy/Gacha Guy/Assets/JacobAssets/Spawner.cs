@@ -132,7 +132,6 @@ public class Spawner : MonoBehaviour
                 StartCoroutine(spawnEnemy(enemyInterval, Creeon));
             else
                 StartCoroutine(spawnEnemy(enemyInterval, Sawba));
-
         }
         else if (j == 2)
             StartCoroutine(spawnEnemy(enemyInterval, Gunba));
@@ -150,18 +149,20 @@ public class Spawner : MonoBehaviour
         else if (j == 6)
         {
             if (shiny == 420)
-                StartCoroutine(spawnEnemy(enemyInterval, jacub));
+                StartCoroutine(spawnEnemy(enemyInterval, raccaine));
             else
                 StartCoroutine(spawnEnemy(enemyInterval, Aciba));
         }
         else if (j == 7)
-            StartCoroutine(spawnEnemy(enemyInterval, IceShooter));
-        else if (j == 8)
         {
             if (shiny == 420)
                 StartCoroutine(spawnEnemy(enemyInterval, aJL));
             else
                 StartCoroutine(spawnEnemy(enemyInterval, melee));
+        }
+        else if (j == 8)
+        {
+            StartCoroutine(spawnEnemy(enemyInterval, IceShooter));
         }
     }
 

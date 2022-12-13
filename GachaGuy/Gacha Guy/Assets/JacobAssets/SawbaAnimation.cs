@@ -35,6 +35,10 @@ public class SawbaAnimation : MonoBehaviour
         if (collision.gameObject.CompareTag("Player"))
         {
             gm.playerDamaged(10);
+            if (gm.thornsActive == true)
+            {
+                roombaMove.health--;
+            }
         }
     }
 }

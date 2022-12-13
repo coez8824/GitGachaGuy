@@ -108,6 +108,8 @@ public class GameManager : MonoBehaviour
             loseTXT.SetActive(true);
         }
 
+        thornsLevel = cl.listChar[5].level;
+
         /*if(recharging)
             StartCoroutine(rechargeShield());*/
 
@@ -183,7 +185,9 @@ public class GameManager : MonoBehaviour
         if (!recharging) //Cancels if player is hit
             yield break;
 
-        if(ps.currSHD < ps.getSHD()) //Prevents from going over max
+        int shdVal = ps.getSHD();
+
+        if(ps.currSHD < shdVal) //Prevents from going over max
         {
             ps.currSHD++; //Increases by 1
         }
@@ -252,7 +256,19 @@ public class GameManager : MonoBehaviour
 
     public void vampirismOnKill()
     {
-        ps.setHTH(ps.getHTH() + (1 * cl.listChar[1].level));
+        vampirismLevel = cl.listChar[1].level;
+
+        if(ps.currHTH < ps.getHTH())
+        {
+            if((ps.currHTH + (1 * vampirismLevel) > ps.getHTH()))
+            {
+                ps.currHTH = ps.getHTH();
+            }
+            else
+            {
+                ps.currHTH += (1 * vampirismLevel);
+            }
+        }
     }
 
     public void toMenu()
@@ -279,7 +295,7 @@ public class GameManager : MonoBehaviour
         {
             ps.aggro -= 1;
         }
-        yield return new WaitForSeconds(3f);
+        yield return new WaitForSeconds(5f);
         StartCoroutine(aggroDecrease());
     }
 }

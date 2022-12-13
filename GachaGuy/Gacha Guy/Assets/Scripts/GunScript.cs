@@ -136,84 +136,34 @@ public class GunScript : MonoBehaviour
                 if((hits[i].transform.tag == "Shooter" || hits[i].transform.tag == "Melee") && hitStop == false)
                 {
                     hits[i].transform.GetComponent<Collision>().playerShot(DAM + gm.ps.PAM + gm.ps.aggroBonus);
-                    if (gm.vampirismActive == true)
-                    {
-                        if (ps.currHTH + (1 * gm.vampirismLevel) <= ps.getHTH())
-                        {
-                            ps.currHTH += (1 * gm.vampirismLevel);
-                        }
-                        else
-                        {
-                            ps.currHTH = ps.getHTH();
-                        }
-                    }
+                    gm.vampirismOnKill();
                     gm.ps.aggro++;
                 }
 
                 if (hits[i].transform.tag == "Boss1" && hitStop == false)
                 {
                     hits[i].transform.GetComponent<Boss1Script>().playerShot(DAM + gm.ps.PAM + gm.ps.aggroBonus);
-                    if (gm.vampirismActive == true)
-                    {
-                        if (ps.currHTH + (1 * gm.vampirismLevel) <= ps.getHTH())
-                        {
-                            ps.currHTH += (1 * gm.vampirismLevel);
-                        }
-                        else
-                        {
-                            ps.currHTH = ps.getHTH();
-                        }
-                    }
+                    gm.vampirismOnKill();
                     gm.ps.aggro++;
                 }
 
                 if (hits[i].transform.tag == "Sawba" && hitStop == false)
                 {
                     hits[i].transform.GetComponent<RoombaMovement>().health--;
-                    if (gm.vampirismActive == true)
-                    {
-                        if (ps.currHTH + (1 * gm.vampirismLevel) <= ps.getHTH())
-                        {
-                            ps.currHTH += (1 * gm.vampirismLevel);
-                        }
-                        else
-                        {
-                            ps.currHTH = ps.getHTH();
-                        }
-                    }
+                    gm.vampirismOnKill();
                     gm.ps.aggro++;
                 }
 
                 if (hits[i].transform.tag == "Gunba" && hitStop == false)
                 {
                     hits[i].transform.GetComponent<GunbaMovement>().health--;
-                    if (gm.vampirismActive == true)
-                    {
-                        if (ps.currHTH + (1 * gm.vampirismLevel) <= ps.getHTH())
-                        {
-                            ps.currHTH += (1 * gm.vampirismLevel);
-                        }
-                        else
-                        {
-                            ps.currHTH = ps.getHTH();
-                        }
-                    }
+                    gm.vampirismOnKill();
                     gm.ps.aggro++;
                 }
                 if (hits[i].transform.tag == "Boomba" && hitStop == false)
                 {
                     hits[i].transform.GetComponent<BoombaScript>().playerShot();
-                    if (gm.vampirismActive == true)
-                    {
-                        if (ps.currHTH + (1 * gm.vampirismLevel) <= ps.getHTH())
-                        {
-                            ps.currHTH += (1 * gm.vampirismLevel);
-                        }
-                        else
-                        {
-                            ps.currHTH = ps.getHTH();
-                        }
-                    }
+                    gm.vampirismOnKill();
                     gm.ps.aggro++;
                 }
                 if((ps.using1 == true && ps.gun1 == "Rifle") || (ps.using1 == true && ps.gun1 == "Pistol"))
