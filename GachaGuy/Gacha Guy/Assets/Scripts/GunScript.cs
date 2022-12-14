@@ -140,9 +140,11 @@ public class GunScript : MonoBehaviour
             Vector2 rayVec = -firePoint.up + (transform.rotation * new Vector3(r.x, r.y, 0)); //Apply deviation
 
             RaycastHit2D[] hits = Physics2D.RaycastAll(firePoint.transform.position, rayVec, 100f).OrderBy(h=>h.distance).ToArray();
+            bool pickupLol = false;
 
             for (int i = 0; i < hits.Length; i++)
             {
+                pickupLol = false;
                 if(hits[i].transform.tag == "Wall")
                 {
                     hitStop = true;
@@ -181,7 +183,11 @@ public class GunScript : MonoBehaviour
                     gm.vampirismOnKill();
                     gm.ps.aggro++;
                 }
-                if((ps.using1 == true && ((ps.gun1 == "Rifle") || (ps.gun1 == "Pistol"))) || (ps.using1 == false && ((ps.gun2 == "Pistol") || (ps.gun2 == "Rifle"))))
+                if (hits[i].transform.tag == "PickUp" && hitStop == false)
+                {
+                    pickupLol = true;
+                }
+                if(pickupLol == false && ((ps.using1 == true && ((ps.gun1 == "Rifle") || (ps.gun1 == "Pistol"))) || (ps.using1 == false && ((ps.gun2 == "Pistol") || (ps.gun2 == "Rifle")))))
                 {
                     hitStop = true;
                 }
