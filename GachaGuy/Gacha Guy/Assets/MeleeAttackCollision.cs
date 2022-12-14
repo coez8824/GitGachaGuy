@@ -25,6 +25,7 @@ public class MeleeAttackCollision : MonoBehaviour
             gm.playerDamaged(10);
             if (gm.thornsActive == true)
             {
+                gm.thornsLevel = gm.cl.playerInven.Find(x => x.id == 5).level;
                 col.health -= (1 * gm.thornsLevel);
             }
         }

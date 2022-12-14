@@ -37,6 +37,7 @@ public class SawbaAnimation : MonoBehaviour
             gm.playerDamaged(10);
             if (gm.thornsActive == true)
             {
+                gm.thornsLevel = gm.cl.playerInven.Find(x => x.id == 5).level;
                 roombaMove.health--;
             }
         }
