@@ -4,6 +4,7 @@ using System.Reflection;
 using System.Linq;
 using UnityEngine;
 using UnityEngine.XR;
+using TMPro;
 
 //Code quaratined with "//!" is code added by Jacob
 
@@ -44,6 +45,9 @@ public class GunScript : MonoBehaviour
     private bool skip; //Used when skipping reload
     public GameObject reloadVisual; //Empty parent holding reload visual parts
     public GameObject spinG; //Spinning part of reload visual
+
+    public GameObject relText;
+    public GameObject emptyText;
 
     public GameObject regButtons; //The regular buttons in UI
     public GameObject colorButtons; //Colored buttons for reload event
@@ -119,7 +123,18 @@ public class GunScript : MonoBehaviour
         if(curr != 0) //If there are still bullets in the clip
         {
             bang.Play();
-            float a = Random.Range(-ACC * gm.ps.HND, ACC * gm.ps.HND); //Choose deviation based on ACC stat
+            float c;
+
+            if(gm.ps.HND <0)
+            {
+                c = 0;
+            }
+            else
+            {
+                c = gm.ps.HND;
+            }
+
+            float a = Random.Range(-ACC * c, ACC * c); //Choose deviation based on ACC stat
 
             Vector2 r = new Vector2(a, 0); //Turn deviation into Vector2
             Vector2 rayVec = -firePoint.up + (transform.rotation * new Vector3(r.x, r.y, 0)); //Apply deviation
@@ -288,8 +303,22 @@ public class GunScript : MonoBehaviour
         else
         {
             Debug.Log("EMPTY");
+
+            if(!emptyText.activeSelf)
+            {
+                emptyText.SetActive(true);
+                StartCoroutine(emptWait());
+            }
+
+            
             //empt.Play();
         }
+    }
+
+    IEnumerator emptWait()
+    {
+        yield return new WaitForSeconds(.5f);
+        emptyText.SetActive(false);
     }
 
     IEnumerator ShotCoolDown()
@@ -301,6 +330,7 @@ public class GunScript : MonoBehaviour
 
     public void reload()
     {
+        emptyText.SetActive(false);
         /*Debug.Log("RELOAD");
         if (gm.ps.AMM != 0)
         {
@@ -339,6 +369,9 @@ public class GunScript : MonoBehaviour
             canShoot = false;
             Debug.Log("RELOAD");
             reloadVisual.SetActive(true);
+
+            relText.SetActive(true);
+
             StartCoroutine(Reloading(1));
             StartCoroutine(spinReload(1));
         }
@@ -405,6 +438,7 @@ public class GunScript : MonoBehaviour
                 //StopCoroutine(Reloading(6));
                 //skip = false;
                 reloadVisual.SetActive(false);
+                relText.SetActive(false);
                 yield break;
             }
             else
@@ -416,6 +450,7 @@ public class GunScript : MonoBehaviour
             }
         }
         reloadVisual.SetActive(false);
+        relText.SetActive(false);
     }
 
     private void buttonPicker()
@@ -426,16 +461,22 @@ public class GunScript : MonoBehaviour
         {
             buttonColor = "Red";
             spinG.GetComponent<SpriteRenderer>().color = Color.red;
+
+            relText.GetComponent<TextMeshPro>().text = "1";
         }
         else if (i == 1)
         {
             buttonColor = "Blue";
             spinG.GetComponent<SpriteRenderer>().color = Color.blue;
+
+            relText.GetComponent<TextMeshPro>().text = "2";
         }
         else if (i == 2)
         {
             buttonColor = "Pink";
             spinG.GetComponent<SpriteRenderer>().color = Color.magenta;
+
+            relText.GetComponent<TextMeshPro>().text = "3";
         }
     }
 

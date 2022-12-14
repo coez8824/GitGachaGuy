@@ -14,7 +14,7 @@ public class MenuScript : MonoBehaviour
     {
         notControls.SetActive(false);
         loading.SetActive(true);
-        SceneManager.LoadScene("Room1");
+        SceneManager.LoadScene("Tutorial");
     }
 
     public void quitGame()
