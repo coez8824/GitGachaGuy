@@ -150,7 +150,8 @@ MonoBehaviour:
   gun: Sniper
   num: 0
   door: {fileID: 0}
-  des: 'Sniper: Slow Fire, Big Dam'
+  exit: {fileID: 0}
+  des: 'Sniper: Slow Fire, Penetrates'
   scaling: 0
   aud: {fileID: 7696479239046572612}
 --- !u!50 &3846940105301522013

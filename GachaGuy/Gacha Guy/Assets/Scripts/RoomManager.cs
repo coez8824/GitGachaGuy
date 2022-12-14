@@ -304,15 +304,24 @@ public class RoomManager : MonoBehaviour
         exit2.sceneName = roomNames[j];
 
         int k=-1;
+
+        k = Random.Range(0, roomNames.Length - 1);
+
+        int z = -1;
+
         if (gm.roomNum > 5)
         {
-            k = Random.Range(0, roomNames.Length);
+            //k = Random.Range(0, roomNames.Length);
 
             //k = 9;
+
+            z = Random.Range(0, 3);
+            if (z == 2)
+                k = 9;
         }
         else
         {
-            k = Random.Range(0, roomNames.Length - 1);
+            //k = Random.Range(0, roomNames.Length - 1);
         }
         
 

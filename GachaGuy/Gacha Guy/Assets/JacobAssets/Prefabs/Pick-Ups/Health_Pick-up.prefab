@@ -151,7 +151,7 @@ MonoBehaviour:
   num: 100
   door: {fileID: 0}
   exit: {fileID: 0}
-  des: Heal For 25 HP
+  des: Heal For 100 HP
   scaling: 0
   aud: {fileID: 16287605857726737}
 --- !u!50 &3761293182862465130

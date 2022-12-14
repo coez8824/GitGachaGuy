@@ -16,6 +16,8 @@ public class PlayerVisual : MonoBehaviour
 
     public bool moving;
 
+    public bool num;
+
     private void Start()
     {
         gm = FindObjectOfType<GameManager>();
@@ -28,7 +30,15 @@ public class PlayerVisual : MonoBehaviour
         {
             target = null;
             anim = null;
-            transform.position = player.transform.position + new Vector3(0, 1, 0);
+
+            if (num)
+            {
+                transform.position = player.transform.position + new Vector3(0, 2, 0);
+            }
+            else
+            {
+                transform.position = player.transform.position + new Vector3(0, 1, 0);
+            }
         }
         else
         {

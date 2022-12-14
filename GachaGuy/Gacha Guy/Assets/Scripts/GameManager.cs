@@ -120,6 +120,7 @@ public class GameManager : MonoBehaviour
             loseTXT.SetActive(true);
         }
 
+        if(cl.playerInven.Find(x => x.id == 5).level != 0)
         thornsLevel = cl.playerInven.Find(x => x.id == 5).level;
 
         /*if(recharging)

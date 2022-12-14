@@ -151,7 +151,7 @@ MonoBehaviour:
   num: 100
   door: {fileID: 0}
   exit: {fileID: 0}
-  des: Get 25 Bullets
+  des: Get 100 Bullets
   scaling: 0
   aud: {fileID: 6961241843033226407}
 --- !u!50 &2241498628877445179
