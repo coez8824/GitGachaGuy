@@ -59,11 +59,11 @@ public class PhoneHandler : MonoBehaviour
         enemySlot.GetComponent<SpriteRenderer>().sprite = enemySpriteList[Random.Range(0, 3)];      //inital gacha enemy
         maxEnemHTH = 100;
         enemHTH = maxEnemHTH;      
-        enemSlider.GetComponent<Slider>().maxValue = maxEnemHTH;
     }
 
     void Update()
     {
+        enemSlider.GetComponent<Slider>().maxValue = maxEnemHTH;
         enemSlider.GetComponent<Slider>().value = enemHTH;      //gacha enemy health bar update
     }
 

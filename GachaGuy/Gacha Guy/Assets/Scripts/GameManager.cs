@@ -120,12 +120,12 @@ public class GameManager : MonoBehaviour
             loseTXT.SetActive(true);
         }
 
-        thornsLevel = cl.listChar[5].level;
+        thornsLevel = cl.playerInven.Find(x => x.id == 5).level;
 
         /*if(recharging)
             StartCoroutine(rechargeShield());*/
 
-        if(ps.aggro > 50)
+        if (ps.aggro > 50)
         {
             ps.aggroBonus = 1;
         }
@@ -281,7 +281,7 @@ public class GameManager : MonoBehaviour
 
     public void vampirismOnKill()
     {
-        vampirismLevel = cl.listChar[1].level;
+        vampirismLevel = cl.playerInven.Find(x => x.id == 1).level;
 
         if(ps.currHTH < ps.getHTH())
         {

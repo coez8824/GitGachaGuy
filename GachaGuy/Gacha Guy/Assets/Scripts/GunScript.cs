@@ -166,7 +166,7 @@ public class GunScript : MonoBehaviour
                     gm.vampirismOnKill();
                     gm.ps.aggro++;
                 }
-                if((ps.using1 == true && ps.gun1 == "Rifle") || (ps.using1 == true && ps.gun1 == "Pistol"))
+                if((ps.using1 == true && ((ps.gun1 == "Rifle") || (ps.gun1 == "Pistol"))) || (ps.using1 == false && ((ps.gun2 == "Pistol") || (ps.gun2 == "Rifle"))))
                 {
                     hitStop = true;
                 }
