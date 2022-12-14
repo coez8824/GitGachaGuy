@@ -279,17 +279,19 @@ public class GameManager : MonoBehaviour
 
     public void vampirismOnKill()
     {
-        vampirismLevel = cl.playerInven.Find(x => x.id == 1).level;
+        if (vampirismActive == true) {
+            vampirismLevel = cl.playerInven.Find(x => x.id == 1).level;
 
-        if(ps.currHTH < ps.getHTH())
-        {
-            if((ps.currHTH + (1 * vampirismLevel) > ps.getHTH()))
+            if (ps.currHTH < ps.getHTH())
             {
-                ps.currHTH = ps.getHTH();
-            }
-            else
-            {
-                ps.currHTH += (1 * vampirismLevel);
+                if ((ps.currHTH + (1 * vampirismLevel) > ps.getHTH()))
+                {
+                    ps.currHTH = ps.getHTH();
+                }
+                else
+                {
+                    ps.currHTH += (1 * vampirismLevel);
+                }
             }
         }
     }

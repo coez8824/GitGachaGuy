@@ -19,6 +19,7 @@ public class BoombaScript : MonoBehaviour
 
     //-
     private GameManager gm;
+    private PlayerStats ps;
     private bool caution; //Created so explosion doesn't accidentally go off twice
     public AudioSource ping;
     //-
@@ -28,6 +29,7 @@ public class BoombaScript : MonoBehaviour
     {
         //-
         gm = FindObjectOfType<GameManager>();
+        ps = FindObjectOfType<GameManager>().GetComponent<PlayerStats>();
         caution = false;
         //-
 
@@ -72,7 +74,7 @@ public class BoombaScript : MonoBehaviour
     public void playerShot()
     {
         caution = true;
-        gm.ps.WAL += (25 + (2 * Random.Range(0, gm.ps.LCK))); //Pays a base 25 cash + bonus based on luck
+        ps.WAL += (25 + (2 * Random.Range(0, ps.LCK))); //Pays a base 25 cash + bonus based on luck
 
         gm.track.robotsDestroyed++;
 

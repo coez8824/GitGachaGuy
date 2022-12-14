@@ -11,6 +11,7 @@ public class Collision : MonoBehaviour
 {
     //-
     private GameManager gm;
+    private PlayerStats ps;
     private Color orig;
     private SpriteRenderer sr;
     public AudioSource ting;//firing sound
@@ -36,6 +37,7 @@ public class Collision : MonoBehaviour
     {
         //-
         gm = FindObjectOfType<GameManager>();
+        ps = FindObjectOfType<GameManager>().GetComponent<PlayerStats>();
         sr = GetComponent<SpriteRenderer>();
         orig = sr.color;
 
@@ -101,7 +103,7 @@ public class Collision : MonoBehaviour
 
         //-
         //ping.Play();
-        gm.ps.WAL += (10 + (2 * Random.Range(0, (gm.ps.LCK + 1)))); //Pays a base 5 cash + bonus based on luck
+        ps.WAL += (10 + (2 * Random.Range(0, (ps.LCK + 1)))); //Pays a base 5 cash + bonus based on luck
 
         gm.track.robotsDestroyed++;
 

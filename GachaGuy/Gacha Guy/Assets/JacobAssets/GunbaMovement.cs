@@ -8,6 +8,7 @@ public class GunbaMovement : MonoBehaviour
 {
     //-
     private GameManager gm;
+    public PlayerStats ps;
     public AudioSource ping;
     //-
 
@@ -31,6 +32,7 @@ public class GunbaMovement : MonoBehaviour
         enemyAnimator = GetComponent<Animator>();
         //-
         gm = FindObjectOfType<GameManager>();
+        ps = FindObjectOfType<GameManager>().GetComponent<PlayerStats>();
         //-
 
         //Physics2D.IgnoreLayerCollision(6, 7, true);
@@ -64,7 +66,7 @@ public class GunbaMovement : MonoBehaviour
         if (health <= 0)
         {
             ping.Play();
-            gm.ps.WAL += (5 + (2 * Random.Range(0, (gm.ps.LCK + 1)))); //Pays a base 1 cash + bonus based on luck
+            ps.WAL += (5 + (2 * Random.Range(0, (ps.LCK + 1)))); //Pays a base 1 cash + bonus based on luck
 
             gm.track.robotsDestroyed++;
 
