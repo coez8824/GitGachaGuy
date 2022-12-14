@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 8479230417530703497}
   - component: {fileID: 2093440388911102715}
   - component: {fileID: 1031827799697443636}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: MeleeAttack
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -104,7 +104,7 @@ GameObject:
   - component: {fileID: 5103309688858789391}
   - component: {fileID: 2047626705452959238}
   - component: {fileID: 1853812276126250039}
-  m_Layer: 6
+  m_Layer: 9
   m_Name: Melee Enemy
   m_TagString: Melee
   m_Icon: {fileID: 0}
