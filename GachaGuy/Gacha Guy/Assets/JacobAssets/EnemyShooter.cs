@@ -9,6 +9,8 @@ public class EnemyShooter : MonoBehaviour
     public bool gunba;
     //-
 
+    //pray to jeebus
+
     public AudioSource bang;
 
     // Start is called before the first frame update
